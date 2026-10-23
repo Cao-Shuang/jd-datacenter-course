@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 520" role="img" aria-labelledby="title desc">
+<title id="title">容量冗余与路径冗余</title><desc id="desc">三台电源单元共用输出柜时，公共柜仍是单点；两条独立路径各自到达双电源负载才能处理规定的单路退出。</desc>
+<defs><marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0L10 5L0 10" fill="#497568"/></marker></defs>
+<rect width="960" height="520" rx="18" fill="#f5f4ef"/>
+<g font-family="Microsoft YaHei,Arial,sans-serif" fill="#203c36">
+<text x="30" y="42" font-size="25" font-weight="700">容量够用，未必还有路可走</text>
+<text x="30" y="75" font-size="18">教学情境 · 每台 300 kW，负载 600 kW</text>
+<g fill="#e3ede6" stroke="#497568" stroke-width="2">
+<rect x="35" y="110" width="190" height="48" rx="8"/><rect x="35" y="172" width="190" height="48" rx="8"/><rect x="35" y="234" width="190" height="48" rx="8"/>
+<rect x="375" y="161" width="220" height="70" rx="8" fill="#f4dfcb" stroke="#a76d36"/><rect x="750" y="161" width="180" height="70" rx="8"/>
+</g>
+<g font-size="21" text-anchor="middle"><text x="130" y="142">电源单元 1</text><text x="130" y="204">电源单元 2</text><text x="130" y="266">电源单元 3</text><text x="485" y="190">公共输出柜</text><text x="485" y="216" font-size="17">退出 → 全部断路</text><text x="840" y="203">600 kW 负载</text></g>
+<g fill="none" stroke="#497568" stroke-width="3" marker-end="url(#a)"><path d="M225 134H300V196H375"/><path d="M225 196H375"/><path d="M225 258H300V196H375"/><path d="M595 196H750"/></g>
+<text x="35" y="315" font-size="18">去掉一台：剩余 600 kW；去掉公共柜：可达能力为 0。</text>
+<path d="M30 336H930" stroke="#ccd7ce"/>
+<g fill="#e3ede6" stroke="#497568" stroke-width="2"><rect x="35" y="360" width="215" height="48" rx="8"/><rect x="35" y="438" width="215" height="48" rx="8"/><rect x="385" y="360" width="190" height="48" rx="8"/><rect x="385" y="438" width="190" height="48" rx="8"/><rect x="750" y="392" width="180" height="70" rx="8"/></g>
+<g font-size="20" text-anchor="middle"><text x="142" y="391">A 电源：600 kW</text><text x="142" y="469">B 电源：600 kW</text><text x="480" y="391">独立路径 A</text><text x="480" y="469">独立路径 B</text><text x="840" y="420">双电源负载</text><text x="840" y="447">600 kW</text></g>
+<g fill="none" stroke="#497568" stroke-width="3" marker-end="url(#a)"><path d="M250 384H385"/><path d="M250 462H385"/><path d="M575 384H680V410H750"/><path d="M575 462H680V445H750"/></g>
+</g></svg>

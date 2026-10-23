@@ -1,0 +1,454 @@
+.original-prose{font-family:"Noto Serif SC","Songti SC",SimSun,serif;font-size:18px;line-height:2;color:var(--ink,#252b23);overflow-wrap:anywhere}.original-prose p{margin:1em 0;text-indent:2em}.original-prose h1,.original-prose h2,.original-prose h3,.original-prose h4{font-family:inherit;line-height:1.6;margin:1.5em 0 .7em}.original-prose h1{font-size:1.7em}.original-prose h2{font-size:1.35em}.original-prose h3{font-size:1.15em}.original-prose h4{font-size:1em}.original-running-head{display:flex;justify-content:space-between;gap:20px;border-bottom:1px solid #d9ddce;color:#75806d;font-size:13px;padding:10px 0;margin-bottom:30px}.original-prose figure{margin:32px 0;text-align:center}.original-prose figure img{max-width:100%;height:auto;display:inline-block}.original-prose figcaption{font-size:15px;line-height:1.8;margin:12px 0}.original-prose table{border-collapse:collapse;width:100%;margin:24px 0;font-size:15px;line-height:1.8}.original-prose th,.original-prose td{border:1px solid #9fa997;padding:10px 12px;vertical-align:top}.original-prose caption{font-weight:bold;line-height:1.8;padding:10px}.original-prose .original-metadata{font-size:16px}.original-prose .original-metadata td{border:0;padding:8px}.original-prose sub,.original-prose sup{font-size:.72em;line-height:0}.original-prose math[display=block]{display:block;overflow-x:auto;padding:12px 0;margin:16px 0}.original-navigation{display:flex;gap:16px;align-items:center;justify-content:space-between;flex-wrap:wrap;margin:25px 0;padding:15px 0;border-block:1px solid #d9ddce;font:14px/1.8 system-ui,sans-serif}.original-navigation a{color:#b13f30}.original-editorial{font:13px/1.9 system-ui,sans-serif;color:#74806b}.original-pending{padding:25px;background:#f2f1e8;text-indent:0!important;font-family:system-ui,sans-serif}.original-standalone{max-width:900px;margin:0 auto;padding:30px 24px;background:#f8f7f3}.original-page-index{display:grid;grid-template-columns:repeat(auto-fill,minmax(130px,1fr));gap:10px;margin:25px 0}.original-page-index a{border:1px solid var(--line,#d9ddce);padding:12px;font-size:13px;line-height:1.8}.original-page-index a small{display:block;color:var(--muted,#74806b)}.original-page-index .ready{border-left:3px solid #587b55}.original-toc-row{display:grid;grid-template-columns:1fr auto;gap:15px;align-items:baseline}.original-toc-row>span:first-child:after{content:'';display:inline-block;border-bottom:1px dotted #bdc4b6;min-width:20px}.original-prose .original-toc-row{text-indent:0;margin:.25em 0}.original-prose .original-toc-row.child{padding-left:1.5em}@media(max-width:600px){.original-prose{font-size:17px;line-height:2}.original-prose table{font-size:13px}.original-prose td,.original-prose th{padding:7px}.original-standalone{padding:20px 16px}.original-prose .original-metadata{font-size:13px}.original-prose .original-metadata td{overflow-wrap:anywhere}}@media print{.original-navigation,.original-editorial{display:none}.original-standalone{background:white;padding:0}.original-prose{color:black}figure,table{break-inside:avoid}}
+.original-chapter-head,.book-reader-tools,.book-chapter-contents,.book-chapter-pages,.book-end{max-width:960px;margin-left:auto;margin-right:auto}.book-reader-tools{position:sticky;top:77px;z-index:20;display:flex;align-items:center;gap:20px;padding:12px 16px;background:#f8f7f3f5;border-block:1px solid #d9ddce;backdrop-filter:blur(10px);font:12px/1.5 system-ui,sans-serif}.book-reader-tools button,.book-reader-tools select{font:inherit;cursor:pointer}.book-reader-tools>button{margin-left:auto}.book-reader-tools select{padding:4px 10px;border:1px solid #c8ccbf;background:white;color:#30362b;border-radius:3px}.book-layout-switch{display:flex;gap:3px}.book-layout-switch button{padding:7px 12px;border:0;border-radius:3px;color:#6d7467;background:transparent}.book-layout-switch button[aria-pressed=true]{color:#fff;background:#37432e}.book-chapter-contents{padding:17px 4px;font:13px/1.8 system-ui,sans-serif;color:#5d6655}.book-chapter-contents summary{cursor:pointer}.book-chapter-contents nav{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:8px 24px;padding:16px 0}.book-page-shell{container-type:inline-size;margin:18px 0 38px;scroll-margin-top:150px}.book-page-meta{display:flex;justify-content:space-between;align-items:center;color:#777f70;font:11px/1.8 system-ui,sans-serif;margin-bottom:9px;padding:0 3px}.book-pdf-number{color:#969d8e}.book-paper{background:#fff;color:#282828;box-shadow:0 2px 10px #2f392010;border:1px solid #e8e8e2;padding:3.5% 6.5% 6%;box-sizing:border-box;aspect-ratio:1992/2752;min-width:0}.book-faithful{font-family:"SimSun","Songti SC","Noto Serif SC",serif;font-size:clamp(17px,2.12cqw,20px);line-height:1.62;text-align:justify;overflow-wrap:break-word;word-break:normal}.book-faithful p{margin:0;text-indent:2em}.book-faithful .book-continuation{text-indent:0}.book-running-head{display:flex;align-items:center;gap:.8em;font:inherit;font-size:.87em;color:#828282;margin:0 -1% 2.6em;text-align:left}.book-running-head.odd{justify-content:flex-end}.book-head-ornament{display:inline-block;width:.65em;height:.65em;background:conic-gradient(#aaa 0 25%,transparent 0 50%,#aaa 0 75%,transparent 0);background-size:.35em .35em;transform:rotate(45deg);opacity:.7}.book-faithful h2{font-family:"SimSun","Songti SC",serif;font-size:1.32em;font-weight:bold;line-height:1.5;margin:1.8em 0 1.1em}.book-faithful h3{font-family:"Microsoft YaHei","PingFang SC",sans-serif;font-size:1.12em;font-weight:400;line-height:1.5;margin:1.1em 0 .4em}.book-faithful .book-running-head+h3{margin-top:0}.book-faithful .book-list{list-style:none;margin:0;padding:0 0 0 3.35em}.book-faithful .book-list li{position:relative;margin:0;padding:0;text-align:justify}.book-faithful .book-list li:before{content:'□';position:absolute;left:-1.45em;font-family:serif;font-size:1.1em;line-height:1.4;text-shadow:1px 1px #5556}.book-faithful .book-chapter-opening{height:51cqw;max-height:490px;padding-top:19cqw;padding-right:12%;position:relative;box-sizing:border-box;text-align:right}.book-chapter-opening:before{content:'';position:absolute;right:-7%;top:0;width:22%;height:25cqw;max-height:240px;border-left:2px dotted #dfdfdf;border-bottom:2px dotted #dfdfdf;pointer-events:none}.book-faithful .book-chapter-number{position:relative;font-family:"Microsoft YaHei",sans-serif;font-size:1.1em;text-indent:0;margin:0;white-space:nowrap}.book-chapter-number i{font-family:"Brush Script MT",cursive;font-size:1.05em;font-weight:400;margin-left:.65em}.book-faithful .book-chapter-opening h1{font-family:"Microsoft YaHei","PingFang SC",sans-serif;font-size:1.75em;font-weight:400;margin:.7em 0 0;line-height:1.4}.book-faithful .book-table{width:100%;table-layout:fixed;border-collapse:collapse;margin:.7em 0 1em;font:inherit;font-size:.79em;line-height:1.45;color:inherit;text-align:center;border-top:2px solid #777;border-bottom:2px solid #777}.book-faithful .book-table caption{font-family:"Microsoft YaHei",sans-serif;font-size:1em;font-weight:400;padding:0 0 .5em;color:inherit}.book-faithful .book-table th,.book-faithful .book-table td{font-weight:400;vertical-align:middle;border:1px solid #999;padding:.24em .42em;background:none}.book-faithful .book-table th:first-child,.book-faithful .book-table td:first-child{border-left:0}.book-faithful .book-table th:last-child,.book-faithful .book-table td:last-child{border-right:0}.book-faithful .book-table th[scope=row]{text-align:left}.book-faithful .book-table thead th{font-family:"Microsoft YaHei",sans-serif}.book-faithful .book-table .book-table-section{padding:.4em;text-align:center}.book-tier-table .tier-label{width:28%}.book-site-table .site-label{width:24.5%}.book-site-table .site-note{width:21.5%}.book-faithful .book-site-table td:last-child{text-align:left;text-indent:1em}.book-faithful .book-site-table tbody td{padding-top:.45em;padding-bottom:.45em}.book-structure-table .structure-label{width:37.3%}.book-structure-table .structure-note{width:19.5%}.book-faithful .book-structure-table td:last-child{text-align:left}.book-faithful .book-structure-table tr:last-child td:last-child{height:1.5em}.book-load-values{display:flex;align-items:center;justify-content:center;gap:.5em;white-space:nowrap}.book-faithful .book-formula{text-indent:0;text-align:center;margin:.15em 0;font-family:"Times New Roman",serif}.book-faithful .book-symbol-line{text-indent:-2.7em;margin:0 0 0 7.7em}.book-faithful .book-symbol-line.first{margin-left:2em;text-indent:0;display:flex;gap:.2em}.book-faithful .book-symbol-line.first>span:first-child{white-space:nowrap}.book-faithful .book-symbol-line.first>span:last-child{flex:1}.book-faithful .book-conclusion{margin-top:1em}.book-faithful .book-conclusion strong{font-family:"Microsoft YaHei",sans-serif;font-weight:500}.book-faithful [id]{scroll-margin-top:165px}.book-table-scroll{overflow-x:auto;margin:.6em 0}.book-table-scroll:focus-visible{outline:2px solid #4f6744;outline-offset:3px}.book-flow .book-paper{aspect-ratio:auto;font-family:"Noto Serif SC","Songti SC",SimSun,serif;font-size:19px;line-height:2}.book-flow .book-chapter-opening{height:auto;max-height:none;padding:1.5em 0 2em}.book-flow .book-chapter-opening:before{display:none}.book-flow .book-faithful p{margin:.7em 0}.book-flow .book-list li{margin:.45em 0}.book-flow .book-faithful .book-table{font-size:.86em}.book-flow .book-faithful .book-symbol-line{margin-top:0;margin-bottom:0}.book-end{padding:18px 0 0;text-align:center}.original-standalone:has(.book-paper){max-width:960px;container-type:inline-size}.original-standalone .book-paper{min-height:138.15cqw}.original-chapter-head .chapter-learning-tabs{overflow-x:auto;white-space:nowrap}.original-chapter-head .page-intro{margin-bottom:20px}
+@media(max-width:1000px){.book-faithful{font-size:17px}.book-paper{padding-inline:5%}.book-faithful .book-table{font-size:14px}.book-load-values{white-space:normal}.book-faithful .book-chapter-opening{height:43cqw}}
+@media(max-width:700px){.book-reader-tools{top:62px;padding:9px 5px;gap:11px;font-size:11px}.book-layout-switch button{padding:6px 9px}.book-chapter-contents nav{grid-template-columns:1fr}.book-paper{padding:20px 16px 30px;aspect-ratio:auto}.book-faithful{font-size:17px;line-height:1.9}.book-faithful .book-chapter-opening{height:64cqw;max-height:290px;padding-top:17cqw;padding-right:0}.book-faithful .book-chapter-opening h1{font-size:1.55em}.book-chapter-opening:before{right:-3%;height:28cqw}.book-faithful .book-list{padding-left:2em}.book-faithful .book-table{min-width:610px;font-size:14px;line-height:1.6}.book-running-head{font-size:12px;margin-bottom:24px;gap:.65em}.book-faithful h2{font-size:1.2em;margin-top:1.6em}.book-faithful h3{font-size:1.03em}.book-faithful .book-symbol-line{margin-left:3em;text-indent:-2.7em}.book-faithful .book-symbol-line.first{margin-left:0}.book-flow .book-paper{font-size:18px}.book-flow .book-chapter-opening{height:auto;padding:1em 0 1.5em}.original-standalone .book-paper{min-height:0;overflow-x:auto}.book-page-shell{scroll-margin-top:130px}.book-reader-tools>button{font-size:10px}}
+@media print{body:has(#original-chapter-body){background:#fff}.sidebar,.topbar,body:has(#original-chapter-body) footer:not(.book-footnote),.original-chapter-head,.book-reader-tools,.book-chapter-contents,.book-page-meta,.book-end{display:none!important}body:has(#original-chapter-body) .shell{margin:0}body:has(#original-chapter-body) main{padding:0;margin:0;max-width:none}.book-chapter-pages{max-width:none}.book-page-shell{break-after:page;margin:0;container-type:inline-size}.book-page-shell:last-child{break-after:auto}.book-paper,.book-flow .book-paper{box-shadow:none;border:0;aspect-ratio:auto;padding:0;font:10.5pt/1.6 SimSun,serif}.book-running-head{margin-bottom:1.6em}.book-faithful .book-chapter-opening{height:36vh;padding-top:13vh;max-height:none}.book-table-scroll{overflow:visible}.book-faithful .book-table{min-width:0;font-size:8pt;break-inside:avoid}.book-faithful .book-list li{margin:0}.book-faithful p{margin:0}.book-faithful h2{margin:1em 0 .5em}.book-faithful h3{margin:.8em 0 .4em}.book-faithful .book-table td,.book-faithful .book-table th{padding:.16em .3em}.book-flow .book-faithful p{margin:0}}
+
+/* Chapter 2: native tables and formulas, original diagram crops. */
+.book-faithful .book-opening-left{text-align:left;padding-left:12%;padding-right:0}
+.book-opening-left:before{left:-7%;right:auto;border-left:0;border-right:2px dotted #dfdfdf}
+.book-opening-left .book-chapter-number i{margin-left:0;margin-right:.65em}
+.book-faithful h4,.book-faithful h5{font:500 1em/1.62 "Microsoft YaHei","PingFang SC",sans-serif;margin:.6em 0 .2em;text-indent:2em}
+.book-faithful .book-table-continuation{text-align:right;text-indent:0;font:inherit;font-size:.8em;margin:0 0 .3em}
+.book-faithful .book-table-note{font-size:.81em;line-height:1.65;margin:.3em 0 .65em}
+.book-faithful .book-footnote{display:block;position:static;margin:2em 0 0;padding:.65em 0 0;border:0;border-top:1px solid #999;text-align:left;font:inherit;font-size:.8em;line-height:1.6;color:inherit;background:none}
+.book-faithful .book-list-continuation{padding-left:3.35em;text-indent:0}
+.book-faithful .book-harmonic-table tr:first-child th:first-child{width:9.5%}
+.book-faithful .book-harmonic-table tr:first-child th:nth-child(2){width:15.5%}
+.book-faithful .book-harmonic-table td,.book-faithful .book-harmonic-table th{padding:.28em .08em}
+.book-faithful .book-measures-table th:first-child{width:21%}
+.book-faithful .book-measures-table td:last-child{text-align:left}
+.book-faithful .book-grade-table td{text-align:left}
+.book-faithful .book-grade-table thead tr:first-child th:first-child{width:19%}
+.book-faithful .book-grade-table thead tr:first-child th:nth-child(2){width:58%}
+.book-faithful .book-grade-table thead tr:first-child th:last-child{width:23%}
+.book-wiring-table .wiring-kind{width:11%}.book-wiring-table .wiring-diagram{width:36%}.book-wiring-table .wiring-description{width:29%}
+.book-network-table .network-kind{width:8.5%}.book-network-table .network-diagram{width:34%}.book-network-table .network-use{width:24.5%}
+.book-faithful .book-wiring-table td,.book-faithful .book-network-table td{text-align:left;line-height:1.65}
+.book-faithful figure{margin:1em auto .7em;text-align:center;break-inside:avoid}
+.book-faithful figure img{display:block;width:100%;max-width:100%;height:auto}
+.book-faithful figcaption{font:inherit;font-size:.79em;line-height:1.5;text-align:center;margin:.65em -.5em 0}
+.book-faithful .book-table figure{width:100%;margin:0}
+.book-faithful .book-figure-right{float:right;margin:.5em 0 .8em 1.25em}
+.book-paper:after{content:'';display:block;clear:both}
+.book-faithful h2,.book-faithful h3,.book-faithful .book-table,.book-faithful .book-table-scroll{clear:both}
+.book-chapter-2 .book-symbol-line{margin:0;padding-left:5em;text-indent:-3em}
+.book-faithful .book-figure-p28-0{width:59.19%}
+.book-faithful .book-figure-p28-1{width:56.05%}
+.book-faithful .book-figure-p29-0{width:69.24%}
+.book-faithful .book-figure-p29-1{width:68.66%}
+.book-faithful .book-figure-p30-0{width:36.98%}
+.book-faithful .book-figure-p34-0{width:69.77%}
+.book-faithful .book-figure-p35-0{width:76.80%}
+.book-faithful .book-figure-p37-0{width:64.65%}
+.book-faithful .book-figure-p37-1{width:69.19%}
+.book-faithful .book-figure-p38-0{width:56.98%}
+.book-faithful .book-figure-p40-0{width:31.86%}
+.book-faithful .book-figure-p42-0{width:68.14%}
+.book-faithful .book-figure-p43-0{width:69.42%}
+.book-faithful .book-figure-p51-0{width:61.28%}
+.book-faithful .book-figure-p52-0{width:83.95%}
+.book-faithful .book-figure-p52-1{width:45.70%}
+.book-faithful .book-figure-p54-0{width:61.51%}
+.book-faithful .book-figure-p55-0{width:73.66%}
+.book-faithful .book-figure-p55-1{width:59.07%}
+.book-faithful .book-figure-p56-0{width:73.02%}
+.book-faithful .book-figure-p57-0{width:63.37%}
+.book-faithful .book-figure-p63-0{width:82.97%}
+@media(max-width:700px){
+ .book-faithful .book-opening-left{padding-left:0}
+ .book-opening-left:before{left:-3%}
+ .book-faithful .book-list-continuation{padding-left:2em}
+ .book-faithful figure[class]{float:none;width:100%;margin:1.1em auto}
+ .book-faithful .book-table figure[class]{margin:0}
+ .book-chapter-2 .book-symbol-line{padding-left:3em;text-indent:-3em}
+}
+@media print{
+ .book-faithful figure{margin:.6em auto}
+ .book-faithful .book-footnote{display:block!important}
+ .book-faithful .book-figure-right{float:right;margin:.5em 0 .5em 1em}
+ .book-faithful .book-opening-left{padding-left:12%;padding-right:0}
+}
+
+/* A paper may grow when browser line wrapping needs more room. */
+.book-paper{aspect-ratio:auto;min-height:138.15cqw;display:flow-root}
+.book-flow .book-paper{min-height:0}
+.book-faithful .book-table .book-figure-p31-0{width:65.89%;margin-inline:auto}
+.book-faithful .book-table .book-figure-p31-1{width:93.67%;margin-inline:auto}
+.book-faithful .book-table .book-figure-p31-2{width:89.15%;margin-inline:auto}
+.book-faithful .book-table .book-figure-p31-3{width:93.18%;margin-inline:auto}
+.book-faithful .book-table .book-figure-p32-0{width:95.59%;margin-inline:auto}
+.book-faithful .book-table .book-figure-p32-1{width:86.53%;margin-inline:auto}
+.book-faithful .book-table .book-figure-p32-2{width:94.22%;margin-inline:auto}
+.book-faithful .book-table .book-figure-p32-3{width:94.05%;margin-inline:auto}
+.book-faithful .book-table .book-figure-p33-0{width:84.99%;margin-inline:auto}
+.book-faithful .book-table .book-figure-p33-1{width:96.79%;margin-inline:auto}
+
+@media(max-width:700px){.book-paper,.original-standalone .book-paper{min-height:0}}
+@media print{.book-paper,.original-standalone .book-paper{min-height:0}}
+.reader-layout:has(#original-body.book-paper)>article{container-type:inline-size}
+
+/* Chapter 3: nested lists, formula tables, native figure annotations. */
+.book-faithful .book-sublist{list-style:none;padding-left:1.5em;margin:0}
+.book-faithful .book-sublist>li:before,.book-faithful .book-circle-list>li:before{content:'○';text-shadow:none}
+.book-faithful .book-nested-list{padding-left:4.85em}
+.book-chapter-3 .book-equation{text-align:center;text-indent:0;margin:.2em 0;font-family:"Times New Roman",SimSun,serif}
+.book-chapter-3 .book-noindent{text-indent:0}
+.book-chapter-3 .book-symbol-line{margin:0;padding-left:5em;text-indent:-3em}
+.book-chapter-3 math[display=block]{display:block math;font-size:.95em;margin:.35em 0;padding:.25em 0;max-width:100%}
+.book-chapter-3 .book-formula-table td{text-align:left}
+.book-chapter-3 .book-formula-table th:first-child{width:33.3%}
+.book-chapter-3 .book-nonlinear-table tr:first-child td:first-child{width:44%}
+.book-chapter-3 .book-load-power-table th:nth-child(3){width:37%}
+.book-chapter-3 .book-load-power-table tr:last-child td:nth-child(3){text-align:left}
+.book-chapter-3 .book-temperature-table th:nth-child(3),.book-chapter-3 .book-temperature-table td:nth-child(3){border-left:3px double #999}
+.book-chapter-3 .book-battery-power-table tr:first-child th:first-child{width:19.5%}
+.book-faithful .book-panel-figure{width:100%}
+.book-faithful .book-figure-panel{margin:0;border:1px solid #999}
+.book-faithful .book-figure-panel td{padding:.35em .5em;text-align:left;border:1px solid #999}
+.book-faithful .book-figure-panel td:first-child{border-left:1px solid #999}
+.book-faithful .book-figure-panel td:last-child{border-right:1px solid #999}
+.book-faithful .book-figure-panel p{margin:0;text-indent:2em}
+.book-faithful .book-nonlinear-panel td{width:50%;vertical-align:top}
+.book-faithful .book-spectrum-panel td:first-child{width:56%}
+.book-faithful .book-spectrum-panel td:last-child{padding-left:13.5%}
+.book-faithful .book-spectrum-panel p,.book-faithful .book-ups-example-panel p{text-indent:0}
+.book-faithful .book-panel-space{padding-top:1.7em}
+.book-faithful .book-ups-example-panel td:first-child{width:14%;text-align:center}
+.book-faithful .book-ups-example-panel td:nth-child(2){width:49%}
+.book-faithful .book-figure-table-right{float:right;width:45%;margin:.4em 0 .6em 1.2em}
+.book-faithful .book-availability-table{margin:0;min-width:0}
+.book-faithful .book-availability-table th,.book-faithful .book-availability-table td{border:1px solid #999;padding:.28em .2em}
+.book-chapter-3 .book-availability-table tr>:first-child{border-left:1px solid #999}
+.book-chapter-3 .book-availability-table tr>:last-child{border-right:1px solid #999}
+.book-faithful .book-figure-half-left{float:left;margin:2.7em 0 .8em}
+.book-faithful .book-figure-half-right{float:right;margin:.2em 0 .8em}
+.book-faithful .book-clear{clear:both}
+.book-chapter-3 .book-panel-figure .book-table-scroll{margin:0}
+.book-chapter-3 #ch3-s3,.book-chapter-3 #ch3-s3-1{clear:none}
+.book-faithful .book-figure-ch3-p69-0{width:54.36%}
+.book-faithful .book-figure-ch3-p70-0{width:55.52%}
+.book-faithful .book-figure-ch3-p71-0{width:61.51%}
+.book-faithful .book-figure-ch3-p73-0{width:58.84%}
+.book-faithful .book-figure-ch3-p74-0{width:63.20%}
+.book-faithful .book-figure-ch3-p74-1{width:63.37%}
+.book-faithful .book-figure-ch3-p75-0{width:61.86%}
+.book-faithful .book-figure-ch3-p84-0{width:97.85%}
+.book-faithful .book-figure-ch3-p88-0{width:51.05%}
+.book-faithful .book-figure-ch3-p90-0{width:62.50%}
+.book-faithful .book-figure-ch3-p90-1{width:27.09%}
+.book-faithful .book-figure-ch3-p91-0{width:65.58%}
+.book-faithful .book-figure-ch3-p91-1{width:62.79%}
+.book-faithful .book-figure-ch3-p92-0{width:53.72%}
+.book-faithful .book-figure-ch3-p92-1{width:59.88%}
+.book-faithful .book-figure-ch3-p93-0{width:69.13%}
+.book-faithful .book-figure-ch3-p93-1{width:41.28%}
+.book-faithful .book-figure-ch3-p94-0{width:61.69%}
+.book-faithful .book-figure-ch3-p94-1{width:52.62%}
+.book-faithful .book-figure-ch3-p95-0{width:88.55%}
+.book-faithful .book-figure-ch3-p95-1{width:38.72%}
+.book-faithful .book-figure-ch3-p96-0{width:48.14%}
+.book-faithful .book-figure-ch3-p96-1{width:41.63%}
+.book-faithful .book-figure-ch3-p101-0{width:76.10%}
+.book-faithful .book-figure-ch3-p102-0{width:72.15%}
+.book-faithful .book-figure-ch3-p103-0{width:76.34%}
+.book-faithful .book-figure-ch3-p104-0{width:56.22%}
+.book-faithful .book-figure-ch3-p105-0{width:70.35%}
+.book-faithful .book-figure-ch3-p107-0{width:67.91%}
+.book-faithful .book-figure-ch3-p109-0{width:44.01%}
+.book-faithful .book-figure-ch3-p109-1{width:47.73%}
+.book-faithful .book-figure-ch3-p109-2{width:68.43%}
+@media(max-width:700px){
+ .book-chapter-3 .book-symbol-line{padding-left:3em;text-indent:-3em}
+ .book-chapter-3 .book-nested-list{padding-left:3.5em}
+ .book-chapter-3 figure[class]{float:none;width:100%;margin:1.1em auto}
+ .book-chapter-3 .book-figure-panel{min-width:680px}
+ .book-chapter-3 .book-availability-table{min-width:0}
+ .book-chapter-3 .book-figure-table-right .book-table-scroll{margin:0}
+}
+@media print{
+ .book-chapter-3 .book-figure-panel{min-width:0}
+ .book-chapter-3 math[display=block]{overflow:visible;font-size:.9em}
+ .book-chapter-3 .book-figure-table-right{float:right;width:45%}
+}
+
+/* Chapter 4: air-treatment diagrams, environmental tables and paired figures. */
+.book-chapter-4 math[display=block]{display:block math;font-size:.95em;margin:.35em 0;padding:.25em 0;max-width:100%}
+.book-chapter-4 .book-symbol-line{margin:0;padding-left:5em;text-indent:-3em}
+.book-chapter-4 .book-symbol-cont{margin:0;padding-left:5em;text-indent:0}
+.book-chapter-4 .book-float-right{float:right;margin:.3em 0 .65em 1.15em}
+.book-chapter-4 .book-half-left{float:left;margin:.7em 0 1em}
+.book-chapter-4 .book-half-right{float:right;margin:.7em 0 1em}
+.book-chapter-4 .book-clear{clear:both}
+.book-chapter-4 [id="ch4-s1-3"]{clear:none}
+.book-chapter-4 #ch4-table-1 th:first-child{width:8%}
+.book-chapter-4 #ch4-table-1 thead tr:last-child th:nth-child(2){width:23%}
+.book-chapter-4 #ch4-table-1{table-layout:auto}
+.book-chapter-4 #ch4-table-1 td:nth-child(3){white-space:nowrap;font-size:.93em}
+.book-chapter-4 #ch4-table-2 thead th:first-child{width:31%}
+.book-chapter-4 #ch4-table-2 thead th:last-child{width:20%}
+.book-chapter-4 #ch4-table-2 td:first-child,.book-chapter-4 #ch4-table-2 td[rowspan]{text-align:left}
+.book-chapter-4 .book-diagonal-cell{position:relative;height:4.8em;width:26%;background:none}
+.book-chapter-4 .book-diagonal-cell:before,.book-chapter-4 .book-diagonal-cell:after{content:'';position:absolute;left:0;top:0;width:100%;height:100%;background:linear-gradient(to top right,transparent 49.5%,#999 49.8%,#999 50.2%,transparent 50.5%);pointer-events:none}
+.book-chapter-4 .book-diagonal-cell:after{width:27%}
+.book-diagonal-top{position:absolute;right:.6em;top:.3em}
+.book-diagonal-middle{position:absolute;left:28%;bottom:.3em}
+.book-diagonal-bottom{position:absolute;left:.5em;bottom:.3em}
+.book-chapter-4 #ch4-table-3 th:nth-child(4),.book-chapter-4 #ch4-table-3 td:nth-child(4){border-left:3px double #999}
+.book-chapter-4 .book-figure-ch4-1{width:44.99%}
+.book-chapter-4 .book-figure-ch4-2{width:48.00%}
+.book-chapter-4 .book-figure-ch4-3{width:48.00%}
+.book-chapter-4 .book-figure-ch4-4{width:48.40%}
+.book-chapter-4 .book-figure-ch4-5{width:33.92%}
+.book-chapter-4 .book-figure-ch4-6{width:44.46%}
+.book-chapter-4 .book-figure-ch4-7{width:59.35%}
+.book-chapter-4 .book-figure-ch4-8{width:63.71%}
+.book-chapter-4 .book-figure-ch4-9{width:77.78%}
+.book-chapter-4 .book-figure-ch4-10{width:97.74%}
+.book-chapter-4 .book-figure-ch4-11{width:42.75%}
+.book-chapter-4 .book-figure-ch4-12{width:71.01%}
+.book-chapter-4 .book-figure-ch4-13{width:31.97%}
+.book-chapter-4 .book-figure-ch4-14{width:40.16%}
+.book-chapter-4 .book-figure-ch4-15{width:46.81%}
+.book-chapter-4 .book-figure-ch4-16{width:32.50%}
+.book-chapter-4 .book-figure-ch4-17{width:36.21%}
+.book-chapter-4 .book-figure-ch4-18{width:26.38%}
+.book-chapter-4 .book-figure-ch4-19{width:29.50%}
+.book-chapter-4 .book-figure-ch4-20{width:36.21%}
+.book-chapter-4 .book-figure-ch4-21{width:71.72%}
+.book-chapter-4 .book-figure-ch4-22{width:34.39%}
+.book-chapter-4 .book-figure-ch4-23{width:77.72%}
+.book-chapter-4 .book-figure-ch4-24{width:77.55%}
+.book-chapter-4 .book-figure-ch4-25{width:49.81%}
+.book-chapter-4 .book-figure-ch4-26{width:45.93%}
+
+.book-chapter-4 .book-figure-ch4-16{margin-top:4.5em;margin-right:2%}
+.book-chapter-4 .book-figure-ch4-18{margin-top:2.7em;margin-right:12%}
+.book-chapter-4 .book-figure-ch4-17{margin-left:10%}
+.book-flow .book-chapter-4 .book-symbol-cont{margin-top:0;margin-bottom:0}
+@media(max-width:700px){
+ .book-chapter-4 .book-symbol-line{padding-left:3em;text-indent:-3em;margin-left:0}
+ .book-chapter-4 .book-symbol-cont{padding-left:3em;text-indent:0;margin-left:0}
+ .book-chapter-4 figure[class]{float:none;width:100%;margin:1.1em auto}
+ .book-chapter-4 #ch4-table-1{min-width:850px}
+ .book-chapter-4 #ch4-table-2{min-width:670px}
+}
+@media print{
+ .book-chapter-4 math[display=block]{overflow:visible}
+ .book-chapter-4 .book-table{min-width:0}
+}
+
+/* Chapters 5–10: original figure proportions and native technical tables. */
+
+.original-chapter-index{display:flex;flex-wrap:wrap;gap:10px;margin:20px 0}
+.book-faithful math[display=block]{display:block math;max-width:100%;margin:.35em 0;padding:.25em 0;font-size:.95em}
+.book-faithful .book-float-right{float:right;margin:.3em 0 .65em 1.15em}
+.book-faithful .book-half-left{float:left;margin:.7em 0 1em}
+.book-faithful .book-half-right{float:right;margin:.7em 0 1em}
+.book-faithful .book-clear{clear:both}
+.book-faithful .book-symbol-cont{padding-left:5em;text-indent:0;margin:0}
+.book-chapter-6 .book-symbol-line,.book-chapter-7 .book-symbol-line{padding-left:5em;text-indent:-3em;margin:0}
+.book-chapter-6 #ch6-s2-1{clear:none}
+.book-chapter-5 #ch5-table-1,.book-chapter-5 #ch5-table-1-continued{table-layout:auto}
+.book-chapter-5 #ch5-table-1 td:nth-child(2),.book-chapter-5 #ch5-table-1-continued td:nth-child(2){text-align:left}
+.book-chapter-6 .book-table-control th:first-child{width:24%}
+.book-chapter-6 .book-table-control td:nth-child(2){text-align:left}
+.book-chapter-6 .book-table-grade th:nth-child(1){width:20%}
+.book-chapter-6 .book-table-grade th:nth-child(2){width:23%}
+.book-chapter-6 .book-table-grade th:nth-child(3){width:20.5%}
+.book-chapter-6 .book-table-grade th:nth-child(4){width:16%}
+.book-chapter-6 .book-table-grade .book-table-section{text-align:left}
+.book-chapter-10 .book-native-table-figure{width:100%;margin:1em 0}
+.book-chapter-10 .book-figure-panel{width:100%;table-layout:fixed;margin:.7em 0}
+.book-chapter-7 .book-table,.book-chapter-8 .book-table,.book-chapter-9 .book-table{table-layout:auto}
+.book-chapter-8 .book-diagonal-two{position:relative;height:4.8em;min-width:6.5em}
+.book-chapter-8 .book-diagonal-two:before{content:'';position:absolute;inset:0;background:linear-gradient(to top right,transparent 49.7%,#999 49.9%,#999 50.1%,transparent 50.3%);pointer-events:none}
+.book-chapter-8 .book-diagonal-top{top:.3em;right:.5em}
+.book-chapter-8 .book-diagonal-bottom{left:.5em;bottom:.3em}
+.book-chapter-5 .book-rotated-figure,.book-chapter-7 #ch7-fig-3{position:relative;padding-right:2.2em;box-sizing:border-box}
+.book-chapter-5 .book-rotated-figure figcaption,.book-chapter-7 #ch7-fig-3 figcaption{position:absolute;left:100%;top:50%;margin:0;white-space:nowrap;transform:translate(-50%,-50%) rotate(-90deg)}
+.book-chapter-5 .book-figure-ch5-1{width:81.49%}
+.book-chapter-5 .book-figure-ch5-2{width:46.10%}
+.book-chapter-5 .book-figure-ch5-3{width:97.21%}
+.book-chapter-5 .book-figure-ch5-4{width:94.68%}
+.book-chapter-5 .book-figure-ch5-5{width:100.00%}
+.book-chapter-5 .book-figure-ch5-6{width:100.00%}
+.book-chapter-5 .book-figure-ch5-7{width:34.45%}
+.book-chapter-5 .book-figure-ch5-8{width:100.00%}
+.book-chapter-5 .book-figure-ch5-9{width:62.77%}
+.book-chapter-5 .book-figure-ch5-10{width:77.31%}
+.book-chapter-5 .book-figure-ch5-11{width:78.25%}
+.book-chapter-5 .book-figure-ch5-12{width:74.01%}
+.book-chapter-5 .book-figure-ch5-13{width:78.08%}
+.book-chapter-5 .book-figure-ch5-14{width:82.91%}
+.book-chapter-5 .book-figure-ch5-15{width:57.41%}
+.book-chapter-5 .book-figure-ch5-16{width:99.51%}
+.book-chapter-5 .book-figure-ch5-17{width:96.10%}
+.book-chapter-5 .book-figure-ch5-18{width:98.27%}
+.book-chapter-6 .book-figure-ch6-1{width:66.24%}
+.book-chapter-6 .book-figure-ch6-2{width:87.68%}
+.book-chapter-6 .book-figure-ch6-3{width:92.09%}
+.book-chapter-6 .book-figure-ch6-4{width:93.45%}
+.book-chapter-6 .book-figure-ch6-5{width:96.80%}
+.book-chapter-6 .book-figure-ch6-6{width:34.98%}
+.book-chapter-6 .book-figure-ch6-7{width:63.12%}
+.book-chapter-6 .book-figure-ch6-8{width:100.00%}
+.book-chapter-6 .book-figure-ch6-9{width:86.91%}
+.book-chapter-6 .book-figure-ch6-10{width:81.90%}
+.book-chapter-6 .book-figure-ch6-11{width:59.29%}
+.book-chapter-7 .book-figure-ch7-1{width:70.89%}
+.book-chapter-7 .book-figure-ch7-2{width:61.47%}
+.book-chapter-7 .book-figure-ch7-3{width:59.35%}
+.book-chapter-7 .book-figure-ch7-4{width:74.07%}
+.book-chapter-7 .book-figure-ch7-5{width:68.42%}
+.book-chapter-7 .book-figure-ch7-6{width:66.95%}
+.book-chapter-7 .book-figure-ch7-7{width:96.39%}
+.book-chapter-7 .book-figure-ch7-8{width:86.62%}
+.book-chapter-7 .book-figure-ch7-9{width:82.96%}
+.book-chapter-7 .book-figure-ch7-10{width:84.67%}
+.book-chapter-7 .book-figure-ch7-11{width:82.79%}
+.book-chapter-7 .book-figure-ch7-12{width:84.61%}
+.book-chapter-7 .book-figure-ch7-13{width:68.48%}
+.book-chapter-7 .book-figure-ch7-14{width:70.01%}
+.book-chapter-7 .book-figure-ch7-15{width:70.07%}
+.book-chapter-7 .book-figure-ch7-16{width:57.65%}
+.book-chapter-7 .book-figure-ch7-17{width:76.78%}
+.book-chapter-7 .book-figure-ch7-18{width:84.79%}
+.book-chapter-7 .book-figure-ch7-19{width:78.08%}
+.book-chapter-7 .book-figure-ch7-20{width:84.79%}
+.book-chapter-7 .book-figure-ch7-21{width:84.85%}
+.book-chapter-7 .book-figure-ch7-22{width:55.64%}
+.book-chapter-7 .book-figure-ch7-23{width:68.66%}
+.book-chapter-7 .book-figure-ch7-24{width:79.49%}
+.book-chapter-7 .book-figure-ch7-25{width:63.59%}
+.book-chapter-7 .book-figure-ch7-26{width:65.06%}
+.book-chapter-7 .book-figure-ch7-27{width:67.07%}
+.book-chapter-7 .book-figure-ch7-28{width:57.12%}
+.book-chapter-7 .book-figure-ch7-29{width:59.88%}
+.book-chapter-7 .book-figure-ch7-30{width:53.64%}
+.book-chapter-7 .book-figure-ch7-31{width:60.88%}
+.book-chapter-7 .book-figure-ch7-32{width:94.98%}
+.book-chapter-7 .book-figure-ch7-33{width:64.12%}
+.book-chapter-7 .book-figure-ch7-34{width:75.19%}
+.book-chapter-10 .book-figure-ch10-1{width:58.35%}
+.book-chapter-10 .book-figure-ch10-2{width:99.98%}
+.book-chapter-10 .book-figure-ch10-3{width:66.30%}
+.book-chapter-10 .book-figure-ch10-4{width:92.27%}
+.book-chapter-10 .book-figure-ch10-5{width:69.66%}
+.book-chapter-10 .book-figure-ch10-6{width:99.98%}
+.book-chapter-10 .book-figure-ch10-7{width:75.37%}
+.book-chapter-10 .book-figure-ch10-8{width:64.48%}
+.book-chapter-10 .book-figure-ch10-9{width:69.36%}
+.book-chapter-10 .book-figure-ch10-10{width:61.06%}
+.book-chapter-10 .book-figure-ch10-11{width:76.84%}
+.book-chapter-10 .book-figure-ch10-12{width:78.20%}
+.book-chapter-10 .book-figure-ch10-13{width:60.18%}
+.book-chapter-10 .book-figure-ch10-14{width:45.04%}
+.book-chapter-10 .book-figure-ch10-15{width:56.29%}
+.book-chapter-10 .book-figure-ch10-16{width:93.98%}
+.book-chapter-10 .book-figure-ch10-17{width:90.15%}
+.book-chapter-10 .book-figure-ch10-18{width:44.63%}
+.book-chapter-10 .book-figure-ch10-19{width:89.32%}
+.book-chapter-10 .book-figure-ch10-20{width:67.13%}
+.book-chapter-10 .book-figure-ch10-21{width:46.69%}
+.book-chapter-10 .book-figure-ch10-22{width:77.72%}
+.book-chapter-10 .book-figure-ch10-23{width:78.37%}
+.book-chapter-10 .book-figure-ch10-24{width:77.78%}
+.book-chapter-10 .book-figure-ch10-25{width:86.20%}
+.book-chapter-10 .book-figure-ch10-26{width:78.78%}
+.book-chapter-10 .book-figure-ch10-27{width:72.48%}
+.book-chapter-10 .book-figure-ch10-28{width:49.34%}
+.book-chapter-10 .book-figure-ch10-29{width:40.10%}
+.book-chapter-10 .book-figure-ch10-30{width:100.00%}
+.book-chapter-10 .book-figure-ch10-31{width:45.81%}
+.book-chapter-10 .book-figure-ch10-32{width:65.42%}
+.book-chapter-10 .book-figure-ch10-33{width:99.98%}
+.book-chapter-10 .book-figure-ch10-34{width:56.76%}
+.book-chapter-10 .book-figure-ch10-35{width:42.69%}
+.book-chapter-10 .book-figure-ch10-36{width:42.16%}
+.book-chapter-10 .book-figure-ch10-37{width:83.32%}
+.book-chapter-10 .book-figure-ch10-38{width:66.54%}
+.book-chapter-10 .book-figure-ch10-39{width:61.30%}
+.book-chapter-10 .book-figure-ch10-40{width:68.30%}
+.book-chapter-10 .book-figure-ch10-41{width:67.83%}
+.book-chapter-10 .book-figure-ch10-42{width:70.66%}
+.book-chapter-10 .book-figure-ch10-43{width:69.77%}
+.book-chapter-10 .book-figure-ch10-44{width:56.53%}
+.book-chapter-10 .book-figure-ch10-45{width:54.47%}
+.book-chapter-10 .book-figure-ch10-46{width:54.23%}
+.book-chapter-10 .book-figure-ch10-47{width:57.65%}
+.book-chapter-10 .book-figure-ch10-48{width:56.53%}
+.book-chapter-10 .book-figure-ch10-49{width:79.67%}
+.book-chapter-10 .book-figure-ch10-50{width:90.32%}
+.book-chapter-10 .book-figure-ch10-51{width:58.82%}
+.book-chapter-10 .book-figure-ch10-53{width:100.00%}
+.book-chapter-10 .book-figure-ch10-54{width:74.37%}
+.book-chapter-10 .book-figure-ch10-55{width:65.12%}
+.book-chapter-10 .book-figure-ch10-56{width:89.56%}
+.book-chapter-10 .book-figure-ch10-57{width:67.95%}
+.book-chapter-10 .book-figure-ch10-58{width:99.75%}
+.book-chapter-10 .book-figure-ch10-59{width:89.32%}
+.book-chapter-10 .book-figure-ch10-60{width:73.72%}
+.book-chapter-10 .book-figure-ch10-61{width:79.73%}
+.book-chapter-10 .book-figure-ch10-62{width:80.61%}
+@media(max-width:700px){
+ .book-faithful figure[id]{float:none;width:100%;margin:1.1em auto}
+ .book-faithful .book-symbol-line{padding-left:3em;text-indent:-3em;margin-left:0}
+ .book-faithful .book-symbol-cont{padding-left:3em;text-indent:0;margin-left:0}
+ .book-chapter-7 #ch7-table-3,.book-chapter-7 #ch7-table-3-cont{min-width:820px}
+ .book-chapter-8 #ch8-table-2{min-width:760px}
+ .book-chapter-5 .book-rotated-figure,.book-chapter-7 #ch7-fig-3{padding-right:0}
+ .book-chapter-5 .book-rotated-figure figcaption,.book-chapter-7 #ch7-fig-3 figcaption{position:static;transform:none;white-space:normal;margin:.65em 0 0}
+}
+@media print{.book-faithful math[display=block]{overflow:visible}.book-faithful .book-table{min-width:0}}
+
+/* Native contents and back cover, in the printed page order. */
+.book-faithful .book-toc-opening{height:22em;text-align:right;padding:6.5em 0 0;box-sizing:border-box}
+.book-faithful .book-toc-opening h1{font:1.8em/1.3 "Microsoft YaHei",sans-serif;margin:0}
+.book-toc-opening i{font-family:"Brush Script MT",cursive;font-weight:400}
+.book-faithful .book-toc-head{border:0;margin-bottom:2.7em;font:inherit;color:#777}
+.book-faithful .book-toc-head.odd{justify-content:flex-end}
+.book-faithful .book-toc-spread{table-layout:fixed;margin:0;font:inherit;font-size:.82em;line-height:1.85}
+.book-faithful .book-toc-column{border:0;padding:0;width:50%;vertical-align:top;text-align:left}
+.book-faithful .book-toc-column:first-child{padding-right:2.5%}
+.book-faithful .book-toc-column:last-child{padding-left:2.5%}
+.book-faithful .original-toc-row{gap:.4em;margin:.35em 0;align-items:end;text-align:left}
+.book-faithful .original-toc-row>span:first-child:after{min-width:1em}
+.book-faithful .original-toc-row.book-toc-level-2{padding-left:1em}
+.book-faithful .original-toc-row.book-toc-level-3{padding-left:2em}
+.book-faithful .original-toc-row.book-toc-chapter{font-weight:bold;font-size:1.08em;margin-top:1.2em;padding:0}
+.book-faithful .book-toc-unnumbered>span:first-child:after{display:none}
+.book-back-cover{position:relative;padding:80% 0 0;margin:0;border:0;color:#242424;font-family:"Microsoft YaHei",sans-serif;font-size:.68em;line-height:1.7;display:flow-root}
+.book-back-cover p{text-indent:0;text-align:left;margin:0}
+.book-back-cover figure{margin:0}
+.book-faithful .book-back-mascot{width:9%;margin:0 0 .2em}
+.book-back-cover hr{height:0;border:0;border-top:1px solid #c94360;margin:.4em 0 1.3em;width:76%}
+.book-faithful .book-back-qr{width:14.5%;float:left;margin:0 2.5% 1em 0}
+.book-faithful .book-back-promo{margin-left:17%;max-width:59%}
+.book-faithful .book-back-callout{clear:both;color:#c94360;margin:1.2em 0;width:76%}
+.book-faithful .book-back-jdbooks{width:25%;margin:3em 0 1.4em;float:left}
+.book-faithful .book-back-publisher{width:11%;margin:2.4em 24% 1em 0;float:right}
+.book-faithful .book-back-contact{clear:both;width:76%;font:inherit;line-height:1.5;margin:.7em 0 0;table-layout:auto}
+.book-faithful .book-back-contact td{border:0;border-left:1px solid #555;padding:0 .6em;white-space:nowrap;font-size:.9em}
+.book-faithful .book-back-isbn{position:absolute;bottom:0;right:0;width:21%;border:1px solid #999;font-size:1em}
+.book-faithful .book-back-shelf{background:#15232e;color:white;font-size:.8em;text-align:center;padding:.3em}
+.book-faithful .book-back-isbn-label{font-size:.8em;padding:.2em .5em}
+.book-faithful .book-back-barcode{width:90%;margin:0 auto}
+.book-faithful .book-back-barcode-digits{text-align:center;font-family:Arial,sans-serif}
+.book-faithful .book-back-price{border-top:1px solid #999;padding:.3em;text-align:center;font-size:1.15em}
+.book-faithful .book-back-edge{position:absolute;right:-7.5%;bottom:14%;width:8.5%;pointer-events:none}
+@media(max-width:700px){
+ .book-faithful .book-toc-spread,.book-toc-spread tbody,.book-toc-spread tr,.book-faithful .book-toc-column{display:block;width:100%}
+ .book-faithful .book-toc-column:first-child,.book-faithful .book-toc-column:last-child{padding:0}
+ .book-faithful .book-toc-column:last-child{margin-top:1.4em}
+ .book-faithful .book-toc-opening{height:12em;padding-top:4em}
+ .book-back-cover{padding-top:40%;font-size:.8em}
+ .book-faithful .book-back-promo{max-width:none;margin-left:28%}
+ .book-faithful .book-back-qr{width:24%;margin-right:4%}
+ .book-back-cover hr,.book-faithful .book-back-callout,.book-faithful .book-back-contact{width:100%}
+ .book-faithful .book-back-contact td{display:block;margin:.7em 0;white-space:normal}
+ .book-faithful .book-back-jdbooks{width:42%;margin-top:1em}
+ .book-faithful .book-back-publisher{width:21%;margin:1em 0}
+ .book-faithful .book-back-isbn{position:static;width:54%;margin:1.5em 0 0 auto}
+ .book-faithful .book-back-edge{width:10%;bottom:12%;right:-4%}
+}

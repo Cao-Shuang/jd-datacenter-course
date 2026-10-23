@@ -1,0 +1,11 @@
+<!doctype html><html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>第2章　数据中心供配电系统 · 书页 50 · PDF 64 · 原文</title><link rel="stylesheet" href="../original-text.css"></head><body class="original-standalone"><nav class="original-navigation"><a href="063.html">← PDF 63</a><a href="../index.html#original/64">回到课程阅读器</a><a href="065.html">PDF 65 →</a></nav><p class="original-editorial">PDF第64页 · 已逐页校对</p><article class="original-prose book-faithful book-paper book-chapter-2" id="original-page-content"><header class="book-running-head even"><span>50</span><span class="book-head-ornament"></span><span>京东数据中心构建实战</span></header><p class="book-list-continuation">一样，是电子化系统唯一可遭直接雷击的设备。</p>
+<p>（3）感应过电压侵入数据中心机房的途径</p>
+<p>雷电可以在电源线和通信线或数据线上感应出过电压。电子信息设备上的雷过电压，由下列途径侵入：</p>
+<ul class="book-list"><li>感应雷过电压发生在通信线或数据线线路间和线路对地间；</li><li>感应雷过电压发生在电源线相线与地间、相线与中性线间、中性线与地间；</li><li>感应雷过电压同时发生在通信线或数据线及电源线上；</li><li>感应雷过电压发生在机房区的保护接地上。</li></ul>
+<p>在利用两条线传输的信号或电力传输系统，可以出现两种类型的过电压：一种作为电压差出现在两条线间，被称为差模电压（又称横向电压或常模电压）；另一种作为电压差出现在每一条线和地线间，被称为共模电压（又称纵向电压）。</p>
+<h4>3. 数据中心的雷电防护</h4>
+<ul class="book-list"><li>电源：电力系统进线由LPZ0<sub>A</sub>区穿越LPZ0<sub>B</sub>区进入LPZ1区，应在UPS电源前，加设电源级防护设备（冲击通流容量20kA、限制电压小于250V），从而使残压可低至250V，99%以上的电流可泄放入地。</li>
+<li>通信设备：外引线由LPZ0<sub>A</sub>区穿越LPZ0<sub>B</sub>区进入LPZ1区，应在通信设备前，加设冲击通流容量5kA、限制电压小于200V（用于PSTN线）或限制电压小于100V（用于除PSTN线外）的其他线的防护设备。楼内通信网络因处于LPZ1区或LPZ2区，比较重要，应加装冲击通流容量3kA、限制电压小于100V的防护设备。</li>
+<li>卫星小站：有天地对接的大楼，卫星小站抛物天线应在避雷针保护范围内，以免雷电直接击中天线大锅。抛物天线接受卫星KU波段信号后，经变频器变频，然后，由同轴电缆引入卫星小站。这一段电缆在避雷针引雷时，可能被雷电磁波的谐波感应出过电压，应在变频器输出端和卫星小站输入端，加装冲击通流容量5kA、限制电压小于100V的天馈同轴防护设备。</li>
+<li>建筑物子系统：建筑物内综合布线的建筑物子系统，全部设备都处于LPZ1区或LPZ2区，雷电磁脉冲有很大的衰耗，对于集线器等通信设备接口可配置冲击通流容量3kA、限制电压小于100V的防护设备，信息点用户终端根据重要性确定是否设防。由于光纤传导的是光信号而不是电信号，电磁脉冲干扰问题，垂直系统的光纤无须考虑防雷。一般竖井都处于IPZ2区，垂直系统铜缆几乎不穿越防护区。所以，原则上可不考虑设防。综合布线系统通信设备供电若由计算机主机房提供，则子设备间电源可不考虑设防。独立供电的子设备间电源，则可配置冲击通流容量5kA、限制电压小于500V的防护设备。</li></ul>
+<p>数据中心作为企业的信息中心枢纽，承载着关系企业核心信息的电子信息设备。其中，供配电系统作为数据中心建设的重要组成部分，任何断电或低质量供电都有可能造成数据中心电子信息设备灾难性宕机。所以如何对数据中心电源系统进行合理设计和智能化管理，</p></article><nav class="original-navigation"><a href="063.html">← PDF 63</a><a href="065.html">PDF 65 →</a></nav></body></html>

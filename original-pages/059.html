@@ -1,0 +1,14 @@
+<!doctype html><html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>第2章　数据中心供配电系统 · 书页 45 · PDF 59 · 原文</title><link rel="stylesheet" href="../original-text.css"></head><body class="original-standalone"><nav class="original-navigation"><a href="058.html">← PDF 58</a><a href="../index.html#original/59">回到课程阅读器</a><a href="060.html">PDF 60 →</a></nav><p class="original-editorial">PDF第59页 · 已逐页校对</p><article class="original-prose book-faithful book-paper book-chapter-2" id="original-page-content"><header class="book-running-head odd"><span>第 2 章　数据中心供配电系统</span><span class="book-head-ornament"></span><span>45</span></header><p class="book-continuation">电压的问题，将N线与PE线直接短接，做重复接地（使TN-S系统的N线多次接地）。这种做法表面上解决了中性点漂移的问题，但却违背了IEC和国家规范中关于TN-S系统在整个系统中N线和PE线分开的原则。</p>
+<p>要降低电子信息设备的零地电压，常用的做法是在UPS输出端加装隔离变压器。变压器的二次中性线与PE线短接后接地，在隔离变压器后形成新的TN-S系统。如隔离变压器加装至配电列头柜中，由于列头柜紧邻电子信息设备机柜，N线长度较短，即便N线有很大电流，N线和PE线也不会产生较大的零地电压，可很好地解决零地电压的问题。同时隔离变压器有提升电击防护安全性和抗浪涌作用，可根据系统合理配置。</p>
+<h4>3. 数据中心接地系统说明</h4>
+<ul class="book-list"><li>在系统低压配电入口的低压配电柜中设置地排，并将此地排通过接地极接入大地；</li>
+<li>按照联合（一点）接地和等电位接地的原则，各种功能地的母线（电源地、安全地、信号地、静电和屏蔽地）均汇总至总等电位，并在系统中分别传输，彼此绝缘；等电位接地的原则还体现在系统中各区域、各子系统（分配电、UPS、负载设备机柜）的各种功能的母线对所有设备都保持等电位；</li>
+<li>根据TN-S接地系统的要求，N线只在低压系统电源处接在一起，PE线和N线在系统内传输过程中不再相接，不能有N线二次接地；</li>
+<li>当系统内机柜、设备过多时，将导致各种功能地线过多，可考虑在数据中心机房区铺设等电位地线带或地线网，系统内各信号地就近接到地线带（网）上；</li>
+<li>各供电和用电设备的防浪涌和共模干扰滤波器可接到电源地和安全地上；</li><li>根据联合接地的原则，防雷地也要接到同一接地极上。</li></ul>
+<h4>4. TN-S系统禁止二次接地</h4>
+<p>在已建成并运行的数据中心中，很多供电系统都存在N线二次接地的问题。</p>
+<p>N线二次接地后，就变成了N线和PE线在接地极与二次接地点并联，N线中的工作电流（包括基波和谐波电流）按两者的阻抗比分流到地线中，接地点的地电位（特别是电子信息设备需要的逻辑地）不再是由接地极决定，而是按N线电流波形周期性浮动。</p>
+<p>造成N线二次接地的原因通常有以下几种情况：</p>
+<ul class="book-list"><li>施工规范没有对二次接地做明确的规定，把N线和PE线接在一起。</li><li>在电子信息设备前级配电中，发现零地电压过高，于是就把N线和PE线短接。</li><li>UPS设备输出零地电压超过设计要求，而用户又不允许零地短接，于是设备厂商在UPS输出端N线和PE线间并联一个电容（如100μF），这对于N线中的工作电流（基波和高次谐波）来说，无异于直接短接。</li><li>设备输入端滤波器接线错误，造成零地短接。</li></ul>
+<p>在数据中心供电系统中，一旦存在以上的零地短接现象，特别是在已经运行的情况中，很难再把零地短接点找出来。</p></article><nav class="original-navigation"><a href="058.html">← PDF 58</a><a href="060.html">PDF 60 →</a></nav></body></html>

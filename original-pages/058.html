@@ -1,0 +1,12 @@
+<!doctype html><html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>第2章　数据中心供配电系统 · 书页 44 · PDF 58 · 原文</title><link rel="stylesheet" href="../original-text.css"></head><body class="original-standalone"><nav class="original-navigation"><a href="057.html">← PDF 57</a><a href="../index.html#original/58">回到课程阅读器</a><a href="059.html">PDF 59 →</a></nav><p class="original-editorial">PDF第58页 · 已逐页校对</p><article class="original-prose book-faithful book-paper book-chapter-2" id="original-page-content"><header class="book-running-head even"><span>44</span><span class="book-head-ornament"></span><span>京东数据中心构建实战</span></header><p class="book-continuation">路，只能通过另外两个非故障相导体对地的电容返回电源。由于容抗甚大，电容电流甚小，不引发电击危险，只报警而不需切断电源，可维持供电的不间断，保证重要设备的持续供电。IT系统只在发生第二次接地故障转变成相间短路时才切断电源。它与电源端作系统接地的TN系统和TT系统有很大的不同。</p>
+<p>在正常环境下，IT系统发生第一次接地故障时不切断电源，但发生电击事故，且只作用于报警，为此需满足下式要求：</p>
+<p class="book-formula"><i>R</i><sub>A</sub><i>I</i><sub>d</sub>≤50V</p>
+<p class="book-symbol-line">式中：<i>R</i><sub>A</sub>——外露导电部分接地极的接地电阻（Ω）；</p><p class="book-symbol-line">　　　<i>I</i><sub>d</sub>——发生第一次接地故障时，相线和外露导电部分之间阻抗可忽略不计的故障电流，此电流包括正常时的泄漏电流和受到电气装置全部接地阻抗影响所产生的电流值。</p>
+<p>在IT系统中需装设绝缘监测器来检测接地故障。此绝缘监测器可通过继电器作用发出声光信号，并在尽量短的时间内排除第一次接地故障以维持供电的不间断。如果第一次接地故障未排除又发生第二次接地故障，则需视具体情况按TN系统或者TT系统的方式来切断电源。</p>
+<h4>2. 数据中心UPS接地方式</h4>
+<p>UPS系统的接地方式是数据中心低压系统的重点内容。UPS作为电子信息设备的不间断电源，其输入端是否需要重复接地，要根据供电系统的接地方式综合考虑。UPS的接地方式取决于三相不平衡、零地电压和电击防护。</p>
+<p>（1）中性点漂移与零地电压</p>
+<ul class="book-list"><li>UPS负载三相不平衡造成中性点漂移：每台服务器的运行状态不同，负载率不同且经常变化，造成UPS的三相输出负载很难平衡；同时由于UPS和电子信息设备均为非线性负载，三次谐波和三倍频次谐波电流叠加在N线上，再加上N线上的三相不平衡电流，造成N线过载，导致中性点漂移。</li>
+<li>电子信息设备对零地电压的限制：零地电压指电子信息设备的中性线和PE线之间的电位差。服务器等电子信息设备要求零地电压的通常值为1～2V。零地电压产生的原因是N线中存在电流，因此GB 50174—2017中指出：“电子信息设备属于单相非线性负荷，易产生谐波电流及三相负荷不平衡现象，根据实测，UPS输出的谐波电流一般不大于基波电流的10%，故不必加大相线截面积，而中性线含三相谐波电流的叠加及三相负荷不平衡电流，实测往往等于或大于相线电流，故中性线截面积不应小于相线截面积。此外，将单相负荷均匀地分配在三相线路上，可以减小中性线电流，减小由三相负荷不平衡引起的电压不平衡度。”</li></ul>
+<p>（2）分析原因及解决方法</p>
+<p>对于工频UPS，一般负载所需的N线和PE线均为UPS旁路提供，UPS自身的N线也由旁路提供。对于整体接地形式为TN-S系统的数据中心，有时为了解决中性点漂移和零地</p></article><nav class="original-navigation"><a href="057.html">← PDF 57</a><a href="059.html">PDF 59 →</a></nav></body></html>

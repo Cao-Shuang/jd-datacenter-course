@@ -1,0 +1,13 @@
+<!doctype html><html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>第2章　数据中心供配电系统 · 书页 46 · PDF 60 · 原文</title><link rel="stylesheet" href="../original-text.css"></head><body class="original-standalone"><nav class="original-navigation"><a href="059.html">← PDF 59</a><a href="../index.html#original/60">回到课程阅读器</a><a href="061.html">PDF 61 →</a></nav><p class="original-editorial">PDF第60页 · 已逐页校对</p><article class="original-prose book-faithful book-paper book-chapter-2" id="original-page-content"><header class="book-running-head even"><span>46</span><span class="book-head-ornament"></span><span>京东数据中心构建实战</span></header><p>在一个复杂的供电系统中，判断是否存在零地短接现象的最有效办法是测量PE线中的电流。在正常情况下PE线中是没有工作电流的，只有电网出现干扰（如雷击感应、大功率设备启动等）时，才有通过滤波器和防浪涌器件导入PE线的电流，这种电流是随机性的。但是当系统存在二次接地时，N线中的工作电流就直接导入PE线，即将PE线当N线使用，所以这时测得的PE线电流是周期性的，实际上就是N线电流。</p>
+<h4>5. 电子信息设备直流接地系统的作用和标准</h4>
+<p>电子信息设备的直流接地是计算机系统中数字电路的等电位地，又称逻辑地，它是计算机系统中所有逻辑电路的共同参考点。</p>
+<p>电子信息设备直流接地的作用是：</p>
+<ul class="book-list"><li>消除各电路电流流经一个公共地线阻抗时所产生的噪声电压。</li><li>避免受磁场和地电位差的影响，即不使其形成回路。如果接地方式处理不好，就会形成噪声耦合。</li></ul>
+<p>直流接地一般没有统一的标准，其情况比较复杂，不同的电子信息设备生产厂商有不同的标准，不同的机型有不同的要求。一般直流接地有两种类型。即直流地悬空和直流接大地。</p>
+<p>（1）直流地悬空</p>
+<p>直流地不接大地，与大地严格绝缘。对地电阻的要求一般因机器而定。一般标准在1MΩ以上。采用直流地悬空的理论根据是：</p>
+<ul class="book-list"><li>数字电路的直流与交流接在一起，有可能引入交流电网的干扰。为了防止这种干扰，必须把交流地和直流地严格分开。由于交流地网往往是接大地的（中性线是接地的），这就要求数字电路直流地不能接大地。</li>
+<li>如果把交流地和直流地一起接大地，在晶体管和集成电路上都发生过烧坏元器件的事故，经检查是由于仪器和电烙铁等设备漏电所造成。把交流地和直流地分开，交流和直流二者之间不会产生电流回路，即使是仪器和电烙铁漏电也不会进入计算机系统。</li></ul>
+<p>但直流地悬空往往带来新的问题。在无安全地的IT接地系统中，由于直流地悬空有可能使这些设备带有瞬态电压，并通过相互间连线的电容耦合去干扰其他设备。万一发生交流火线与机柜相碰的现象，就会使机柜带有很高的交流电压，这对人和设备的安全都造成很大的威胁。另外由于直流地悬空，机柜无安全地，大量的静电荷无处可去，便淤积在机柜外壳上，静电荷越多，不仅影响电子信息设备的安全运行，也影响到操作者的安全。在雷雨季节，若避雷设备不完善，也有遭雷击的危险。</p>
+<p>（2）直流接大地</p>
+<p>把电子信息设备中数字电路的等电位点与大地相接，接地电阻值的大小依电子信息设备制造厂商和机型不同而标准不一。通常要求接地电阻不超过4Ω，个别厂商要求接地电阻要小于1Ω。</p></article><nav class="original-navigation"><a href="059.html">← PDF 59</a><a href="061.html">PDF 61 →</a></nav></body></html>

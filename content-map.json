@@ -1,0 +1,2117 @@
+{
+  "note": "Topic mapping is an editorial index, not a proof of completeness or teaching quality.",
+  "topics": [
+    {
+      "chapter": 1,
+      "lesson": "1-1",
+      "section": "1.1.1",
+      "title": "国标 GB 50174—2017",
+      "pages": [
+        1,
+        2
+      ],
+      "treatment": "业务后果、基本/冗余/容错表与公共依赖例题"
+    },
+    {
+      "chapter": 1,
+      "lesson": "1-1",
+      "section": "1.1.2",
+      "title": "Uptime Tier 等级认证；表 1-1",
+      "pages": [
+        2,
+        2
+      ],
+      "treatment": "容量、路径、维护、容错维度及分阶段证据表"
+    },
+    {
+      "chapter": 1,
+      "lesson": "1-1",
+      "section": "1.1.3",
+      "title": "TIA-942",
+      "pages": [
+        3,
+        3
+      ],
+      "treatment": "多专业范围与标准体系比较边界"
+    },
+    {
+      "chapter": 1,
+      "lesson": "1-2",
+      "section": "1.2",
+      "title": "选址的业务、资源、气候与环境条件",
+      "pages": [
+        3,
+        4
+      ],
+      "treatment": "候选环境比较、全年度成本完整例题与敏感性变式"
+    },
+    {
+      "chapter": 1,
+      "lesson": "1-2",
+      "section": "1.2 表1-2",
+      "title": "不同等级数据中心的选址要求",
+      "pages": [
+        4,
+        4
+      ],
+      "treatment": "危险源、洪水、地质、交通风险清单及硬约束方法"
+    },
+    {
+      "chapter": 1,
+      "lesson": "1-3",
+      "section": "1.3.1",
+      "title": "功能区划分",
+      "pages": [
+        4,
+        5
+      ],
+      "treatment": "四区接口表与拆包误区"
+    },
+    {
+      "chapter": 1,
+      "lesson": "1-3",
+      "section": "1.3.2",
+      "title": "功能区面积",
+      "pages": [
+        5,
+        5
+      ],
+      "treatment": "A=SN、辅助支持比例、人员面积完整预算及密度变式"
+    },
+    {
+      "chapter": 1,
+      "lesson": "1-4",
+      "section": "1.4 表1-3",
+      "title": "建筑与结构技术要求",
+      "pages": [
+        5,
+        6
+      ],
+      "treatment": "荷载/净高/消防比较表及荷载量级例题"
+    },
+    {
+      "chapter": 1,
+      "lesson": "1-4",
+      "section": "1.4",
+      "title": "人流物流、内部划分、气流与设备邻接",
+      "pages": [
+        6,
+        7
+      ],
+      "treatment": "四条路径叠图和设备更换案例"
+    },
+    {
+      "chapter": 1,
+      "lesson": "1-4",
+      "section": "1.4 结语",
+      "title": "未来扩容与可持续扩展性",
+      "pages": [
+        7,
+        7
+      ],
+      "treatment": "扩容情景与共同项目接口清单"
+    },
+    {
+      "chapter": 2,
+      "lesson": "2-1",
+      "section": "2.1.1",
+      "title": "市电电能质量、谐波要求、监控功能；表2-1至2-4",
+      "pages": [
+        8,
+        11
+      ],
+      "treatment": "质量与响应表、谐波完整计算、治理机制与监控数据"
+    },
+    {
+      "chapter": 2,
+      "lesson": "2-1",
+      "section": "2.1.2",
+      "title": "供电等级及表2-5",
+      "pages": [
+        11,
+        12
+      ],
+      "treatment": "供电保障时间轴与电力冷却共同边界"
+    },
+    {
+      "chapter": 2,
+      "lesson": "2-2",
+      "section": "2.2.1",
+      "title": "电源选择与供电能力；表2-6、2-7",
+      "pages": [
+        13,
+        13
+      ],
+      "treatment": "三相功率、电流与电压量级计算"
+    },
+    {
+      "chapter": 2,
+      "lesson": "2-2",
+      "section": "2.2.2",
+      "title": "中压电力系统中性点运行方式；图2-1至2-5",
+      "pages": [
+        13,
+        16
+      ],
+      "treatment": "故障回路、健全相升压与三种接地对照"
+    },
+    {
+      "chapter": 2,
+      "lesson": "2-2",
+      "section": "2.2.3",
+      "title": "主接线；表2-8",
+      "pages": [
+        16,
+        17
+      ],
+      "treatment": "母线比较与容量瓶颈完整例题"
+    },
+    {
+      "chapter": 2,
+      "lesson": "2-2",
+      "section": "2.2.4",
+      "title": "配电网接线；表2-9",
+      "pages": [
+        18,
+        19
+      ],
+      "treatment": "三种原生图与运行方式分析"
+    },
+    {
+      "chapter": 2,
+      "lesson": "2-2",
+      "section": "2.2.5",
+      "title": "中压继电保护",
+      "pages": [
+        19,
+        20
+      ],
+      "treatment": "四项要求与后备保护权衡"
+    },
+    {
+      "chapter": 2,
+      "lesson": "2-2",
+      "section": "2.2.6",
+      "title": "一次接线典型方案；图2-6、2-7",
+      "pages": [
+        20,
+        21
+      ],
+      "treatment": "计量、测量、保护、无功与扩容接口"
+    },
+    {
+      "chapter": 2,
+      "lesson": "2-2",
+      "section": "2.2.7",
+      "title": "定期维护检查",
+      "pages": [
+        21,
+        21
+      ],
+      "treatment": "设备与环境状态证据清单"
+    },
+    {
+      "chapter": 2,
+      "lesson": "2-3a",
+      "section": "2.3.1",
+      "title": "低压系统配置、集中与分散布置",
+      "pages": [
+        22,
+        23
+      ],
+      "treatment": "共享路径、配电层级与维护逻辑"
+    },
+    {
+      "chapter": 2,
+      "lesson": "2-3a",
+      "section": "2.3.2",
+      "title": "双总线；图2-8、2-9",
+      "pages": [
+        23,
+        24
+      ],
+      "treatment": "N/N+1/2N/Δ2N关系表"
+    },
+    {
+      "chapter": 2,
+      "lesson": "2-3a",
+      "section": "2.3.3",
+      "title": "断路器、脱扣、选择性/级联/限流；表2-10至2-12及图2-10、2-11",
+      "pages": [
+        24,
+        26
+      ],
+      "treatment": "保护性能比较与额定条件纠偏"
+    },
+    {
+      "chapter": 2,
+      "lesson": "2-3a",
+      "section": "2.3.4",
+      "title": "过电流、时间电流、ZSI；图2-12、2-13",
+      "pages": [
+        26,
+        29
+      ],
+      "treatment": "热预算完整算例、反例、选择性时间表及ZSI机制"
+    },
+    {
+      "chapter": 2,
+      "lesson": "2-3b",
+      "section": "2.3.5",
+      "title": "ATSE分类、隔离、极数、单点故障",
+      "pages": [
+        29,
+        32
+      ],
+      "treatment": "PC/CB表、检测位置反例和维护能力"
+    },
+    {
+      "chapter": 2,
+      "lesson": "2-3b",
+      "section": "2.3.6",
+      "title": "列头柜输出与机柜PDU；表2-13",
+      "pages": [
+        32,
+        34
+      ],
+      "treatment": "末端身份数据、功能比较和单路接管计算"
+    },
+    {
+      "chapter": 2,
+      "lesson": "2-3c",
+      "section": "2.3.7-1",
+      "title": "ATX/SSI、安全、EMC与企业标准",
+      "pages": [
+        34,
+        36
+      ],
+      "treatment": "规格职责与接口分析"
+    },
+    {
+      "chapter": 2,
+      "lesson": "2-3c",
+      "section": "2.3.7-2",
+      "title": "容量、冗余与能效；图2-14至2-16",
+      "pages": [
+        36,
+        39
+      ],
+      "treatment": "功率口径、双路径、电源效率完整算例"
+    },
+    {
+      "chapter": 2,
+      "lesson": "2-3c",
+      "section": "2.3.7-2",
+      "title": "轻载效率、48V后备与12V电池方案",
+      "pages": [
+        39,
+        40
+      ],
+      "treatment": "转换链及唤醒/保持时间边界"
+    },
+    {
+      "chapter": 2,
+      "lesson": "2-3d",
+      "section": "2.3.8-1",
+      "title": "TN、TT、IT接地形式及自动切断条件；图2-17至2-21、表2-14",
+      "pages": [
+        40,
+        44
+      ],
+      "treatment": "回路原生图、系统比较、TN/TT计算"
+    },
+    {
+      "chapter": 2,
+      "lesson": "2-3d",
+      "section": "2.3.8-2至4",
+      "title": "UPS接地、零地电压、联合接地与TN-S二次接地",
+      "pages": [
+        44,
+        46
+      ],
+      "treatment": "中性线压降与N/PE分流算例"
+    },
+    {
+      "chapter": 2,
+      "lesson": "2-3d",
+      "section": "2.3.8-5",
+      "title": "直流逻辑地悬浮与接大地",
+      "pages": [
+        46,
+        47
+      ],
+      "treatment": "参考点与外壳保护的职责分离"
+    },
+    {
+      "chapter": 2,
+      "lesson": "2-3d",
+      "section": "2.3.9",
+      "title": "防雷措施、LPZ与设备接口；图2-22",
+      "pages": [
+        47,
+        51
+      ],
+      "treatment": "进入路径、差模共模、外内防护、分区与接口配合"
+    },
+    {
+      "chapter": 3,
+      "lesson": "3-1",
+      "section": "3.1.1",
+      "title": "UPS 的主要作用与电网扰动",
+      "pages": [
+        53,
+        55
+      ],
+      "treatment": "按扰动持续时间与能量缺口分类，解释电能质量和连续性的不同目标。"
+    },
+    {
+      "chapter": 3,
+      "lesson": "3-1",
+      "section": "3.1.1",
+      "title": "UPS 类型、主要构成与四种工作方式",
+      "pages": [
+        55,
+        61
+      ],
+      "treatment": "类型比较表、四状态原生图、保障边界表及工作记录示范逐项展开。"
+    },
+    {
+      "chapter": 3,
+      "lesson": "3-1",
+      "section": "3.1.2",
+      "title": "工频 UPS 与高频 UPS",
+      "pages": [
+        61,
+        63
+      ],
+      "treatment": "以转换、隔离、效率、输入质量、维护和电池接口形成证据比较表，保留机制而不沿用绝对优劣判断。"
+    },
+    {
+      "chapter": 3,
+      "lesson": "3-2",
+      "section": "3.2.1",
+      "title": "线性与非线性负载、功率因数、峰值因数和谐波",
+      "pages": [
+        64,
+        68
+      ],
+      "treatment": "三个指标的定义/边界表与PF公式，衔接第2章波形内容。"
+    },
+    {
+      "chapter": 3,
+      "lesson": "3-2",
+      "section": "3.2.1",
+      "title": "单机 UPS 容量及启动、过载特性",
+      "pages": [
+        68,
+        72
+      ],
+      "treatment": "四项独立校核表含kW不足与启动幅值不足的反例，示范逐项筛选候选。"
+    },
+    {
+      "chapter": 3,
+      "lesson": "3-2",
+      "section": "3.2.1",
+      "title": "并联 UPS 容量与冗余",
+      "pages": [
+        72,
+        73
+      ],
+      "treatment": "完整2+1双容量计算、PF变式与串联热备独立任务。"
+    },
+    {
+      "chapter": 3,
+      "lesson": "3-2",
+      "section": "3.2.2",
+      "title": "可用性、MTBF 与 MTTR",
+      "pages": [
+        73,
+        75
+      ],
+      "treatment": "明确公式定义，解释原书近似与分母歧义，给出修复时间的数值对比。"
+    },
+    {
+      "chapter": 3,
+      "lesson": "3-2",
+      "section": "3.2.2",
+      "title": "六种 UPS 配置及其优缺点",
+      "pages": [
+        75,
+        82
+      ],
+      "treatment": "六图、六项路径收益/共用点比较；单独展开串联热备、公共SSC、STS与PMM功能。"
+    },
+    {
+      "chapter": 3,
+      "lesson": "3-3",
+      "section": "3.3.1",
+      "title": "交流供电的原因与交流、直流转换链",
+      "pages": [
+        82,
+        84
+      ],
+      "treatment": "双转换链与统一有用输出核算，保留历史生态背景但不宣称其仍为现状。"
+    },
+    {
+      "chapter": 3,
+      "lesson": "3-3",
+      "section": "3.3.2",
+      "title": "240V 高压直流的可靠性、效率、维护和扩容收益",
+      "pages": [
+        84,
+        85
+      ],
+      "treatment": "五项主张的机制/边界表，完整效率示范和固定损耗变式。"
+    },
+    {
+      "chapter": 3,
+      "lesson": "3-3",
+      "section": "3.3.2",
+      "title": "直流开断、线缆与服务器兼容性",
+      "pages": [
+        85,
+        85
+      ],
+      "treatment": "60kW线路电流与损耗算例、四类证据表、兼容辨析；与第2章保护接地相连。"
+    },
+    {
+      "chapter": 3,
+      "lesson": "3-4",
+      "section": "3.4.1",
+      "title": "酸性/碱性、开口/密封电池与免维护概念",
+      "pages": [
+        86,
+        87
+      ],
+      "treatment": "材料分类连接热、气体与维护条件，纠正免维护等于无须检查的误读。"
+    },
+    {
+      "chapter": 3,
+      "lesson": "3-4",
+      "section": "3.4.1",
+      "title": "三段充电、不同倍率放电及截止电压曲线",
+      "pages": [
+        87,
+        89
+      ],
+      "treatment": "阶段表、Ah与倍率解释、恒功率电流增长计算，说明曲线如何限制续航。"
+    },
+    {
+      "chapter": 3,
+      "lesson": "3-4",
+      "section": "3.4.1",
+      "title": "过放电、自放电、温度与恢复充电",
+      "pages": [
+        89,
+        91
+      ],
+      "treatment": "解释温度/储存/污染/恢复状态对可用储能的影响，不复制产品特定维护定值。"
+    },
+    {
+      "chapter": 3,
+      "lesson": "3-4",
+      "section": "3.4.2",
+      "title": "恒功率查表、恒流曲线与串并联配置",
+      "pages": [
+        91,
+        93
+      ],
+      "treatment": "完整虚构厂家表、整数电压窗口、寿命系数、两种时长/两型号及独立任务；补充恒流表保守核算并指出原例不一致。"
+    },
+    {
+      "chapter": 3,
+      "lesson": "3-4",
+      "section": "3.4.2",
+      "title": "在线监测、剩余时间、过放保护、温度补偿与自动检测",
+      "pages": [
+        93,
+        95
+      ],
+      "treatment": "证据与结论边界表、五类观测量、模型输入与功能差别解释。"
+    },
+    {
+      "chapter": 3,
+      "lesson": "3-5",
+      "section": "3.5",
+      "title": "维护目的、工具与专业检查边界",
+      "pages": [
+        95,
+        96
+      ],
+      "treatment": "维护映射到设计假设与证据；将仪表/专业检查作为资料来源，不提供实际带电操作程序。"
+    },
+    {
+      "chapter": 3,
+      "lesson": "3-5",
+      "section": "3.5",
+      "title": "UPS房间、外观、连接、绝缘、过热与清洁",
+      "pages": [
+        96,
+        96
+      ],
+      "treatment": "按后果映射的维护表，说明环境与维修可达性会改变可靠性。"
+    },
+    {
+      "chapter": 3,
+      "lesson": "3-5",
+      "section": "3.5",
+      "title": "电池温度、外观、绝缘、一致性、放电与环境",
+      "pages": [
+        96,
+        97
+      ],
+      "treatment": "多参数虚构诊断表、竞争性解释、验证需求与关闭证据；不把浮充电压当容量。"
+    },
+    {
+      "chapter": 3,
+      "lesson": "3-5",
+      "section": "3.5",
+      "title": "日常巡检、数据/状态记录与协同处理",
+      "pages": [
+        97,
+        98
+      ],
+      "treatment": "完整工单、关键路径时间预算、变式与独立任务，关联冗余耗尽与恢复。"
+    },
+    {
+      "chapter": 4,
+      "lesson": "4-1",
+      "section": "4.1.1",
+      "title": "空调基础知识",
+      "pages": [
+        99,
+        102
+      ],
+      "treatment": "状态量、理想混合关系、露点/湿球及原理图"
+    },
+    {
+      "chapter": 4,
+      "lesson": "4-1",
+      "section": "4.1.2",
+      "title": "空气处理过程",
+      "pages": [
+        102,
+        102
+      ],
+      "treatment": "混合—冷却除湿—再热完整算例"
+    },
+    {
+      "chapter": 4,
+      "lesson": "4-1",
+      "section": "4.1.3",
+      "title": "制冷基础原理",
+      "pages": [
+        102,
+        103
+      ],
+      "treatment": "逆卡诺的过程与理论COP、能量守恒和实际循环限制"
+    },
+    {
+      "chapter": 4,
+      "lesson": "4-1",
+      "section": "4.1.4",
+      "title": "制冷循环过程",
+      "pages": [
+        103,
+        103
+      ],
+      "treatment": "四部件原生循环图"
+    },
+    {
+      "chapter": 4,
+      "lesson": "4-1",
+      "section": "4.1.5",
+      "title": "制冷剂",
+      "pages": [
+        104,
+        104
+      ],
+      "treatment": "工质选择维度与年代边界"
+    },
+    {
+      "chapter": 4,
+      "lesson": "4-2",
+      "section": "4.2.1",
+      "title": "数据中心环境要求",
+      "pages": [
+        104,
+        106
+      ],
+      "treatment": "要求—测量—判据表及局部热点题"
+    },
+    {
+      "chapter": 4,
+      "lesson": "4-2",
+      "section": "4.2.2",
+      "title": "数据中心空调环境特点",
+      "pages": [
+        106,
+        107
+      ],
+      "treatment": "显热、连续负荷和污染机制"
+    },
+    {
+      "chapter": 4,
+      "lesson": "4-2",
+      "section": "4.2.3",
+      "title": "数据中心负荷计算",
+      "pages": [
+        107,
+        108
+      ],
+      "treatment": "完整主机房负荷与边界纠错"
+    },
+    {
+      "chapter": 4,
+      "lesson": "4-3",
+      "section": "4.3.1",
+      "title": "风冷直膨空调系统",
+      "pages": [
+        108,
+        110
+      ],
+      "treatment": "四形式比较与分散系统约束"
+    },
+    {
+      "chapter": 4,
+      "lesson": "4-3",
+      "section": "4.3.2",
+      "title": "水冷直膨空调系统",
+      "pages": [
+        110,
+        112
+      ],
+      "treatment": "水/乙二醇、三运行模式"
+    },
+    {
+      "chapter": 4,
+      "lesson": "4-3",
+      "section": "4.3.3",
+      "title": "风冷冷水空调系统",
+      "pages": [
+        112,
+        114
+      ],
+      "treatment": "集中水输配与环境影响"
+    },
+    {
+      "chapter": 4,
+      "lesson": "4-3",
+      "section": "4.3.4",
+      "title": "水冷冷水空调系统",
+      "pages": [
+        114,
+        118
+      ],
+      "treatment": "压缩机/级数/封闭形式/变频比较，实际工况、快启与变流量，塔/板换/泵、环网及两轴蓄冷比较和计算"
+    },
+    {
+      "chapter": 4,
+      "lesson": "4-3",
+      "section": "4.3.5",
+      "title": "冷源自控系统",
+      "pages": [
+        118,
+        119
+      ],
+      "treatment": "状态、流量和模式切换接口"
+    },
+    {
+      "chapter": 4,
+      "lesson": "4-4",
+      "section": "4.4.1",
+      "title": "空调风机",
+      "pages": [
+        119,
+        120
+      ],
+      "treatment": "EC调节能力与有效风量"
+    },
+    {
+      "chapter": 4,
+      "lesson": "4-4",
+      "section": "4.4.2",
+      "title": "房间级送风",
+      "pages": [
+        120,
+        121
+      ],
+      "treatment": "下送上回、上送前回比较"
+    },
+    {
+      "chapter": 4,
+      "lesson": "4-4",
+      "section": "4.4.3",
+      "title": "行列级送风",
+      "pages": [
+        121,
+        123
+      ],
+      "treatment": "前送后回、顶置及通道盘管"
+    },
+    {
+      "chapter": 4,
+      "lesson": "4-4",
+      "section": "4.4.4",
+      "title": "机柜级送风",
+      "pages": [
+        123,
+        124
+      ],
+      "treatment": "微型空调、CDU与冷水背板"
+    },
+    {
+      "chapter": 4,
+      "lesson": "4-5",
+      "section": "4.5.1",
+      "title": "加湿方式",
+      "pages": [
+        124,
+        126
+      ],
+      "treatment": "等温/等焓、各加湿方法比较与水量能量算例"
+    },
+    {
+      "chapter": 4,
+      "lesson": "4-5",
+      "section": "4.5.2",
+      "title": "除湿方式",
+      "pages": [
+        126,
+        127
+      ],
+      "treatment": "露点、两类盘管方法与独立湿度控制"
+    },
+    {
+      "chapter": 4,
+      "lesson": "4-6",
+      "section": "4.6.1",
+      "title": "加湿水处理",
+      "pages": [
+        127,
+        128
+      ],
+      "treatment": "软化、反渗透与电导率适配"
+    },
+    {
+      "chapter": 4,
+      "lesson": "4-6",
+      "section": "4.6.2",
+      "title": "循环水处理",
+      "pages": [
+        128,
+        130
+      ],
+      "treatment": "开闭式回路、物理/化学处理分类及水量平衡"
+    },
+    {
+      "chapter": 4,
+      "lesson": "4-7",
+      "section": "4.7.1",
+      "title": "新风系统",
+      "pages": [
+        130,
+        131
+      ],
+      "treatment": "人员/压差、过滤、热湿与定量新风负荷"
+    },
+    {
+      "chapter": 4,
+      "lesson": "4-7",
+      "section": "4.7.2",
+      "title": "送排风系统",
+      "pages": [
+        131,
+        132
+      ],
+      "treatment": "辅助房间、工艺与灾后通风状态矩阵"
+    },
+    {
+      "chapter": 4,
+      "lesson": "4-8",
+      "section": "4.8.1",
+      "title": "主要节能措施",
+      "pages": [
+        132,
+        133
+      ],
+      "treatment": "升温、自然冷却时数、变频相似律与系统反例"
+    },
+    {
+      "chapter": 4,
+      "lesson": "4-8",
+      "section": "4.8.2",
+      "title": "新型系统形式",
+      "pages": [
+        133,
+        135
+      ],
+      "treatment": "五类自然冷源、比较表及全年分模式算例"
+    },
+    {
+      "chapter": 4,
+      "lesson": "4-9",
+      "section": "4.9",
+      "title": "主要设备日常维护",
+      "pages": [
+        135,
+        137
+      ],
+      "treatment": "冷机五系统、精密空调、塔、泵与板换的因果诊断与复测"
+    },
+    {
+      "chapter": 5,
+      "lesson": "5-1",
+      "section": "5.1",
+      "title": "后备发电机供电系统在数据中心的定位",
+      "pages": [
+        138,
+        138
+      ],
+      "treatment": "独立性、双时间轴与三类能力"
+    },
+    {
+      "chapter": 5,
+      "lesson": "5-2",
+      "section": "5.2.1",
+      "title": "数据中心核心负载设备及辅助系统",
+      "pages": [
+        139,
+        139
+      ],
+      "treatment": "分组负载清单"
+    },
+    {
+      "chapter": 5,
+      "lesson": "5-2",
+      "section": "5.2.2",
+      "title": "数据中心负荷等级及分类",
+      "pages": [
+        139,
+        139
+      ],
+      "treatment": "负荷重要性、必要/一般负荷及不同事件的同时需求"
+    },
+    {
+      "chapter": 5,
+      "lesson": "5-2",
+      "section": "5.2.3",
+      "title": "数据中心功率密度的变化",
+      "pages": [
+        139,
+        139
+      ],
+      "treatment": "同600kW不同机柜分布、首期/终期与空间指标局限"
+    },
+    {
+      "chapter": 5,
+      "lesson": "5-2",
+      "section": "5.2.4",
+      "title": "数据中心容性负载对供电系统的影响",
+      "pages": [
+        140,
+        141
+      ],
+      "treatment": "PF、容性、谐波和源头治理"
+    },
+    {
+      "chapter": 5,
+      "lesson": "5-3",
+      "section": "5.3.1",
+      "title": "国标对机组功率的标定",
+      "pages": [
+        141,
+        142
+      ],
+      "treatment": "四类定义、平均与时间完整计算"
+    },
+    {
+      "chapter": 5,
+      "lesson": "5-3",
+      "section": "5.3.2",
+      "title": "制造商对机组功率的标定",
+      "pages": [
+        142,
+        143
+      ],
+      "treatment": "同口径报价和原文疑点"
+    },
+    {
+      "chapter": 5,
+      "lesson": "5-4",
+      "section": "5.4.1",
+      "title": "柴油发电机组及配套电控设备",
+      "pages": [
+        143,
+        146
+      ],
+      "treatment": "动力/励磁/控制、配套设备及性能"
+    },
+    {
+      "chapter": 5,
+      "lesson": "5-4",
+      "section": "5.4.2",
+      "title": "典型的不同电压等级供电电源架构",
+      "pages": [
+        146,
+        149
+      ],
+      "treatment": "中低压接入、切换与保护边界"
+    },
+    {
+      "chapter": 5,
+      "lesson": "5-4",
+      "section": "5.4.3",
+      "title": "室内外供储油系统",
+      "pages": [
+        149,
+        150
+      ],
+      "treatment": "供油依赖图与12h油量计算"
+    },
+    {
+      "chapter": 5,
+      "lesson": "5-4",
+      "section": "5.4.4",
+      "title": "柴油发电机组的运行方式",
+      "pages": [
+        150,
+        151
+      ],
+      "treatment": "单机/并机及三类投入逻辑"
+    },
+    {
+      "chapter": 5,
+      "lesson": "5-4",
+      "section": "5.4.5",
+      "title": "柴油发电机组的负载特性",
+      "pages": [
+        151,
+        152
+      ],
+      "treatment": "连接5-2的非线性与动态核验"
+    },
+    {
+      "chapter": 5,
+      "lesson": "5-4",
+      "section": "5.4.6",
+      "title": "柴油发电机组选型前注意事项",
+      "pages": [
+        152,
+        152
+      ],
+      "treatment": "工况、环境和公共依赖"
+    },
+    {
+      "chapter": 5,
+      "lesson": "5-4",
+      "section": "5.4.7",
+      "title": "柴油发电机组的容量选择",
+      "pages": [
+        152,
+        153
+      ],
+      "treatment": "kW/kVA修正与N+1算例"
+    },
+    {
+      "chapter": 5,
+      "lesson": "5-4",
+      "section": "5.4.8",
+      "title": "电源系统中性点的接地方式",
+      "pages": [
+        153,
+        155
+      ],
+      "treatment": "中性点与设备接地、保护及环流"
+    },
+    {
+      "chapter": 5,
+      "lesson": "5-5",
+      "section": "5.5.1",
+      "title": "柴油发电机房选址及机房布局",
+      "pages": [
+        156,
+        157
+      ],
+      "treatment": "室内外、基础动静载、运输检修和分期"
+    },
+    {
+      "chapter": 5,
+      "lesson": "5-5",
+      "section": "5.5.2",
+      "title": "室外储罐区的选址及管道系统",
+      "pages": [
+        157,
+        159
+      ],
+      "treatment": "储罐地质/地下水与供油路由"
+    },
+    {
+      "chapter": 5,
+      "lesson": "5-6",
+      "section": "5.6.1",
+      "title": "机组运行时所产生的噪声声源分析",
+      "pages": [
+        159,
+        162
+      ],
+      "treatment": "六类声源、空气/结构途径"
+    },
+    {
+      "chapter": 5,
+      "lesson": "5-6",
+      "section": "5.6.2",
+      "title": "对机房噪声声源的处理",
+      "pages": [
+        162,
+        163
+      ],
+      "treatment": "隔声吸声消声减振与通风约束"
+    },
+    {
+      "chapter": 5,
+      "lesson": "5-7",
+      "section": "5.7.1",
+      "title": "柴油发电系统的安装内容",
+      "pages": [
+        163,
+        164
+      ],
+      "treatment": "接口与安装证据"
+    },
+    {
+      "chapter": 5,
+      "lesson": "5-7",
+      "section": "5.7.2",
+      "title": "柴油发电系统的验收项",
+      "pages": [
+        164,
+        164
+      ],
+      "treatment": "要求—证据矩阵"
+    },
+    {
+      "chapter": 5,
+      "lesson": "5-7",
+      "section": "5.7.3",
+      "title": "柴油发电机系统的调试项",
+      "pages": [
+        164,
+        164
+      ],
+      "treatment": "测试条件、判据和状态"
+    },
+    {
+      "chapter": 5,
+      "lesson": "5-7",
+      "section": "5.7.4",
+      "title": "柴油发电机系统测试项及常规测试项",
+      "pages": [
+        164,
+        165
+      ],
+      "treatment": "单机/并机/运营与响应完整算例"
+    },
+    {
+      "chapter": 5,
+      "lesson": "5-8",
+      "section": "5.8.1",
+      "title": "柴油发电系统的巡视保养",
+      "pages": [
+        165,
+        166
+      ],
+      "treatment": "日历/工时、环境、低负载与趋势"
+    },
+    {
+      "chapter": 5,
+      "lesson": "5-8",
+      "section": "5.8.2",
+      "title": "柴油发电机组大修期确定",
+      "pages": [
+        166,
+        166
+      ],
+      "treatment": "专业评估边界"
+    },
+    {
+      "chapter": 5,
+      "lesson": "5-8",
+      "section": "5.8.3",
+      "title": "柴油发电系统辅助设备的基本巡视检查内容",
+      "pages": [
+        166,
+        166
+      ],
+      "treatment": "功能—证据表与准备状态推理"
+    },
+    {
+      "chapter": 5,
+      "lesson": "5-9",
+      "section": "5.9.1",
+      "title": "柴油发电机组及配套设施的清洁",
+      "pages": [
+        166,
+        167
+      ],
+      "treatment": "机组、进排风消声装置与性能验证"
+    },
+    {
+      "chapter": 5,
+      "lesson": "5-9",
+      "section": "5.9.2",
+      "title": "供储油设施的清洁",
+      "pages": [
+        167,
+        167
+      ],
+      "treatment": "沉积、冷凝水、油品与有效续航"
+    },
+    {
+      "chapter": 6,
+      "lesson": "6-1",
+      "section": "6.1.1",
+      "title": "系统架构与组成",
+      "pages": [
+        170,
+        170
+      ],
+      "treatment": "五层原生图、四遥与功能边界"
+    },
+    {
+      "chapter": 6,
+      "lesson": "6-1",
+      "section": "6.1.2",
+      "title": "前端采集层",
+      "pages": [
+        170,
+        176
+      ],
+      "treatment": "12类供电对象、制冷/加湿/通风、六类环境及完整教学点表"
+    },
+    {
+      "chapter": 6,
+      "lesson": "6-1",
+      "section": "6.1.3",
+      "title": "传输和数据处理层",
+      "pages": [
+        176,
+        181
+      ],
+      "treatment": "接口协议分层、语义映射、轮询与故障域"
+    },
+    {
+      "chapter": 6,
+      "lesson": "6-1",
+      "section": "6.1.4",
+      "title": "设备管理层",
+      "pages": [
+        181,
+        183
+      ],
+      "treatment": "服务器存储冗余、串口服务器、VxComm、嵌入式缓存"
+    },
+    {
+      "chapter": 6,
+      "lesson": "6-1",
+      "section": "6.1.5",
+      "title": "可视化处理层",
+      "pages": [
+        183,
+        186
+      ],
+      "treatment": "ECC、大屏四组件、历史显示技术和音视频中控"
+    },
+    {
+      "chapter": 6,
+      "lesson": "6-1",
+      "section": "6.1.6",
+      "title": "系统应用层",
+      "pages": [
+        186,
+        188
+      ],
+      "treatment": "影响紧急矩阵、事件闭环、历史趋势、能源边界与后台权限"
+    },
+    {
+      "chapter": 6,
+      "lesson": "6-2",
+      "section": "6.2.1",
+      "title": "楼宇自控系统的原理与构成",
+      "pages": [
+        188,
+        190
+      ],
+      "treatment": "DDC闭环、AI/AO/DI/DO、量程转换、校准与专用控制边界"
+    },
+    {
+      "chapter": 6,
+      "lesson": "6-2",
+      "section": "6.2.2",
+      "title": "数据中心冷源系统的自控",
+      "pages": [
+        190,
+        192
+      ],
+      "treatment": "表6-4点组、冷负荷计算、联锁依赖、部分负荷、自然冷却与水质控制"
+    },
+    {
+      "chapter": 6,
+      "lesson": "6-3",
+      "section": "6.3.1",
+      "title": "防护等级划分",
+      "pages": [
+        193,
+        194
+      ],
+      "treatment": "四层风险表及支持区后果"
+    },
+    {
+      "chapter": 6,
+      "lesson": "6-3",
+      "section": "6.3.2",
+      "title": "视频安防监控系统",
+      "pages": [
+        194,
+        196
+      ],
+      "treatment": "视频四段链、视场焦距、带宽存储完整算例"
+    },
+    {
+      "chapter": 6,
+      "lesson": "6-3",
+      "section": "6.3.3",
+      "title": "出入口控制系统",
+      "pages": [
+        196,
+        199
+      ],
+      "treatment": "认证技术取舍、五种应用方式、控制器保护及访客复核"
+    },
+    {
+      "chapter": 6,
+      "lesson": "6-3",
+      "section": "6.3.4",
+      "title": "入侵报警系统",
+      "pages": [
+        199,
+        201
+      ],
+      "treatment": "探测与传输结构、周界/内部、各探测技术比较"
+    },
+    {
+      "chapter": 6,
+      "lesson": "6-3",
+      "section": "6.3.5",
+      "title": "安全防范集成管理系统",
+      "pages": [
+        202,
+        202
+      ],
+      "treatment": "门禁/视频/探测事件关联、联动优先级与证据缺口"
+    },
+    {
+      "chapter": 6,
+      "lesson": "6-4",
+      "section": "6.4",
+      "title": "数据中心智能化系统的等级与配置",
+      "pages": [
+        202,
+        204
+      ],
+      "treatment": "表6-5关键差异、基本/冗余/容错故障分析、DCIM关系模型与多资源上架算例"
+    },
+    {
+      "chapter": 7,
+      "lesson": "7-1",
+      "section": "7.1",
+      "title": "数据中心布线系统的等级及分类",
+      "pages": [
+        205,
+        207
+      ],
+      "treatment": "等级比较表转为故障场景与维护状态示范，覆盖原表 7-1、7-2 的入口、设备、路由与标识维度"
+    },
+    {
+      "chapter": 7,
+      "lesson": "7-2",
+      "section": "7.2",
+      "title": "网络的拓扑结构",
+      "pages": [
+        207,
+        211
+      ],
+      "treatment": "基本拓扑与职责分层、图 7-2 四类网络、三层/矩阵结构和管理网络；示范上联故障容量"
+    },
+    {
+      "chapter": 7,
+      "lesson": "7-3",
+      "section": "7.3.1",
+      "title": "数据中心的布线空间",
+      "pages": [
+        212,
+        215
+      ],
+      "treatment": "重绘图 7-8；比较各配线区、进线间、电信间及行政/辅助/支持区"
+    },
+    {
+      "chapter": 7,
+      "lesson": "7-3",
+      "section": "7.3.2",
+      "title": "数据中心布线系统的拓扑结构",
+      "pages": [
+        215,
+        221
+      ],
+      "treatment": "链路/信道模型、主干与水平距离、区域插座降额思想；基础、简化及分布式结构"
+    },
+    {
+      "chapter": 7,
+      "lesson": "7-4",
+      "section": "7.4.1",
+      "title": "EoR/MoR和ToR",
+      "pages": [
+        221,
+        223
+      ],
+      "treatment": "图 7-18 至 7-20 同布局重绘、线长/端口示范及装载变式"
+    },
+    {
+      "chapter": 7,
+      "lesson": "7-4",
+      "section": "7.4.2",
+      "title": "刀片式服务器",
+      "pages": [
+        223,
+        224
+      ],
+      "treatment": "机箱内整合与兼容性边界，联系图 7-21"
+    },
+    {
+      "chapter": 7,
+      "lesson": "7-4",
+      "section": "7.4.3",
+      "title": "模块化POD方案",
+      "pages": [
+        223,
+        224
+      ],
+      "treatment": "供电冷却布线共同模块化，综合项目单元边界"
+    },
+    {
+      "chapter": 7,
+      "lesson": "7-5",
+      "section": "7.5.1",
+      "title": "线缆",
+      "pages": [
+        224,
+        225
+      ],
+      "treatment": "十项交付链比较表与标识示范，说明产品间接口和生命周期证据"
+    },
+    {
+      "chapter": 7,
+      "lesson": "7-5",
+      "section": "7.5.2",
+      "title": "机柜和机架",
+      "pages": [
+        225,
+        226
+      ],
+      "treatment": "十项交付链比较表与标识示范，说明产品间接口和生命周期证据"
+    },
+    {
+      "chapter": 7,
+      "lesson": "7-5",
+      "section": "7.5.3",
+      "title": "配线架",
+      "pages": [
+        226,
+        227
+      ],
+      "treatment": "十项交付链比较表与标识示范，说明产品间接口和生命周期证据"
+    },
+    {
+      "chapter": 7,
+      "lesson": "7-5",
+      "section": "7.5.4",
+      "title": "线缆管理器",
+      "pages": [
+        227,
+        228
+      ],
+      "treatment": "十项交付链比较表与标识示范，说明产品间接口和生命周期证据"
+    },
+    {
+      "chapter": 7,
+      "lesson": "7-5",
+      "section": "7.5.5",
+      "title": "设备线缆与跳线",
+      "pages": [
+        228,
+        228
+      ],
+      "treatment": "十项交付链比较表与标识示范，说明产品间接口和生命周期证据"
+    },
+    {
+      "chapter": 7,
+      "lesson": "7-5",
+      "section": "7.5.6",
+      "title": "预端接系统",
+      "pages": [
+        228,
+        229
+      ],
+      "treatment": "十项交付链比较表与标识示范，说明产品间接口和生命周期证据"
+    },
+    {
+      "chapter": 7,
+      "lesson": "7-5",
+      "section": "7.5.7",
+      "title": "走线通道",
+      "pages": [
+        229,
+        230
+      ],
+      "treatment": "十项交付链比较表与标识示范，说明产品间接口和生命周期证据"
+    },
+    {
+      "chapter": 7,
+      "lesson": "7-5",
+      "section": "7.5.8",
+      "title": "配线设备安装设计",
+      "pages": [
+        230,
+        231
+      ],
+      "treatment": "十项交付链比较表与标识示范，说明产品间接口和生命周期证据"
+    },
+    {
+      "chapter": 7,
+      "lesson": "7-5",
+      "section": "7.5.9",
+      "title": "标签标识",
+      "pages": [
+        231,
+        232
+      ],
+      "treatment": "十项交付链比较表与标识示范，说明产品间接口和生命周期证据"
+    },
+    {
+      "chapter": 7,
+      "lesson": "7-5",
+      "section": "7.5.10",
+      "title": "标识设计",
+      "pages": [
+        232,
+        234
+      ],
+      "treatment": "十项交付链比较表与标识示范，说明产品间接口和生命周期证据"
+    },
+    {
+      "chapter": 7,
+      "lesson": "7-6",
+      "section": "7.6",
+      "title": "综合布线系统的测试",
+      "pages": [
+        234,
+        236
+      ],
+      "treatment": "光损耗完整计算；光源参考、外部串扰、长跳线和多连接短链路比较；技术演进边界"
+    },
+    {
+      "chapter": 8,
+      "lesson": "8-1",
+      "section": "8.1",
+      "title": "火灾的分类",
+      "pages": [
+        237,
+        237
+      ],
+      "treatment": "六类比较表、物质/状态/功能区辨析及案例资料改写"
+    },
+    {
+      "chapter": 8,
+      "lesson": "8-2",
+      "section": "8.2.1",
+      "title": "外部火灾蔓延",
+      "pages": [
+        238,
+        238
+      ],
+      "treatment": "原因/证据表、I²R耦合示范、三假说练习"
+    },
+    {
+      "chapter": 8,
+      "lesson": "8-2",
+      "section": "8.2.2",
+      "title": "电气火灾",
+      "pages": [
+        238,
+        239
+      ],
+      "treatment": "原因/证据表、I²R耦合示范、三假说练习"
+    },
+    {
+      "chapter": 8,
+      "lesson": "8-2",
+      "section": "8.2.3",
+      "title": "空调设备引发的火灾",
+      "pages": [
+        239,
+        239
+      ],
+      "treatment": "原因/证据表、I²R耦合示范、三假说练习"
+    },
+    {
+      "chapter": 8,
+      "lesson": "8-2",
+      "section": "8.2.4",
+      "title": "蓄电池引发的火灾",
+      "pages": [
+        239,
+        239
+      ],
+      "treatment": "原因/证据表、I²R耦合示范、三假说练习"
+    },
+    {
+      "chapter": 8,
+      "lesson": "8-2",
+      "section": "8.2.5",
+      "title": "人为火灾",
+      "pages": [
+        239,
+        239
+      ],
+      "treatment": "原因/证据表、I²R耦合示范、三假说练习"
+    },
+    {
+      "chapter": 8,
+      "lesson": "8-2",
+      "section": "8.2.6",
+      "title": "其他性质的火灾",
+      "pages": [
+        240,
+        240
+      ],
+      "treatment": "原因/证据表、I²R耦合示范、三假说练习"
+    },
+    {
+      "chapter": 8,
+      "lesson": "8-3",
+      "section": "8.3.1",
+      "title": "建筑防火",
+      "pages": [
+        240,
+        244
+      ],
+      "treatment": "建筑类别/构件/分区/疏散条件矩阵，解释原表8-1至8-7的使用方法"
+    },
+    {
+      "chapter": 8,
+      "lesson": "8-3",
+      "section": "8.3.2",
+      "title": "建材防火",
+      "pages": [
+        244,
+        244
+      ],
+      "treatment": "材料证据与完整构造边界的区别"
+    },
+    {
+      "chapter": 8,
+      "lesson": "8-3",
+      "section": "8.3.3",
+      "title": "电气防火",
+      "pages": [
+        244,
+        245
+      ],
+      "treatment": "设计施工运行证据链"
+    },
+    {
+      "chapter": 8,
+      "lesson": "8-3",
+      "section": "8.3.4",
+      "title": "火灾自动报警系统",
+      "pages": [
+        245,
+        246
+      ],
+      "treatment": "采集、显示、联动、供电和记录链；延迟计算"
+    },
+    {
+      "chapter": 8,
+      "lesson": "8-4",
+      "section": "8.4.1",
+      "title": "气体灭火系统",
+      "pages": [
+        246,
+        249
+      ],
+      "treatment": "气体和热气溶胶的完整系统约束表，区别材料特性与人员安全"
+    },
+    {
+      "chapter": 8,
+      "lesson": "8-4",
+      "section": "8.4.2",
+      "title": "自动喷水灭火系统",
+      "pages": [
+        249,
+        251
+      ],
+      "treatment": "湿式/干式/预作用/重复启闭状态及维护逻辑"
+    },
+    {
+      "chapter": 8,
+      "lesson": "8-4",
+      "section": "8.4.3",
+      "title": "细水雾灭火系统",
+      "pages": [
+        251,
+        252
+      ],
+      "treatment": "物理机理与水质组件约束，系统选择与生命周期成本"
+    },
+    {
+      "chapter": 9,
+      "lesson": "9-1",
+      "section": "9.1.1",
+      "title": "防水",
+      "pages": [
+        253,
+        254
+      ],
+      "treatment": "六性能矩阵、六面体传热及局部露点示范、孔洞跨专业复核"
+    },
+    {
+      "chapter": 9,
+      "lesson": "9-1",
+      "section": "9.1.2",
+      "title": "防火",
+      "pages": [
+        254,
+        254
+      ],
+      "treatment": "六性能矩阵、六面体传热及局部露点示范、孔洞跨专业复核"
+    },
+    {
+      "chapter": 9,
+      "lesson": "9-1",
+      "section": "9.1.3",
+      "title": "保温",
+      "pages": [
+        254,
+        254
+      ],
+      "treatment": "六性能矩阵、六面体传热及局部露点示范、孔洞跨专业复核"
+    },
+    {
+      "chapter": 9,
+      "lesson": "9-1",
+      "section": "9.1.4",
+      "title": "防尘",
+      "pages": [
+        254,
+        255
+      ],
+      "treatment": "六性能矩阵、六面体传热及局部露点示范、孔洞跨专业复核"
+    },
+    {
+      "chapter": 9,
+      "lesson": "9-1",
+      "section": "9.1.5",
+      "title": "防静电",
+      "pages": [
+        255,
+        255
+      ],
+      "treatment": "六性能矩阵、六面体传热及局部露点示范、孔洞跨专业复核"
+    },
+    {
+      "chapter": 9,
+      "lesson": "9-1",
+      "section": "9.1.6",
+      "title": "防虫害",
+      "pages": [
+        255,
+        255
+      ],
+      "treatment": "六性能矩阵、六面体传热及局部露点示范、孔洞跨专业复核"
+    },
+    {
+      "chapter": 9,
+      "lesson": "9-2",
+      "section": "9.2.1",
+      "title": "吊顶工程",
+      "pages": [
+        255,
+        257
+      ],
+      "treatment": "六工程比较表与运行情境；通风地板守恒算例、材料维护成本比较"
+    },
+    {
+      "chapter": 9,
+      "lesson": "9-2",
+      "section": "9.2.2",
+      "title": "地面工程",
+      "pages": [
+        257,
+        258
+      ],
+      "treatment": "六工程比较表与运行情境；通风地板守恒算例、材料维护成本比较"
+    },
+    {
+      "chapter": 9,
+      "lesson": "9-2",
+      "section": "9.2.3",
+      "title": "隔墙工程",
+      "pages": [
+        258,
+        260
+      ],
+      "treatment": "六工程比较表与运行情境；通风地板守恒算例、材料维护成本比较"
+    },
+    {
+      "chapter": 9,
+      "lesson": "9-2",
+      "section": "9.2.4",
+      "title": "墙面工程",
+      "pages": [
+        260,
+        261
+      ],
+      "treatment": "六工程比较表与运行情境；通风地板守恒算例、材料维护成本比较"
+    },
+    {
+      "chapter": 9,
+      "lesson": "9-2",
+      "section": "9.2.5",
+      "title": "门窗工程",
+      "pages": [
+        261,
+        261
+      ],
+      "treatment": "六工程比较表与运行情境；通风地板守恒算例、材料维护成本比较"
+    },
+    {
+      "chapter": 9,
+      "lesson": "9-2",
+      "section": "9.2.6",
+      "title": "标识工程",
+      "pages": [
+        261,
+        262
+      ],
+      "treatment": "六工程比较表与运行情境；通风地板守恒算例、材料维护成本比较"
+    },
+    {
+      "chapter": 10,
+      "lesson": "10-1",
+      "section": "10.1",
+      "title": "京东集团华东数据中心简介",
+      "pages": [
+        263,
+        264
+      ],
+      "treatment": "历史事实/预测表、图10-2布局阅读、双顺序推导与混合密度分期算例"
+    },
+    {
+      "chapter": 10,
+      "lesson": "10-2-power",
+      "section": "10.2.1",
+      "title": "供配电系统：110kV专用变电站",
+      "pages": [
+        265,
+        266
+      ],
+      "treatment": "原图10-4重绘与外部来源/母线层级"
+    },
+    {
+      "chapter": 10,
+      "lesson": "10-2-power",
+      "section": "10.2.1",
+      "title": "后备柴油发电系统：特点、可靠性、并机、供储油、在线检修",
+      "pages": [
+        265,
+        273
+      ],
+      "treatment": "原图10-6/10-16关系归纳，工况组合与燃油控制依赖"
+    },
+    {
+      "chapter": 10,
+      "lesson": "10-2-power",
+      "section": "10.2.1",
+      "title": "模块内10kV配电系统",
+      "pages": [
+        272,
+        274
+      ],
+      "treatment": "测量、监视上传与维护关系"
+    },
+    {
+      "chapter": 10,
+      "lesson": "10-2-power",
+      "section": "10.2.1",
+      "title": "低压供配电系统及六类设备",
+      "pages": [
+        274,
+        282
+      ],
+      "treatment": "原图10-19重绘；设备功能表、N+1/kVA/能量示范"
+    },
+    {
+      "chapter": 10,
+      "lesson": "10-2-cooling",
+      "section": "10.2.2",
+      "title": "气候环境与系统说明",
+      "pages": [
+        282,
+        284
+      ],
+      "treatment": "气象到自然冷却的条件链与真实参数表"
+    },
+    {
+      "chapter": 10,
+      "lesson": "10-2-cooling",
+      "section": "10.2.2",
+      "title": "冷源系统",
+      "pages": [
+        284,
+        286
+      ],
+      "treatment": "三级离心机、部分负荷与容量口径；7427/7383核验"
+    },
+    {
+      "chapter": 10,
+      "lesson": "10-2-cooling",
+      "section": "10.2.2",
+      "title": "管路系统",
+      "pages": [
+        286,
+        288
+      ],
+      "treatment": "图10-32/33重绘、一次泵、蓄冷、分层与补水依赖"
+    },
+    {
+      "chapter": 10,
+      "lesson": "10-2-cooling",
+      "section": "10.2.2",
+      "title": "冷源控制系统",
+      "pages": [
+        288,
+        289
+      ],
+      "treatment": "分布式控制、设备匹配、独立供电与监测"
+    },
+    {
+      "chapter": 10,
+      "lesson": "10-2-cooling",
+      "section": "10.2.2",
+      "title": "空调末端系统",
+      "pages": [
+        289,
+        290
+      ],
+      "treatment": "架空层、封闭冷通道、末端供电与EC风机"
+    },
+    {
+      "chapter": 10,
+      "lesson": "10-2-cooling",
+      "section": "10.2.2",
+      "title": "自然冷却",
+      "pages": [
+        290,
+        291
+      ],
+      "treatment": "板换路径与气象、水温及末端条件"
+    },
+    {
+      "chapter": 10,
+      "lesson": "10-2-interior",
+      "section": "10.2.3",
+      "title": "京东云数据中心装饰装修效果展示：三类顶面",
+      "pages": [
+        292,
+        293
+      ],
+      "treatment": "逐图证据矩阵覆盖10-42、10-43、10-44；维护空间和功能区比较"
+    },
+    {
+      "chapter": 10,
+      "lesson": "10-2-interior",
+      "section": "10.2.3",
+      "title": "两种隔断与两种地面",
+      "pages": [
+        293,
+        294
+      ],
+      "treatment": "图10-45至10-48的构造接口与照片证据边界，材料/系统/性能辨析"
+    },
+    {
+      "chapter": 10,
+      "lesson": "10-3-operations",
+      "section": "10.3.1",
+      "title": "设施运维管理目标、运行与维护、四大对象系统",
+      "pages": [
+        294,
+        296
+      ],
+      "treatment": "早期团队引文、运行/维护区别与电气/暖通/智能化/消防范围"
+    },
+    {
+      "chapter": 10,
+      "lesson": "10-3-operations",
+      "section": "10.3.2",
+      "title": "人员管理",
+      "pages": [
+        296,
+        297
+      ],
+      "treatment": "巡检与技术管理职责、培训、角色分工"
+    },
+    {
+      "chapter": 10,
+      "lesson": "10-3-operations",
+      "section": "10.3.2",
+      "title": "设施管理六项制度",
+      "pages": [
+        297,
+        298
+      ],
+      "treatment": "台账、参数、预防维护、工单、MOP/SOP/EOP、物料工具及生命周期表"
+    },
+    {
+      "chapter": 10,
+      "lesson": "10-3-operations",
+      "section": "10.3.2",
+      "title": "运行管理：巡检交接、安全防范、清洁、事件",
+      "pages": [
+        298,
+        299
+      ],
+      "treatment": "交接与访问制度、四级事件、表10-1报告链、完整故障工单示范"
+    },
+    {
+      "chapter": 10,
+      "lesson": "10-3-operations",
+      "section": "10.3.2",
+      "title": "运行管理：应急响应与容量",
+      "pages": [
+        299,
+        300
+      ],
+      "treatment": "沙盘/跑位/人员安全、空间与能力容量、周月报；能效在下课展开"
+    },
+    {
+      "chapter": 10,
+      "lesson": "10-3-efficiency",
+      "section": "10.3.2",
+      "title": "运行管理：能效管理与PUE",
+      "pages": [
+        300,
+        300
+      ],
+      "treatment": "原图10-49重绘、边界、同周期电量完整示范"
+    },
+    {
+      "chapter": 10,
+      "lesson": "10-3-efficiency",
+      "section": "10.3.2",
+      "title": "UPS系统的优化控制",
+      "pages": [
+        300,
+        301
+      ],
+      "treatment": "图10-50负载率/效率、休眠唤醒轮换及效率损耗算例"
+    },
+    {
+      "chapter": 10,
+      "lesson": "10-3-efficiency",
+      "section": "10.3.2",
+      "title": "冷源系统的优化控制",
+      "pages": [
+        301,
+        303
+      ],
+      "treatment": "图10-51坐标与COP换算，原图10-52全9行数据复算，图10-53相似律与实测比较"
+    },
+    {
+      "chapter": 10,
+      "lesson": "10-3-efficiency",
+      "section": "10.3.2",
+      "title": "精密空调与照明优化控制",
+      "pages": [
+        303,
+        304
+      ],
+      "treatment": "图10-54风量/功耗与50%案例边界，感应和最低照度"
+    },
+    {
+      "chapter": 10,
+      "lesson": "10-3-platform",
+      "section": "10.3.3",
+      "title": "平台目标及系统概况",
+      "pages": [
+        304,
+        305
+      ],
+      "treatment": "四独立模块与ECC、IT和设施整合、模块化与北向接口"
+    },
+    {
+      "chapter": 10,
+      "lesson": "10-3-platform",
+      "section": "10.3.3",
+      "title": "模块级监控系统架构",
+      "pages": [
+        305,
+        306
+      ],
+      "treatment": "三层职责表、双服务器/数据库边界及数据有效性练习"
+    },
+    {
+      "chapter": 10,
+      "lesson": "10-3-platform",
+      "section": "10.3.3",
+      "title": "园区系统平台架构",
+      "pages": [
+        306,
+        307
+      ],
+      "treatment": "图10-58概念重绘，分布式与跨模块整合"
+    },
+    {
+      "chapter": 10,
+      "lesson": "10-3-platform",
+      "section": "10.3.3",
+      "title": "基础设施模块功能",
+      "pages": [
+        307,
+        308
+      ],
+      "treatment": "图10-59十二类工作完整归并表，多维容量/预占示范"
+    },
+    {
+      "chapter": 10,
+      "lesson": "10-3-platform",
+      "section": "10.3.3",
+      "title": "客户服务与客户自助服务",
+      "pages": [
+        307,
+        309
+      ],
+      "treatment": "图10-60/61功能与角色对照，申请到验证工作链"
+    },
+    {
+      "chapter": 10,
+      "lesson": "10-3-platform",
+      "section": "10.3.3",
+      "title": "大屏展示模块功能",
+      "pages": [
+        310,
+        310
+      ],
+      "treatment": "图10-62网络/设施/事件展示，陈旧数据与可信性练习"
+    }
+  ]
+}

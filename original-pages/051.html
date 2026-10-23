@@ -1,0 +1,11 @@
+<!doctype html><html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>第2章　数据中心供配电系统 · 书页 37 · PDF 51 · 原文</title><link rel="stylesheet" href="../original-text.css"></head><body class="original-standalone"><nav class="original-navigation"><a href="050.html">← PDF 50</a><a href="../index.html#original/51">回到课程阅读器</a><a href="052.html">PDF 52 →</a></nav><p class="original-editorial">PDF第51页 · 已逐页校对</p><article class="original-prose book-faithful book-paper book-chapter-2" id="original-page-content"><header class="book-running-head odd"><span>第 2 章　数据中心供配电系统</span><span class="book-head-ornament"></span><span>37</span></header><figure class="book-figure-p51-0"><img src="../assets/original-figures/p051-fig2-14.webp" width="1054" height="393" alt="图2-14　电子信息设备电源拓扑示意图"><figcaption>图2-14　电子信息设备电源拓扑示意图</figcaption></figure>
+<p>OUTPUT（输出）功率（通常带有MAX），表征该服务器电源的最大输出功率，通常只有在服务器电源铭牌上才能看到，即铭牌功率，这个参数通常被当作设计参考值。但需要注意的是，负载的实际容量并不直接等同于服务器电源的最大输出功率。</p>
+<p>对于服务器的功率的理解，通常有三种表示方法：</p>
+<ul class="book-list"><li>铭牌功率：即服务器电源铭牌功率。</li><li>最大工况功率：服务器工作在最大用电负载时的耗电功率。通常约占到服务器铭牌功率的80%左右。因为服务器厂商在选择电源时保留了20%的裕量。</li><li>CPU100%利用率工况功率：即CPU工作在100%利用率时的耗电功率。通常的功率范围值在60%～70%铭牌功率。</li></ul>
+<p>（2）服务器电源冗余</p>
+<p>服务器电源冗余是指服务器设备中广泛使用两个或两个以上的电源同时供电。这种多电源供电技术称为冗余电源。</p>
+<p>1）冗余电源的系统结构</p>
+<p>冗余电源系统采用输入总线、负载总线和共享总线的三总线电路结构，如图2-15所示。电源1、电源2……电源<i>n</i>为热插拔电源模块，它们以并联方式相连接；C1、C2……C<i>n</i>为各电源模块的控制模块；S1、S2……S<i>n</i>为受控调节器；SENSE1、SENSE2……SENSE<i>n</i>为电源检测信号；FB为负载电压反馈信号。系统正常工作时，控制模块通过调整电源1−<i>n</i>的工作参数，使系统均衡地使用每个电源模块，即每个电源模块向系统提供相同的电流，这种工作模式称为电流共享；或者控制受控调节器使得某一个/组电源工作，其余个/组电源备份。冗余电源系统中的每个供电模块均可以热插拔，一旦某个供电模块损坏，就能在不停电的情况下完成维修工作，而丝毫不影响系统的正常运行。热插拔是指将模块、板卡或电源等设备带电接入或移出正在工作的机器。</p>
+<p>2）冗余电源对于前端供配电系统的要求</p>
+<p>服务器冗余电源系统最终都可以归结到双电源系统上，如果双电源服务器的每一路电源都能够通过独立的供电路由从独立的电源取电，就能够获得最高的可靠性。所以关键点是供电路由独立和电源独立。</p>
+<p>UPS系统的传统供电方案，如单机/串联热备份/<i>N</i>+1直接并机等都不能做到电源相互独立，与之相配套的供电路由也无法独立，即每个环节都存在着明显的单点故障，因此无</p></article><nav class="original-navigation"><a href="050.html">← PDF 50</a><a href="052.html">PDF 52 →</a></nav></body></html>

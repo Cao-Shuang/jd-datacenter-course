@@ -1,0 +1,16 @@
+<!doctype html><html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>第2章　数据中心供配电系统 · 书页 32 · PDF 46 · 原文</title><link rel="stylesheet" href="../original-text.css"></head><body class="original-standalone"><nav class="original-navigation"><a href="045.html">← PDF 45</a><a href="../index.html#original/46">回到课程阅读器</a><a href="047.html">PDF 47 →</a></nav><p class="original-editorial">PDF第46页 · 已逐页校对</p><article class="original-prose book-faithful book-paper book-chapter-2" id="original-page-content"><header class="book-running-head even"><span>32</span><span class="book-head-ornament"></span><span>京东数据中心构建实战</span></header><h4>3. ATSE极数选用原则</h4>
+<p>《自动转换开关电器ATSE设计应用导则》中建议了三相四线制配电系统中ATSE的选用原则：</p>
+<ul class="book-list"><li>同一接地系统中带漏电保护的两个电源的下级电路，以及两种不同接地系统间（包括两个不同中性线接地点的TN-S系统）选用ATSE时，三相四线制供电应选用四极ATSE，单相制供电应选用两极ATSE。</li>
+<li>正常供电电源与备用发电机之间采用不同的接地方式时，其转换开关应选用四极ATSE。</li>
+<li>IT接地系统引出中性线时，三相四线制供电应选用四极ATSE，单相制供电应选用两极ATSE。</li>
+<li>在有总等电位联结时，TN-S、TN-C-S系统除上述三条原则外，一般不需要设四极ATSE。</li>
+<li>TN-C系统严禁采用四极ATSE。</li></ul>
+<h4>4. ATSE单点故障解决方式</h4>
+<p>根据GB 50174—2017《数据中心设计规范》中8.1.17条规定：“正常电源与备用电源之间的切换采用自动转换开关电器时，自动转换开关电器宜具有旁路功能或采取其他措施，在自动转换开关电器检修或故障时，不应影响电源的切换。”</p>
+<p>对于大中型数据中心来说，当用电设备日常维护及损坏维修仍要确保连续供电时，可选用旁路隔离型ATSE或者采用系统冗余方案。ATSE具备一个双投隔离开关，当需要检修ATSE时，将双投隔离开关置于检修位置，既可以检修ATSE，又不会影响对设备的供电。</p>
+<p>旁路型自动转换开关至少需要具备以下功能：</p>
+<ul class="book-list"><li>旁路电源的容量不小于自动转换开关的额定容量。</li><li>旁路隔离开关能在用电负载不停电的情况下，电源经过旁路至负载。</li><li>切换至旁路电源时，能安全隔离自动转换开关及相关控制电源，保证自动转换开关的检修及维护能够安全进行。</li><li>应设置明确的旁路隔离标志，显示系统状态。</li><li>应设置安全可靠的电子和机械联锁，防止误操作。</li></ul>
+<h3 id="ch2-s3-6">2.3.6　UPS列头柜输出配电和机柜配电</h3>
+<p>数据中心的UPS输出配电和机柜配电系统，具备数据中心特有的供电特性，其设计方式和建设理念与UPS前端低压配电系统存在差异。</p>
+<h4>1. UPS列头柜输出配电</h4>
+<p>随着IT用户对电子信息设备配电可靠性、灵活性有更高的需求，更精准地用电成本控</p></article><nav class="original-navigation"><a href="045.html">← PDF 45</a><a href="047.html">PDF 47 →</a></nav></body></html>

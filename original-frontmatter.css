@@ -1,0 +1,50 @@
+/* Native contents and back cover, in the printed page order. */
+.book-faithful .book-toc-opening{height:22em;text-align:right;padding:6.5em 0 0;box-sizing:border-box}
+.book-faithful .book-toc-opening h1{font:1.8em/1.3 "Microsoft YaHei",sans-serif;margin:0}
+.book-toc-opening i{font-family:"Brush Script MT",cursive;font-weight:400}
+.book-faithful .book-toc-head{border:0;margin-bottom:2.7em;font:inherit;color:#777}
+.book-faithful .book-toc-head.odd{justify-content:flex-end}
+.book-faithful .book-toc-spread{table-layout:fixed;margin:0;font:inherit;font-size:.82em;line-height:1.85}
+.book-faithful .book-toc-column{border:0;padding:0;width:50%;vertical-align:top;text-align:left}
+.book-faithful .book-toc-column:first-child{padding-right:2.5%}
+.book-faithful .book-toc-column:last-child{padding-left:2.5%}
+.book-faithful .original-toc-row{gap:.4em;margin:.35em 0;align-items:end;text-align:left}
+.book-faithful .original-toc-row>span:first-child:after{min-width:1em}
+.book-faithful .original-toc-row.book-toc-level-2{padding-left:1em}
+.book-faithful .original-toc-row.book-toc-level-3{padding-left:2em}
+.book-faithful .original-toc-row.book-toc-chapter{font-weight:bold;font-size:1.08em;margin-top:1.2em;padding:0}
+.book-faithful .book-toc-unnumbered>span:first-child:after{display:none}
+.book-back-cover{position:relative;padding:80% 0 0;margin:0;border:0;color:#242424;font-family:"Microsoft YaHei",sans-serif;font-size:.68em;line-height:1.7;display:flow-root}
+.book-back-cover p{text-indent:0;text-align:left;margin:0}
+.book-back-cover figure{margin:0}
+.book-faithful .book-back-mascot{width:9%;margin:0 0 .2em}
+.book-back-cover hr{height:0;border:0;border-top:1px solid #c94360;margin:.4em 0 1.3em;width:76%}
+.book-faithful .book-back-qr{width:14.5%;float:left;margin:0 2.5% 1em 0}
+.book-faithful .book-back-promo{margin-left:17%;max-width:59%}
+.book-faithful .book-back-callout{clear:both;color:#c94360;margin:1.2em 0;width:76%}
+.book-faithful .book-back-jdbooks{width:25%;margin:3em 0 1.4em;float:left}
+.book-faithful .book-back-publisher{width:11%;margin:2.4em 24% 1em 0;float:right}
+.book-faithful .book-back-contact{clear:both;width:76%;font:inherit;line-height:1.5;margin:.7em 0 0;table-layout:auto}
+.book-faithful .book-back-contact td{border:0;border-left:1px solid #555;padding:0 .6em;white-space:nowrap;font-size:.9em}
+.book-faithful .book-back-isbn{position:absolute;bottom:0;right:0;width:21%;border:1px solid #999;font-size:1em}
+.book-faithful .book-back-shelf{background:#15232e;color:white;font-size:.8em;text-align:center;padding:.3em}
+.book-faithful .book-back-isbn-label{font-size:.8em;padding:.2em .5em}
+.book-faithful .book-back-barcode{width:90%;margin:0 auto}
+.book-faithful .book-back-barcode-digits{text-align:center;font-family:Arial,sans-serif}
+.book-faithful .book-back-price{border-top:1px solid #999;padding:.3em;text-align:center;font-size:1.15em}
+.book-faithful .book-back-edge{position:absolute;right:-7.5%;bottom:14%;width:8.5%;pointer-events:none}
+@media(max-width:700px){
+ .book-faithful .book-toc-spread,.book-toc-spread tbody,.book-toc-spread tr,.book-faithful .book-toc-column{display:block;width:100%}
+ .book-faithful .book-toc-column:first-child,.book-faithful .book-toc-column:last-child{padding:0}
+ .book-faithful .book-toc-column:last-child{margin-top:1.4em}
+ .book-faithful .book-toc-opening{height:12em;padding-top:4em}
+ .book-back-cover{padding-top:40%;font-size:.8em}
+ .book-faithful .book-back-promo{max-width:none;margin-left:28%}
+ .book-faithful .book-back-qr{width:24%;margin-right:4%}
+ .book-back-cover hr,.book-faithful .book-back-callout,.book-faithful .book-back-contact{width:100%}
+ .book-faithful .book-back-contact td{display:block;margin:.7em 0;white-space:normal}
+ .book-faithful .book-back-jdbooks{width:42%;margin-top:1em}
+ .book-faithful .book-back-publisher{width:21%;margin:1em 0}
+ .book-faithful .book-back-isbn{position:static;width:54%;margin:1.5em 0 0 auto}
+ .book-faithful .book-back-edge{width:10%;bottom:12%;right:-4%}
+}

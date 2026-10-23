@@ -1,0 +1,21 @@
+<!doctype html><html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>第2章　数据中心供配电系统 · 书页 9 · PDF 23 · 原文</title><link rel="stylesheet" href="../original-text.css"></head><body class="original-standalone"><nav class="original-navigation"><a href="022.html">← PDF 22</a><a href="../index.html#original/23">回到课程阅读器</a><a href="024.html">PDF 24 →</a></nav><p class="original-editorial">PDF第23页 · 已逐页校对</p><article class="original-prose book-faithful book-paper book-chapter-2" id="original-page-content"><header class="book-running-head odd"><span>第 2 章　数据中心供配电系统</span><span class="book-head-ornament"></span><span>9</span></header><p class="book-continuation">系统中，合适的UPS选型与组网方式保证数据中心面对毫秒级、分钟及小时级的市电异常时不会有任何中断，对于大时间尺度（如长小时级）的市电异常，则需要备用市电系统或者柴油发电机系统的保护。</p>
+<p>GB 50174—2017《数据中心设计规范》中提到的电子信息设备交流供电电源质量要求，如表2-1所示。</p>
+<table class="book-table" id="ch2-table1"><caption>表2-1　电子信息设备交流供电电源质量要求</caption><tbody>
+<tr><td>稳态电压偏移范围/%</td><td>+7～−10</td><td>交流供电时</td></tr>
+<tr><td>稳态电压偏移范围/%</td><td>±0.5</td><td>交流供电时</td></tr>
+<tr><td>输入电压波形失真度/%</td><td>≤5</td><td>电子信息设备正常工作时</td></tr>
+<tr><td>允许断电持续时间/ms</td><td>0～10</td><td>不同电源之间进行切换时</td></tr>
+</tbody></table>
+<h4>2. 供电电源的谐波要求</h4>
+<p>用户向公用电网注入谐波电流的电气设备或在公用电网中产生谐波电压的电气设备，统称为谐波源。谐波产生的原因是非线性电气设备的投入运行，导致其电压、电流波形为不同程度的非正弦波。根据傅里叶级数分析，这些非正弦波可分解成基波分量和具有基波分量整数倍的谐波分量。数据中心常见的谐波源包括UPS、变频机、电动机、照明等非线性负载。</p>
+<p>谐波对数据中心的危害是十分严重的，主要表现在：</p>
+<ul class="book-list"><li>柴油发电机可用容量减少；</li><li>导致继电保护误动作；</li><li>影响电动机效率和正常运行，缩短电动机寿命；</li><li>增加变压器和线路损耗；</li><li>影响和干扰测量控制仪器、通信系统工作；</li><li>三次谐波导致中性线电流过大、引起电缆发热甚至火灾。</li></ul>
+<p>根据GB/T 14549—1993《电能质量、公用电网谐波》的第4、第5条关于用户用电入口处的总谐波电压、谐波电流的限值规定如表2-2和表2-3所示。</p>
+<table class="book-table book-harmonic-table" id="ch2-table2"><caption>表2-2　公用电网的谐波电流限值</caption><tbody>
+<tr><th>标称<br>电压/V</th><th>基准短路<br>容量/(MV·A)</th><th colspan="12">谐波次数和谐波电流允许值/A</th></tr>
+<tr><td rowspan="5">380</td><td rowspan="5">10</td><td>H2</td><td>H3</td><td>H4</td><td>H5</td><td>H6</td><td>H7</td><td>H8</td><td>H9</td><td>H10</td><td>H11</td><td>H12</td><td>H13</td></tr>
+<tr><td>78</td><td>62</td><td>39</td><td>62</td><td>26</td><td>44</td><td>19</td><td>21</td><td>16</td><td>28</td><td>13</td><td>24</td></tr>
+<tr><th colspan="12">谐波次数和谐波电流允许值/A</th></tr>
+<tr><td>H14</td><td>H15</td><td>H16</td><td>H17</td><td>H18</td><td>H19</td><td>H20</td><td>H21</td><td>H22</td><td>H23</td><td>H24</td><td>H25</td></tr>
+<tr><td>11</td><td>12</td><td>9.7</td><td>18</td><td>8.6</td><td>16</td><td>7.8</td><td>8.9</td><td>7.1</td><td>14</td><td>6.5</td><td>12</td></tr>
+</tbody></table></article><nav class="original-navigation"><a href="022.html">← PDF 22</a><a href="024.html">PDF 24 →</a></nav></body></html>

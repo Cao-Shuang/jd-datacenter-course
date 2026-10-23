@@ -1,0 +1,21 @@
+<!doctype html><html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>1.1.2　Uptime Tier等级认证 · PDF 16 · 原文</title><link rel="stylesheet" href="../original-text.css"></head><body class="original-standalone"><nav class="original-navigation"><a href="015.html">← PDF 15</a><a href="../index.html#original/16">回到课程阅读器</a><a href="017.html">PDF 17 →</a></nav><p class="original-editorial">PDF第16页 · 已逐页校对</p><article class="original-prose book-faithful book-paper book-chapter-1" id="original-page-content"><header class="book-running-head even"><span>2</span><span class="book-head-ornament"></span><span>京东数据中心构建实战</span></header>
+<p>此外，上述规范还允许同一个数据中心基础设施的各组成部分（比如建筑、结构、空调、电气、网络、布线、给排水等）按不同等级的技术要求进行设计，而数据中心的等级按照其中最低等级部分确定。这样建设方可以根据数据中心的业务特点合理分配基础设施各组成部分的建设成本，节省不必要的投资。</p>
+<h3 id="ch1-s1-2">1.1.2　Uptime Tier等级认证</h3>
+<p>美国Uptime Institute是全球公认的数据中心标准组织和第三方认证机构。Uptime Tier等级认证是数据中心领域权威认证，在全球范围内得到高度的认可。Uptime Tier等级认证包含3个部分：设计认证（Tier Certification of Design Documents）、建造认证（Tier Certification of Constructed Facility）、运营认证（Tier Certification of Operational Sustainability）。以下主要介绍设计认证。</p>
+<p>设计认证将数据中心的基础设施分为4个等级（见表1-1）：</p>
+<ul class="book-list">
+<li>Tier Ⅰ：基本数据中心基础设施（Basic Data Center Site Infrastructure）。Tier Ⅰ数据中心拥有非冗余容量设备及一个单一的非冗余分配路径来为关键环境提供服务。</li>
+<li>Tier Ⅱ：冗余的机房基础设施容量组件（Redundant Site Infrastructure Capacity Components）。Tier Ⅱ数据中心拥有冗余容量设备及一个单一的非冗余分配路径来为关键环境提供服务。</li>
+<li>Tier Ⅲ：可并行维护的机房基础设施（Concurrently Maintainable Site Infrastructure）。Tier Ⅲ数据中心拥有冗余容量设备及多个独立分配路径来为关键系统提供服务。任何时候，只需一个分配路径为关键环境提供服务，且所有IT设备均为双电源供电，所有IT设备均合理安装以兼容机房架构的拓扑。</li>
+<li>Tier Ⅳ：容错机房基础设施（Fault Tolerant Site Infrastructure）。Tier Ⅳ数据中心拥有多个独立的物理隔离系统以提供冗余容量设备及多个独立、不同、激活的分配路径同时为关键环境提供服务。冗余容量设备和不同的分配路径配置时应采用的原则是，任何基础设施出现故障后，“N”容量均会为关键环境提供电力和冷却，且所有IT设备均为双电源供电，所有IT设备均合理安装以兼容机房架构的拓扑。补充系统和分配路径之间必须物理隔离（分区化），以防任何单项事件同时影响两个系统或分配路径。容错数据中心需要连续冷却。</li>
+</ul>
+<table class="book-table book-tier-table" id="ch1-table1"><caption>表1-1　Tier等级汇总</caption><colgroup><col class="tier-label"><col><col><col><col></colgroup>
+<thead><tr><th scope="col"></th><th scope="col">Tier Ⅰ</th><th scope="col">Tier Ⅱ</th><th scope="col">Tier Ⅲ</th><th scope="col">Tier Ⅳ</th></tr></thead>
+<tbody>
+<tr><th scope="row">支持IT负载的基础设施设备</th><td><i>N</i></td><td><i>N</i>+1</td><td><i>N</i>+1</td><td>2<i>N</i></td></tr>
+<tr><th scope="row">分配路径</th><td>1</td><td>1</td><td>1个运行和1个备用</td><td>2个同时运行</td></tr>
+<tr><th scope="row">可并行维护</th><td>否</td><td>否</td><td>是</td><td>是</td></tr>
+<tr><th scope="row">容错性</th><td>否</td><td>否</td><td>否</td><td>是</td></tr>
+<tr><th scope="row">分区</th><td>否</td><td>否</td><td>否</td><td>是</td></tr>
+<tr><th scope="row">连续冷却</th><td>否</td><td>否</td><td>否</td><td>是</td></tr>
+</tbody></table></article><nav class="original-navigation"><a href="015.html">← PDF 15</a><a href="017.html">PDF 17 →</a></nav></body></html>

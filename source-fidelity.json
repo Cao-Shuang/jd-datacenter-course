@@ -1,0 +1,7183 @@
+{
+  "schemaVersion": 1,
+  "source": {
+    "filename": "京东数据中心构建实战.pdf",
+    "sha256": "798a222c663a842480cd5012033f094b3ed4a60db78f0d685bc90f28e5a9820e",
+    "bytes": 53900443,
+    "pages": 325
+  },
+  "method": "Each page contains one full-page, unrotated JPEG with no text, clipping, masks or annotations. JPEG streams extracted unchanged and independently compared through PDFium and pypdf. Published JPEG bytes equal the embedded source bytes.",
+  "scope": "Proves source image fidelity and page order; does not certify OCR accuracy or the correctness of statements in the book.",
+  "textLayerPages": 0,
+  "pageOperators": {
+    "q": 975,
+    "cm": 325,
+    "Do": 325,
+    "Q": 975,
+    "BT": 325,
+    "Td": 325,
+    "ET": 325
+  },
+  "verifiedPages": 325,
+  "pages": [
+    {
+      "pdfPage": 1,
+      "bookPage": null,
+      "src": "assets/pages/001.jpg",
+      "width": 2128,
+      "height": 2784,
+      "bytes": 112039,
+      "sha256": "987c2648f6471cb68637080b19e67133e8ce3f5c6e517ee76a45aa84aff30286"
+    },
+    {
+      "pdfPage": 2,
+      "bookPage": null,
+      "src": "assets/pages/002.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 81153,
+      "sha256": "49d9d30052af71ab144ff2e57c147f3edab549b5bb48d942294a4692138059f1"
+    },
+    {
+      "pdfPage": 3,
+      "bookPage": null,
+      "src": "assets/pages/003.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 90210,
+      "sha256": "eb30386dcd88ec1d2a6c9253a61a3af188a146f8d1f075b9d48f3d9313815f76"
+    },
+    {
+      "pdfPage": 4,
+      "bookPage": null,
+      "src": "assets/pages/004.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 50970,
+      "sha256": "efec838f319135793cb1110904dffc1fb405101e6ece351883eb93a3f015af1f"
+    },
+    {
+      "pdfPage": 5,
+      "bookPage": null,
+      "src": "assets/pages/005.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 149268,
+      "sha256": "c9d9e3ae1d3f90578840ab04798265e1a9789b059b9c5a784b8aa1e90bb23b62"
+    },
+    {
+      "pdfPage": 6,
+      "bookPage": null,
+      "src": "assets/pages/006.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 63510,
+      "sha256": "1a78b1e1477a7810fe9855aef81126bce8e9efbf52e990049fd1e1e2c6e9570a"
+    },
+    {
+      "pdfPage": 7,
+      "bookPage": null,
+      "src": "assets/pages/007.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 185158,
+      "sha256": "17f385424e9b5a2a12f44d98d5f505249a1781d1af8533f1e38918cbae0f0eb8"
+    },
+    {
+      "pdfPage": 8,
+      "bookPage": null,
+      "src": "assets/pages/008.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 151789,
+      "sha256": "21221f0a42e938076bd55415d90229b296d26f40a5feb7bf97d09bfc8e291708"
+    },
+    {
+      "pdfPage": 9,
+      "bookPage": null,
+      "src": "assets/pages/009.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 94420,
+      "sha256": "0b2dfb85374d025cc79ae3bcf631cd037eba3f6c08a5f70dd35a5f44dfd29857"
+    },
+    {
+      "pdfPage": 10,
+      "bookPage": null,
+      "src": "assets/pages/010.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 108877,
+      "sha256": "f154dffd80c8e67774d65d3b3b28b011d5a7163fd1d21ba1d5efeeaa81aaec97"
+    },
+    {
+      "pdfPage": 11,
+      "bookPage": null,
+      "src": "assets/pages/011.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 139365,
+      "sha256": "3159588d3748384edd3b4d1fdf39437733ae901d64f06e3455b82e7d09eda834"
+    },
+    {
+      "pdfPage": 12,
+      "bookPage": null,
+      "src": "assets/pages/012.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 145249,
+      "sha256": "ff3e5b0ac0b8eb97282093201486cf14558d1d611286f6bb1e1177ce4275b502"
+    },
+    {
+      "pdfPage": 13,
+      "bookPage": null,
+      "src": "assets/pages/013.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 138948,
+      "sha256": "ca2c0c3c8e689f1408a53f5fb289e60e460aa4ea5f650d6e9408ac9836a3f6fc"
+    },
+    {
+      "pdfPage": 14,
+      "bookPage": null,
+      "src": "assets/pages/014.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 64412,
+      "sha256": "64c6012e039c6f54a36cac556e1f985b8f2e1d0a6678b3dc88e4e471b6554e15"
+    },
+    {
+      "pdfPage": 15,
+      "bookPage": 1,
+      "src": "assets/pages/015.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 124523,
+      "sha256": "0c0248a81b0db1a844ced79647c4bbe4ae3e991a5b5fd25a9256344000018719"
+    },
+    {
+      "pdfPage": 16,
+      "bookPage": 2,
+      "src": "assets/pages/016.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 208987,
+      "sha256": "5323a99a2ecd9b35c8c9f2c67ae340f804b38317ae12868c1cf65d10efda6a3f"
+    },
+    {
+      "pdfPage": 17,
+      "bookPage": 3,
+      "src": "assets/pages/017.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 186643,
+      "sha256": "a83b22958076ef7c0d95b49a0ccad15ded6859e6f2882199cf208ae06b614b06"
+    },
+    {
+      "pdfPage": 18,
+      "bookPage": 4,
+      "src": "assets/pages/018.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 146760,
+      "sha256": "4f1e130d141166aacd9d93a448658264ab4aa557c9bd611f92bd382ef72555a1"
+    },
+    {
+      "pdfPage": 19,
+      "bookPage": 5,
+      "src": "assets/pages/019.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 167080,
+      "sha256": "4ed83271ba754c8f32f8f6a4903fe907321d4f682513edb9613b3589cd5edba6"
+    },
+    {
+      "pdfPage": 20,
+      "bookPage": 6,
+      "src": "assets/pages/020.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 179099,
+      "sha256": "652126e5b6570712391898e98368aa008845d8f8315994bdd700cd244c53a1f5"
+    },
+    {
+      "pdfPage": 21,
+      "bookPage": 7,
+      "src": "assets/pages/021.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 98613,
+      "sha256": "06b3c3db8b151ee3baf616417d1d287c4173761137f1f570f8a4a28c8d95a8b1"
+    },
+    {
+      "pdfPage": 22,
+      "bookPage": 8,
+      "src": "assets/pages/022.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 142440,
+      "sha256": "fcf7b555791c0e3163b6d97b80273925fcef02f30d60614fdaf901ea3e6fc23d"
+    },
+    {
+      "pdfPage": 23,
+      "bookPage": 9,
+      "src": "assets/pages/023.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 159303,
+      "sha256": "bd284ccfa578bc90f8dcd11739c53a9ef75dee80d4df9eefbbc2fc2149850d63"
+    },
+    {
+      "pdfPage": 24,
+      "bookPage": 10,
+      "src": "assets/pages/024.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 150476,
+      "sha256": "1c9f552a1d8e53d84e0a4fc6eee679ee8bc179b77e68ce4288a6ee1d44cad6de"
+    },
+    {
+      "pdfPage": 25,
+      "bookPage": 11,
+      "src": "assets/pages/025.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 150928,
+      "sha256": "e1ce3ff1f1c7af2dcd67c61038647609cfe8225dc339c2bf9eb7b00531756bfa"
+    },
+    {
+      "pdfPage": 26,
+      "bookPage": 12,
+      "src": "assets/pages/026.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 146683,
+      "sha256": "c8c26f0d01451323be22d59c06b525eca8a52ecf1512b7f99a7270d8e5ac2427"
+    },
+    {
+      "pdfPage": 27,
+      "bookPage": 13,
+      "src": "assets/pages/027.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 153125,
+      "sha256": "9c170ae2ee05cb36d9d97786d2a67e4e853e437fab42fba36bca1faa3a45c2ab"
+    },
+    {
+      "pdfPage": 28,
+      "bookPage": 14,
+      "src": "assets/pages/028.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 170556,
+      "sha256": "046b5a004be175cf95af2b76c0c3cc72419f873c7d4d465f62df4ad78b7a9d20"
+    },
+    {
+      "pdfPage": 29,
+      "bookPage": 15,
+      "src": "assets/pages/029.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 138119,
+      "sha256": "288b169e10dfa6e88aad919c535e9babdd0254170b7bd8b82bed291e6ce57a43"
+    },
+    {
+      "pdfPage": 30,
+      "bookPage": 16,
+      "src": "assets/pages/030.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 183276,
+      "sha256": "d731d58a39519f154930e7b75587ea92f449fbfd386c3c8ca00aa2565c8f89ef"
+    },
+    {
+      "pdfPage": 31,
+      "bookPage": 17,
+      "src": "assets/pages/031.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 150421,
+      "sha256": "c137a70cfb1c89b913def1949da1e9593b4f2b46de6703e818358b410e56738b"
+    },
+    {
+      "pdfPage": 32,
+      "bookPage": 18,
+      "src": "assets/pages/032.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 140125,
+      "sha256": "06ae58b843436c211cf5ddf829d8be7d7427a465c056869dd0b724d2dc8b1a43"
+    },
+    {
+      "pdfPage": 33,
+      "bookPage": 19,
+      "src": "assets/pages/033.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 164485,
+      "sha256": "b0185c54b3c49f7825d643c92f4a2f30db928a0e8113982ae2b9e6966132ed6b"
+    },
+    {
+      "pdfPage": 34,
+      "bookPage": 20,
+      "src": "assets/pages/034.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 165790,
+      "sha256": "8ac4c114edf21593cdfef60338bf62aa6ab995942736c2115400055da22682ba"
+    },
+    {
+      "pdfPage": 35,
+      "bookPage": 21,
+      "src": "assets/pages/035.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 119656,
+      "sha256": "74d30e0c2f8d91eb1332deb20545824d6612debec05fa5a63600d2087ddc4320"
+    },
+    {
+      "pdfPage": 36,
+      "bookPage": 22,
+      "src": "assets/pages/036.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 173770,
+      "sha256": "190d1dae7f8d5fcba4f5282c11017138e9849f235d6800c283c763607fe3a882"
+    },
+    {
+      "pdfPage": 37,
+      "bookPage": 23,
+      "src": "assets/pages/037.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 165287,
+      "sha256": "964c28c880a7c7376ade3494eb7f62f93437e2a9600fee5f1ed96676e69879f8"
+    },
+    {
+      "pdfPage": 38,
+      "bookPage": 24,
+      "src": "assets/pages/038.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 163467,
+      "sha256": "0202f357d9775863405d6b4cd9c56ca09b77d6152dc107f3f3b288eb5d00a341"
+    },
+    {
+      "pdfPage": 39,
+      "bookPage": 25,
+      "src": "assets/pages/039.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 156951,
+      "sha256": "40526f62712ec4569c1dd04a2ac62db62fbd7649b12a8ed243c7cac01dd3b288"
+    },
+    {
+      "pdfPage": 40,
+      "bookPage": 26,
+      "src": "assets/pages/040.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 162877,
+      "sha256": "1ecc197be225c319790fdf609971036778a12d63da4a7a90a8ed551858206dc0"
+    },
+    {
+      "pdfPage": 41,
+      "bookPage": 27,
+      "src": "assets/pages/041.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 176580,
+      "sha256": "16c18930eb057ebf4f3a44f16b3f796613df1c872bf0347655f3806218f38553"
+    },
+    {
+      "pdfPage": 42,
+      "bookPage": 28,
+      "src": "assets/pages/042.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 161638,
+      "sha256": "bea582720e6b780d5e018548184e5ce6e9d0b567df756abf541749d647663101"
+    },
+    {
+      "pdfPage": 43,
+      "bookPage": 29,
+      "src": "assets/pages/043.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 190780,
+      "sha256": "fde8b64d92149671d1d40394a08fae3f5c250a4b65ba23e753c5fca8fd87243f"
+    },
+    {
+      "pdfPage": 44,
+      "bookPage": 30,
+      "src": "assets/pages/044.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 189552,
+      "sha256": "5766d0c3f72040a7a8f451d03debd1974aa373e6b142eb5106c2468ac0dceeae"
+    },
+    {
+      "pdfPage": 45,
+      "bookPage": 31,
+      "src": "assets/pages/045.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 185474,
+      "sha256": "4c45430f312f8a1366d92bfa418af727bb351d283e2b0a1c0539a16adf965817"
+    },
+    {
+      "pdfPage": 46,
+      "bookPage": 32,
+      "src": "assets/pages/046.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 188520,
+      "sha256": "8a1aa99834b60cf83953966fe2a42bd7e192b83d8b16965b72bf829d83790da4"
+    },
+    {
+      "pdfPage": 47,
+      "bookPage": 33,
+      "src": "assets/pages/047.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 175502,
+      "sha256": "2bd791950c0e7c3dde4df5a27f01b85331ed487e4737c6042a00957a11e5184a"
+    },
+    {
+      "pdfPage": 48,
+      "bookPage": 34,
+      "src": "assets/pages/048.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 219388,
+      "sha256": "9db9c5b003554b0bbc2aa1b14f911158679bc4ad10f28209d74e5e1023403afc"
+    },
+    {
+      "pdfPage": 49,
+      "bookPage": 35,
+      "src": "assets/pages/049.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 176684,
+      "sha256": "02410bd08e1cce821b69d9cfcc9bd807d220a3889f07582643b77bf1439b048d"
+    },
+    {
+      "pdfPage": 50,
+      "bookPage": 36,
+      "src": "assets/pages/050.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 189434,
+      "sha256": "713ec1d4ee44aa468a416206056f379ee0232fbb76e61f193c6a0994169f1e48"
+    },
+    {
+      "pdfPage": 51,
+      "bookPage": 37,
+      "src": "assets/pages/051.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 207150,
+      "sha256": "12911f6b64260e1753f4cbf7533a4c480daba8c928eb49418e0c8f12205ddc9d"
+    },
+    {
+      "pdfPage": 52,
+      "bookPage": 38,
+      "src": "assets/pages/052.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 169056,
+      "sha256": "54dcb7221759f240f0617796e4346d436f36fdf532522ee9407cceae05b21982"
+    },
+    {
+      "pdfPage": 53,
+      "bookPage": 39,
+      "src": "assets/pages/053.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 196596,
+      "sha256": "64de4a6756c050caa93b688cadb81b8ad3dad38d0d4edc662e5683103b140d7d"
+    },
+    {
+      "pdfPage": 54,
+      "bookPage": 40,
+      "src": "assets/pages/054.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 185798,
+      "sha256": "4145ff176b33d6cfb04ac3b0d9790ceef343786da10f34fa8f8af8c485331fd2"
+    },
+    {
+      "pdfPage": 55,
+      "bookPage": 41,
+      "src": "assets/pages/055.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 149966,
+      "sha256": "2c16f520e085b1e922826a5ee1b8ad26bd35b15d0edacd1bf1479c350ec28fd3"
+    },
+    {
+      "pdfPage": 56,
+      "bookPage": 42,
+      "src": "assets/pages/056.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 151366,
+      "sha256": "056c7830076a48858fd3828ddd7c65a5ed48d190d41e73ff16db141d2cced861"
+    },
+    {
+      "pdfPage": 57,
+      "bookPage": 43,
+      "src": "assets/pages/057.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 140722,
+      "sha256": "e563d30971a02801e8d8eb989f05a258f7edfceb30290df71291fc7b94eeeea8"
+    },
+    {
+      "pdfPage": 58,
+      "bookPage": 44,
+      "src": "assets/pages/058.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 191757,
+      "sha256": "6619876060cb778d3d7fabc38c8212c3d4974b4d6c115503688ba7f8681d2bbe"
+    },
+    {
+      "pdfPage": 59,
+      "bookPage": 45,
+      "src": "assets/pages/059.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 195804,
+      "sha256": "4563922bc371b2a3dfcf93a04154d8c88798b5d0dfef660116869174a5bd71fd"
+    },
+    {
+      "pdfPage": 60,
+      "bookPage": 46,
+      "src": "assets/pages/060.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 211558,
+      "sha256": "1c4869f8d31bc4643aaf2798c97cc11b97354e7b1d20315bb3f52159f149f5ff"
+    },
+    {
+      "pdfPage": 61,
+      "bookPage": 47,
+      "src": "assets/pages/061.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 165065,
+      "sha256": "cb71922028f06f66a120ecf53fd4f0c49e9f715fb8fe2ef78ae9cc9c18898649"
+    },
+    {
+      "pdfPage": 62,
+      "bookPage": 48,
+      "src": "assets/pages/062.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 232140,
+      "sha256": "ac2cdc912535a6087a41ad764f2f270fa05249dccb5d6156494e5f5e77b80255"
+    },
+    {
+      "pdfPage": 63,
+      "bookPage": 49,
+      "src": "assets/pages/063.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 194650,
+      "sha256": "cdfa4f822ad4925e69731bd2c4b3f68aed680890963d6bc7e19b67f48bd1bd4a"
+    },
+    {
+      "pdfPage": 64,
+      "bookPage": 50,
+      "src": "assets/pages/064.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 222793,
+      "sha256": "1fc429e64e1112b8473de442ed9411a237789949405e3cc369c92a2d951a0bee"
+    },
+    {
+      "pdfPage": 65,
+      "bookPage": 51,
+      "src": "assets/pages/065.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 67495,
+      "sha256": "6aacfb930eacfd8b706c81981eb8798da825f596fe4d726aa115f342ab6ca856"
+    },
+    {
+      "pdfPage": 66,
+      "bookPage": 52,
+      "src": "assets/pages/066.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 132904,
+      "sha256": "f345c3daee36bf31d00bca7dfe9e7a8c41bebdeb32190e056c6b6b07b159ea5c"
+    },
+    {
+      "pdfPage": 67,
+      "bookPage": 53,
+      "src": "assets/pages/067.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 237007,
+      "sha256": "2c6ee10194233265ac1af1fc7d451b6b1fe40f2601430329de782c93f1c3d669"
+    },
+    {
+      "pdfPage": 68,
+      "bookPage": 54,
+      "src": "assets/pages/068.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 175203,
+      "sha256": "ac9ad014f521fa8e60bbc1ae76c397948384b1ecb335381fee3e0f6aff69052e"
+    },
+    {
+      "pdfPage": 69,
+      "bookPage": 55,
+      "src": "assets/pages/069.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 141111,
+      "sha256": "3fb3beddc083b8816187760628f20836f5c55f221e85cd0d1ad2a0ae2f9a2dd3"
+    },
+    {
+      "pdfPage": 70,
+      "bookPage": 56,
+      "src": "assets/pages/070.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 177974,
+      "sha256": "2d12513bae1f5f5465aac39117217ef4fad969350aae25565dc127c0bd0837fc"
+    },
+    {
+      "pdfPage": 71,
+      "bookPage": 57,
+      "src": "assets/pages/071.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 151633,
+      "sha256": "31573b02fb3d1c6a1f1efcf44650e85f250e0f4ca41942d1c9d72966676b15e6"
+    },
+    {
+      "pdfPage": 72,
+      "bookPage": 58,
+      "src": "assets/pages/072.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 175201,
+      "sha256": "dab2a6e699b3f7abbc395151d5dcd314446c020b5d078e61fb24e1616874c182"
+    },
+    {
+      "pdfPage": 73,
+      "bookPage": 59,
+      "src": "assets/pages/073.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 137308,
+      "sha256": "dd095a475d18799febe4fc81c7188198faf3b19734fa219ad5f737f20915ca24"
+    },
+    {
+      "pdfPage": 74,
+      "bookPage": 60,
+      "src": "assets/pages/074.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 121551,
+      "sha256": "a786ecc6af804aea803a2afbfcfb854350b1f19474785489f5121e017a0015a4"
+    },
+    {
+      "pdfPage": 75,
+      "bookPage": 61,
+      "src": "assets/pages/075.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 159749,
+      "sha256": "bab89524e88a1fb6cbec14d38d9b1e2bf1a79f1d85e735eb13cf4ce98845c656"
+    },
+    {
+      "pdfPage": 76,
+      "bookPage": 62,
+      "src": "assets/pages/076.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 229135,
+      "sha256": "15251fa29d1f421e4bf16689e6ea6aa14eedf8e6d985a5505ba26d18a35b40a2"
+    },
+    {
+      "pdfPage": 77,
+      "bookPage": 63,
+      "src": "assets/pages/077.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 170334,
+      "sha256": "1120a16e2fc0b587d6b11bf84e7451e3c7d9dbea37ced412ffd5c6249aed8bbe"
+    },
+    {
+      "pdfPage": 78,
+      "bookPage": 64,
+      "src": "assets/pages/078.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 175231,
+      "sha256": "2a40742c0979a6cbfd36911e17579ee79eba39afdde4c2052a6715011d354d1a"
+    },
+    {
+      "pdfPage": 79,
+      "bookPage": 65,
+      "src": "assets/pages/079.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 150814,
+      "sha256": "4b85dbd105a9ea5f6e72b6b097a6a283cec0ac088618fcfdc5d0be247992b4ea"
+    },
+    {
+      "pdfPage": 80,
+      "bookPage": 66,
+      "src": "assets/pages/080.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 113799,
+      "sha256": "38c7dae534a7664d778e4779aa9f70ab22c9e32956bb15ac0a2a588701fa7fc6"
+    },
+    {
+      "pdfPage": 81,
+      "bookPage": 67,
+      "src": "assets/pages/081.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 118856,
+      "sha256": "1138e509f2ab36547ae0f6288c39a47048a1abbef8bac72db15a1435ce9e9395"
+    },
+    {
+      "pdfPage": 82,
+      "bookPage": 68,
+      "src": "assets/pages/082.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 126851,
+      "sha256": "f5184f5fa6f42c9d18413efa208b29c87c1900d7858665e17778c9bd1fbab769"
+    },
+    {
+      "pdfPage": 83,
+      "bookPage": 69,
+      "src": "assets/pages/083.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 142953,
+      "sha256": "5bfa4c62b7a0102a19438c54319e8363606b557d654bf6a4a2e32736c9ee8fa0"
+    },
+    {
+      "pdfPage": 84,
+      "bookPage": 70,
+      "src": "assets/pages/084.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 170133,
+      "sha256": "5cb64af4137b5ee5e633b24cc69380deefc6e54e805b81ff418858881302ed2e"
+    },
+    {
+      "pdfPage": 85,
+      "bookPage": 71,
+      "src": "assets/pages/085.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 132679,
+      "sha256": "73921f9498fa590502743275779d8d98f576c19d811befcebbd1755b3a2562bc"
+    },
+    {
+      "pdfPage": 86,
+      "bookPage": 72,
+      "src": "assets/pages/086.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 194672,
+      "sha256": "c683f10014c34ee8bff6d5e399a76f41c7a6f1afdc6f39e03f21dbdef49bf5cc"
+    },
+    {
+      "pdfPage": 87,
+      "bookPage": 73,
+      "src": "assets/pages/087.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 165754,
+      "sha256": "c4fa51170233f2db3421525e9b3019b81853af74d868ce918be0f9812dc6faa6"
+    },
+    {
+      "pdfPage": 88,
+      "bookPage": 74,
+      "src": "assets/pages/088.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 158046,
+      "sha256": "623db3da1b8777e5bb1b288fe2f557f715bfcfe8456a8b6a494e5cc915704a45"
+    },
+    {
+      "pdfPage": 89,
+      "bookPage": 75,
+      "src": "assets/pages/089.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 187139,
+      "sha256": "4bff2ff748ce3b9f9a439f4f88a4eab9dac39a274492e4e84ec3ef5ee8317095"
+    },
+    {
+      "pdfPage": 90,
+      "bookPage": 76,
+      "src": "assets/pages/090.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 144657,
+      "sha256": "89dd04e2708d6b567fd692085e852c9ee37179e2bee23feafc00aa849fc821a9"
+    },
+    {
+      "pdfPage": 91,
+      "bookPage": 77,
+      "src": "assets/pages/091.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 117873,
+      "sha256": "9d8ef5d2c5ef89df83491ddcd23eab8d586c82bc400e210a05449cc53ee5f0da"
+    },
+    {
+      "pdfPage": 92,
+      "bookPage": 78,
+      "src": "assets/pages/092.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 135346,
+      "sha256": "6c1b87b9e9ccf44dcc694ded0539fc7f0625028543caea079165764c7bd14a6c"
+    },
+    {
+      "pdfPage": 93,
+      "bookPage": 79,
+      "src": "assets/pages/093.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 142588,
+      "sha256": "757767163001a85e766895708e0d415bd7a6e31ace571fb5807bf1a5549660c2"
+    },
+    {
+      "pdfPage": 94,
+      "bookPage": 80,
+      "src": "assets/pages/094.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 125526,
+      "sha256": "07e2c6b44f246a6a4c649957d502ec72e8f31e79be3638d62e05a3202c121263"
+    },
+    {
+      "pdfPage": 95,
+      "bookPage": 81,
+      "src": "assets/pages/095.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 125783,
+      "sha256": "1537a6517c43fe39176aa3e27178ab50f11888b7084dd5cbaabf6afaf6ea15bf"
+    },
+    {
+      "pdfPage": 96,
+      "bookPage": 82,
+      "src": "assets/pages/096.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 129920,
+      "sha256": "f7e98794bc702d201c33a5bab892bf3db113af52c435f8b6e51e132e3c599bf6"
+    },
+    {
+      "pdfPage": 97,
+      "bookPage": 83,
+      "src": "assets/pages/097.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 248767,
+      "sha256": "e74cae69119b2aeac65e0024cced561e0a1c2fa299a3a52744b7832e565c654b"
+    },
+    {
+      "pdfPage": 98,
+      "bookPage": 84,
+      "src": "assets/pages/098.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 176733,
+      "sha256": "b007d955db9a8f7297236df554cdb2bbcf8dca536aa09e4549fa2d3f562b1aac"
+    },
+    {
+      "pdfPage": 99,
+      "bookPage": 85,
+      "src": "assets/pages/099.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 199277,
+      "sha256": "969374d713dc79bbf01f1d8c4e3e216ac6838ec730d3fde064969fb624392584"
+    },
+    {
+      "pdfPage": 100,
+      "bookPage": 86,
+      "src": "assets/pages/100.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 170666,
+      "sha256": "04d3107193c9e1b7686ae80809284b49b991f095705733b4b678dea24066f929"
+    },
+    {
+      "pdfPage": 101,
+      "bookPage": 87,
+      "src": "assets/pages/101.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 150768,
+      "sha256": "7dce9138a45d996cc3e78d12495d726bc1d986b93f6b423f103594c0674200b9"
+    },
+    {
+      "pdfPage": 102,
+      "bookPage": 88,
+      "src": "assets/pages/102.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 165724,
+      "sha256": "0907beafd8010fb68d8b79bf06e0238c852c8d59de86f5a5e3584d70c98df01b"
+    },
+    {
+      "pdfPage": 103,
+      "bookPage": 89,
+      "src": "assets/pages/103.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 149610,
+      "sha256": "16d847da18d53cd3d04ef6968c026c4a92d107fdd2c98b298825e991aa270c86"
+    },
+    {
+      "pdfPage": 104,
+      "bookPage": 90,
+      "src": "assets/pages/104.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 184515,
+      "sha256": "5b295aefc674f1ab291991a0e24265935c7bbf6db4ebbcc7872609eb171bd9b2"
+    },
+    {
+      "pdfPage": 105,
+      "bookPage": 91,
+      "src": "assets/pages/105.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 148670,
+      "sha256": "8b55c3a73072b0fd123faa2e2959c9cdefa8c894e6a791ec0cabfbb0a05448fb"
+    },
+    {
+      "pdfPage": 106,
+      "bookPage": 92,
+      "src": "assets/pages/106.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 147839,
+      "sha256": "426d47f6f7ee11103ae0812fc4bd8deb8a2529f9bddba44cc5873049293f3d39"
+    },
+    {
+      "pdfPage": 107,
+      "bookPage": 93,
+      "src": "assets/pages/107.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 156336,
+      "sha256": "a60563e7bf2aa5ced3b6620676901ca39f925e4132377c76155aa5cec6fd4dd6"
+    },
+    {
+      "pdfPage": 108,
+      "bookPage": 94,
+      "src": "assets/pages/108.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 177500,
+      "sha256": "db47357f71fb934f55ef64cacc4f3afeff39cc6d9562b51133ef8ed06b3432a7"
+    },
+    {
+      "pdfPage": 109,
+      "bookPage": 95,
+      "src": "assets/pages/109.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 135750,
+      "sha256": "777bf7ae40007292eb2867f3172fc99800f5b0bf8161e495f60f571eec47eeb9"
+    },
+    {
+      "pdfPage": 110,
+      "bookPage": 96,
+      "src": "assets/pages/110.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 191076,
+      "sha256": "53ef9d5ae4aa24329b2c7c00f9ad55492e309e72279a68481dd94d4fe6265ac5"
+    },
+    {
+      "pdfPage": 111,
+      "bookPage": 97,
+      "src": "assets/pages/111.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 160662,
+      "sha256": "224149d8dbcb31d949ae643ce301aff658ac0492e0db64ee2898c3df2f0b67f5"
+    },
+    {
+      "pdfPage": 112,
+      "bookPage": 98,
+      "src": "assets/pages/112.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 99777,
+      "sha256": "e041cfcf2d322a4bb4626d478435cb5bfc672b7224cd547bf587d73f507e476d"
+    },
+    {
+      "pdfPage": 113,
+      "bookPage": 99,
+      "src": "assets/pages/113.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 137871,
+      "sha256": "bae418435e57f21f00f492aa46a57bb7fe88847e1174837787bdb3774b7d5e88"
+    },
+    {
+      "pdfPage": 114,
+      "bookPage": 100,
+      "src": "assets/pages/114.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 130869,
+      "sha256": "d1855ecf6bc732d4c7f5538a49a83ecc8b36cdc8214da8533250cadb1c8b6111"
+    },
+    {
+      "pdfPage": 115,
+      "bookPage": 101,
+      "src": "assets/pages/115.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 193353,
+      "sha256": "b6ee4d556944bff81301afb039628fcaa0a10d2630b5b5c529bcc329e22e97b4"
+    },
+    {
+      "pdfPage": 116,
+      "bookPage": 102,
+      "src": "assets/pages/116.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 161110,
+      "sha256": "99136a6b59048e53fea643ac4210ec9413cae86dbf0d5d8f1199f5205a19aa39"
+    },
+    {
+      "pdfPage": 117,
+      "bookPage": 103,
+      "src": "assets/pages/117.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 175006,
+      "sha256": "b238b34499669fdf58b2b8fc1c86b254279f457a495ff0a3712dbb819d50bfaf"
+    },
+    {
+      "pdfPage": 118,
+      "bookPage": 104,
+      "src": "assets/pages/118.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 146242,
+      "sha256": "78022ac4c3abd94b33c86f9af38c839201f751c7f81a63a4a6342db17964b22d"
+    },
+    {
+      "pdfPage": 119,
+      "bookPage": 105,
+      "src": "assets/pages/119.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 180706,
+      "sha256": "5f57bab060e9ed5248e5206f1f98d7895385ef6f926830ad187c7767582ceab7"
+    },
+    {
+      "pdfPage": 120,
+      "bookPage": 106,
+      "src": "assets/pages/120.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 153654,
+      "sha256": "3f1e28e4a4734fe845b568264e96322be34f5e1784a89164406953f31e50eed5"
+    },
+    {
+      "pdfPage": 121,
+      "bookPage": 107,
+      "src": "assets/pages/121.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 154900,
+      "sha256": "3b63df2d5b0009b9c80b70700256ebdd91a0801cf7559532e0fc111d7369a538"
+    },
+    {
+      "pdfPage": 122,
+      "bookPage": 108,
+      "src": "assets/pages/122.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 177621,
+      "sha256": "fd4cf01f39bd84bae4be447058e6c6566747edc20c9f8d52191c80a8c906bcfa"
+    },
+    {
+      "pdfPage": 123,
+      "bookPage": 109,
+      "src": "assets/pages/123.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 195423,
+      "sha256": "c51dacef04d423b466c347a6d0cc306a1075e7db232c1a9dce7e09eefd2fc848"
+    },
+    {
+      "pdfPage": 124,
+      "bookPage": 110,
+      "src": "assets/pages/124.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 140121,
+      "sha256": "82ac351e0546c1178f4c20ae684580b13e65e8c86e4cf3e77af9b4f6bf5531a7"
+    },
+    {
+      "pdfPage": 125,
+      "bookPage": 111,
+      "src": "assets/pages/125.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 152426,
+      "sha256": "ad67f58e5d75471021a53232e64b1b8c328440ef9753d1ee49bb637676074265"
+    },
+    {
+      "pdfPage": 126,
+      "bookPage": 112,
+      "src": "assets/pages/126.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 169045,
+      "sha256": "fabad5f041d2f43dcc9812a44031a2aca54d61faa820d50a90096b79c9acfc77"
+    },
+    {
+      "pdfPage": 127,
+      "bookPage": 113,
+      "src": "assets/pages/127.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 146768,
+      "sha256": "7f2efae36f4fb873737ccdaf7aac13f44a16a786f27d30f36456658af0ec9782"
+    },
+    {
+      "pdfPage": 128,
+      "bookPage": 114,
+      "src": "assets/pages/128.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 190454,
+      "sha256": "20d0e97913834c83f9ac8dc8be9ada8d0f928f342c98622381d02996a29cd388"
+    },
+    {
+      "pdfPage": 129,
+      "bookPage": 115,
+      "src": "assets/pages/129.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 171265,
+      "sha256": "056abc0f3c2c7f865ede451721657d7b5d465a0fb1b1bd412d5ad8e695a6f31e"
+    },
+    {
+      "pdfPage": 130,
+      "bookPage": 116,
+      "src": "assets/pages/130.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 154634,
+      "sha256": "07d46e6959468a49384e1ebac1ef16da0558ad4371b74e320ee9f54ca755a783"
+    },
+    {
+      "pdfPage": 131,
+      "bookPage": 117,
+      "src": "assets/pages/131.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 174369,
+      "sha256": "19ac586be8f11ee5328c84d98d66627a574446e2eea9ba2706df4c1cb4e1c7ce"
+    },
+    {
+      "pdfPage": 132,
+      "bookPage": 118,
+      "src": "assets/pages/132.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 161354,
+      "sha256": "de9079bb9df6dd8b1e3c8c6bf81d3df7a12999d93f1a551842de01b1378c8c31"
+    },
+    {
+      "pdfPage": 133,
+      "bookPage": 119,
+      "src": "assets/pages/133.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 181655,
+      "sha256": "e49f4d22eb0322f895706c0616c9b7d10b671e5263a36ed53485e2592b793d91"
+    },
+    {
+      "pdfPage": 134,
+      "bookPage": 120,
+      "src": "assets/pages/134.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 153548,
+      "sha256": "bb8d95d757ba2cac19394392fa2a62bd8da47b2832793e7703b76796da5185dd"
+    },
+    {
+      "pdfPage": 135,
+      "bookPage": 121,
+      "src": "assets/pages/135.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 165896,
+      "sha256": "b9512eac2737010ae6027f18b500a05c8893564775f39c8e2fb12a647fa5f782"
+    },
+    {
+      "pdfPage": 136,
+      "bookPage": 122,
+      "src": "assets/pages/136.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 162842,
+      "sha256": "93c28953ab884af5f21bb6518ff3e062cd305fdaef55bc84b3f67da75445baec"
+    },
+    {
+      "pdfPage": 137,
+      "bookPage": 123,
+      "src": "assets/pages/137.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 147440,
+      "sha256": "6b2f6575eb5df5786d1eb71eaad570991df833df2709683ec5512306585c5cd0"
+    },
+    {
+      "pdfPage": 138,
+      "bookPage": 124,
+      "src": "assets/pages/138.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 201475,
+      "sha256": "0aef2f38446bd9a854cc3438e639f6a663f860d85ad4ac1db037a0a315b652db"
+    },
+    {
+      "pdfPage": 139,
+      "bookPage": 125,
+      "src": "assets/pages/139.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 176353,
+      "sha256": "90a02f181c7f207799b2f67f997ca22e8ac9599ca21557c3dd35a0bcecc959cd"
+    },
+    {
+      "pdfPage": 140,
+      "bookPage": 126,
+      "src": "assets/pages/140.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 182694,
+      "sha256": "72ab83c2d0eb5bb193a7cf832f8072e60bab9da01e4e01082965e948007ee845"
+    },
+    {
+      "pdfPage": 141,
+      "bookPage": 127,
+      "src": "assets/pages/141.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 175382,
+      "sha256": "a4f655d947794e1081a2682ebf714e5605f24e7b2f44470bfd6704c2d72f1d3a"
+    },
+    {
+      "pdfPage": 142,
+      "bookPage": 128,
+      "src": "assets/pages/142.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 204943,
+      "sha256": "2405a0ea89da22ecc27b9adc8c93215f4c0d979084650a3489df068455e78642"
+    },
+    {
+      "pdfPage": 143,
+      "bookPage": 129,
+      "src": "assets/pages/143.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 185564,
+      "sha256": "07ac0b3473807354bb7ab6c783c6d7ee2444866734b8b61cef946500b357fb12"
+    },
+    {
+      "pdfPage": 144,
+      "bookPage": 130,
+      "src": "assets/pages/144.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 164301,
+      "sha256": "3540eb724a649d25fe2b66128f851f24c4a38a31941b0e1a4543e4f4de8a8edb"
+    },
+    {
+      "pdfPage": 145,
+      "bookPage": 131,
+      "src": "assets/pages/145.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 187326,
+      "sha256": "23ff50998d34a0015470388a56ae83ff0f0499570857eca2570c5ec31560b000"
+    },
+    {
+      "pdfPage": 146,
+      "bookPage": 132,
+      "src": "assets/pages/146.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 161916,
+      "sha256": "2d644acd4154141fdd29cbb665890f6e57f90929927889e1a20a7fe0623deeb1"
+    },
+    {
+      "pdfPage": 147,
+      "bookPage": 133,
+      "src": "assets/pages/147.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 182038,
+      "sha256": "f30a9c9e106525f2579311e8063b419c1471cc26dceebffa81e955f925bd89fe"
+    },
+    {
+      "pdfPage": 148,
+      "bookPage": 134,
+      "src": "assets/pages/148.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 202241,
+      "sha256": "dbe5ea907141f99ead0e523ffd044975111db43be93a7a02f66962e8ea6ea236"
+    },
+    {
+      "pdfPage": 149,
+      "bookPage": 135,
+      "src": "assets/pages/149.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 175159,
+      "sha256": "3855fef40c797988807e0a6ea4f8da0f5a3c42a30290fdd25b1094c1a107c007"
+    },
+    {
+      "pdfPage": 150,
+      "bookPage": 136,
+      "src": "assets/pages/150.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 231699,
+      "sha256": "6943b86f7872b10c19564975ce13f9f04a3e6e5a0bcf71316a322f72f82830a3"
+    },
+    {
+      "pdfPage": 151,
+      "bookPage": 137,
+      "src": "assets/pages/151.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 178030,
+      "sha256": "86f59d557582e61b41567e41b3eb03a306ff55d22508c8675bb32b3d7a90eb90"
+    },
+    {
+      "pdfPage": 152,
+      "bookPage": 138,
+      "src": "assets/pages/152.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 145348,
+      "sha256": "8ce9dcaeceff92dc72f51d7ebc31ba8e3b5fd9e1292eeb1faaf7590f13eb79b2"
+    },
+    {
+      "pdfPage": 153,
+      "bookPage": 139,
+      "src": "assets/pages/153.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 171820,
+      "sha256": "8b09f8391092537f8a5b062b06b3f219003891d6e5e05e1fc9e71889b38f773a"
+    },
+    {
+      "pdfPage": 154,
+      "bookPage": 140,
+      "src": "assets/pages/154.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 240957,
+      "sha256": "019a5672642442aae68def12802730e22786906bc6711da38c8b4e789ede940c"
+    },
+    {
+      "pdfPage": 155,
+      "bookPage": 141,
+      "src": "assets/pages/155.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 193743,
+      "sha256": "65be251a3fa6f2a454f5c3a0fa49386786ca211054cb7f11593772cc00d120dc"
+    },
+    {
+      "pdfPage": 156,
+      "bookPage": 142,
+      "src": "assets/pages/156.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 158196,
+      "sha256": "6ecdb7f396f5d620af3bab37646644123d5d26e08f7e48209084ff8ae73f3ed0"
+    },
+    {
+      "pdfPage": 157,
+      "bookPage": 143,
+      "src": "assets/pages/157.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 138206,
+      "sha256": "0d97d78e3c7930e8775eb9ed132d99223dd0ba978846ecb9d71aa02042da756b"
+    },
+    {
+      "pdfPage": 158,
+      "bookPage": 144,
+      "src": "assets/pages/158.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 200703,
+      "sha256": "f720430c7d7f40038a81086dafbb8ef6460abbebe5e1f5a8da7e295057099543"
+    },
+    {
+      "pdfPage": 159,
+      "bookPage": 145,
+      "src": "assets/pages/159.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 192045,
+      "sha256": "32f9ae918793229771945dc050c2333b49a473dd2f989433a8fd5ed7e0002057"
+    },
+    {
+      "pdfPage": 160,
+      "bookPage": 146,
+      "src": "assets/pages/160.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 209739,
+      "sha256": "d24d6ab37cd8266c8e4fa949a6f5ce1c8b88f35f0605f090c0737bf98a067952"
+    },
+    {
+      "pdfPage": 161,
+      "bookPage": 147,
+      "src": "assets/pages/161.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 96853,
+      "sha256": "1e1a6a3d0359dbba00a2c9198dd168173a7181b62da0afabbc2117ffff1aee76"
+    },
+    {
+      "pdfPage": 162,
+      "bookPage": 148,
+      "src": "assets/pages/162.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 188546,
+      "sha256": "28abb59d6eab2d4f060e75b49db556f767e740a2e4eeb6c8798696986045211a"
+    },
+    {
+      "pdfPage": 163,
+      "bookPage": 149,
+      "src": "assets/pages/163.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 181019,
+      "sha256": "163780a18d85efd6ae241fca1e84378f9b8caa4a598b9da2b2ddda690f4baa94"
+    },
+    {
+      "pdfPage": 164,
+      "bookPage": 150,
+      "src": "assets/pages/164.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 198906,
+      "sha256": "6af1e996d7e71f99da9ae8fd8930cb60fd398b8db58431bdd2bc75852c21f612"
+    },
+    {
+      "pdfPage": 165,
+      "bookPage": 151,
+      "src": "assets/pages/165.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 181181,
+      "sha256": "48b3343b3d976816e2114c8cc0751b71155a8c3b12274c73a0dc856234e4d07a"
+    },
+    {
+      "pdfPage": 166,
+      "bookPage": 152,
+      "src": "assets/pages/166.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 184250,
+      "sha256": "b4830e48a1a85d3d1f5e3961f2e058d978dc4f68e24a2b4e57d48ff32e29af65"
+    },
+    {
+      "pdfPage": 167,
+      "bookPage": 153,
+      "src": "assets/pages/167.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 154713,
+      "sha256": "eb9f60bcb7a4062c9e2f097d4781c7f59f8c07ac717a3c2d07134cd3d088bb72"
+    },
+    {
+      "pdfPage": 168,
+      "bookPage": 154,
+      "src": "assets/pages/168.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 186170,
+      "sha256": "fa56f9af824bf693e642389fd5b399b0fe2fc01fd65bad4aed742aa22861d023"
+    },
+    {
+      "pdfPage": 169,
+      "bookPage": 155,
+      "src": "assets/pages/169.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 133202,
+      "sha256": "8e2dde48654e0f154327a3ecb9b04dafe7768820c69d77b28e65914131bf1a5c"
+    },
+    {
+      "pdfPage": 170,
+      "bookPage": 156,
+      "src": "assets/pages/170.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 166359,
+      "sha256": "5c4112ef334e8724929ec85e8b3d4aaff504da989ffd43e4de564b4a263638f7"
+    },
+    {
+      "pdfPage": 171,
+      "bookPage": 157,
+      "src": "assets/pages/171.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 180624,
+      "sha256": "9b95ad90e5cada405fe55e7c4e36beca28d2b3eafda68cd4041545676777e6ea"
+    },
+    {
+      "pdfPage": 172,
+      "bookPage": 158,
+      "src": "assets/pages/172.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 120284,
+      "sha256": "f4e1cc62cbae712a9b2b29bccf69b13d695d593444c0945abfddf6ac2bfdccd0"
+    },
+    {
+      "pdfPage": 173,
+      "bookPage": 159,
+      "src": "assets/pages/173.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 125485,
+      "sha256": "284c471c42d94137f4c30ba9d1bfab0b195b6a55870e0e18624123857eeb2ab7"
+    },
+    {
+      "pdfPage": 174,
+      "bookPage": 160,
+      "src": "assets/pages/174.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 155346,
+      "sha256": "8bcc09e0ad54e956335f5a95528cf9a7f3da7d9a5d73f33d7031749d259e4757"
+    },
+    {
+      "pdfPage": 175,
+      "bookPage": 161,
+      "src": "assets/pages/175.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 154533,
+      "sha256": "56373b41ec8e87216395124394f3b904479d3568e678d3d1178b85a149b9bf9c"
+    },
+    {
+      "pdfPage": 176,
+      "bookPage": 162,
+      "src": "assets/pages/176.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 193587,
+      "sha256": "92cb3b938db9c68162de5aef4d7119233986e8d97a8b309ccab3cdf84f9dabeb"
+    },
+    {
+      "pdfPage": 177,
+      "bookPage": 163,
+      "src": "assets/pages/177.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 203371,
+      "sha256": "73293de44b687e70e7aeb892c33ca1098c17253e1773851e2b6e15722cb13a76"
+    },
+    {
+      "pdfPage": 178,
+      "bookPage": 164,
+      "src": "assets/pages/178.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 177952,
+      "sha256": "d703175af89a7df42c393066ba916937f677636c0a860803fb0ef3668906c5c0"
+    },
+    {
+      "pdfPage": 179,
+      "bookPage": 165,
+      "src": "assets/pages/179.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 200649,
+      "sha256": "a7bdd3d4005aef0ba4e7df35bdcbfd7b52bb9818ed5c836030b3ef0dcc6b068f"
+    },
+    {
+      "pdfPage": 180,
+      "bookPage": 166,
+      "src": "assets/pages/180.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 168251,
+      "sha256": "2921e58e0a5c248b44701b08d2693df3eab597f4046baa62a6fba8e647ad81c5"
+    },
+    {
+      "pdfPage": 181,
+      "bookPage": 167,
+      "src": "assets/pages/181.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 143943,
+      "sha256": "41c33a0f39d8c9270dfa601d3afb0c0166fd5c2b6aa92ef73b27edda34506c70"
+    },
+    {
+      "pdfPage": 182,
+      "bookPage": 168,
+      "src": "assets/pages/182.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 137179,
+      "sha256": "e867590cf90f110181525520ee0c737ff6dd8412413599e2e4a94158fd29e56d"
+    },
+    {
+      "pdfPage": 183,
+      "bookPage": 169,
+      "src": "assets/pages/183.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 206758,
+      "sha256": "40e9743be47bfadf5816b5272a77c5f089a127acd023a57c40130e0844c800f6"
+    },
+    {
+      "pdfPage": 184,
+      "bookPage": 170,
+      "src": "assets/pages/184.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 157837,
+      "sha256": "21aa660de3c5eb22252e11c6883ed260236d5ffdec6b4cd85cc389aa5f59a199"
+    },
+    {
+      "pdfPage": 185,
+      "bookPage": 171,
+      "src": "assets/pages/185.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 213948,
+      "sha256": "6e278af5662aae76d5769e78f128df2140d5373cf5796435f4e751ea6f3d41ec"
+    },
+    {
+      "pdfPage": 186,
+      "bookPage": 172,
+      "src": "assets/pages/186.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 200262,
+      "sha256": "845dd20230cc35fe699c34733d005e872b433be1cd7bd8ec61f5196e33400400"
+    },
+    {
+      "pdfPage": 187,
+      "bookPage": 173,
+      "src": "assets/pages/187.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 203291,
+      "sha256": "a227dfbd49d744ea3fbecd55355113b34b37b600f6c50be9432e91addccd0bc7"
+    },
+    {
+      "pdfPage": 188,
+      "bookPage": 174,
+      "src": "assets/pages/188.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 183139,
+      "sha256": "ca5da4fdb32a14e602a3ad6e0776bb39c8313d15d7d6b551bdee0cf26ef02fb5"
+    },
+    {
+      "pdfPage": 189,
+      "bookPage": 175,
+      "src": "assets/pages/189.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 170549,
+      "sha256": "99819d11604aadf7e024bf88e7dade2107466d4c4d8244b87b54e20f80981aa8"
+    },
+    {
+      "pdfPage": 190,
+      "bookPage": 176,
+      "src": "assets/pages/190.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 179852,
+      "sha256": "2471360ad12f463833f48a41c7b0f16044c73cbc43e3a73b087861022f809344"
+    },
+    {
+      "pdfPage": 191,
+      "bookPage": 177,
+      "src": "assets/pages/191.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 184411,
+      "sha256": "0c049322a363d5abcf587de7de413612be7271119025e2b6b5ee18ffe3df156e"
+    },
+    {
+      "pdfPage": 192,
+      "bookPage": 178,
+      "src": "assets/pages/192.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 232995,
+      "sha256": "f8ed1625ae5e61a28ae8252d0faaf91badb66b7b0787ecdf3d37aaf4897f0a11"
+    },
+    {
+      "pdfPage": 193,
+      "bookPage": 179,
+      "src": "assets/pages/193.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 204155,
+      "sha256": "bd2a1d2a5624df729446b82c895a8fc44bb4f2134f896a7d1ba1d7b20cd57fb6"
+    },
+    {
+      "pdfPage": 194,
+      "bookPage": 180,
+      "src": "assets/pages/194.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 139897,
+      "sha256": "7e426f267c1aec6c9d1a0a98835115450716d292f472dbe3afed54394d61e893"
+    },
+    {
+      "pdfPage": 195,
+      "bookPage": 181,
+      "src": "assets/pages/195.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 146975,
+      "sha256": "18c6fd00b50bf8f1b7c8c88f7331fb2eef379dabc9eb7b6ecfa24d498d794beb"
+    },
+    {
+      "pdfPage": 196,
+      "bookPage": 182,
+      "src": "assets/pages/196.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 163522,
+      "sha256": "f0c87bcd6e4d67e715c6d8e3ac47ccecd5df7efa753fb2928b378b67399d7506"
+    },
+    {
+      "pdfPage": 197,
+      "bookPage": 183,
+      "src": "assets/pages/197.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 203659,
+      "sha256": "91a86958f7e85071dcf39a9deca53772894f7633eaa7d5ed097270202bb58bf3"
+    },
+    {
+      "pdfPage": 198,
+      "bookPage": 184,
+      "src": "assets/pages/198.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 155577,
+      "sha256": "838fac56d27e646a1aa619ec2c246aa4025049784c71c8c372d57b03dd0efb6f"
+    },
+    {
+      "pdfPage": 199,
+      "bookPage": 185,
+      "src": "assets/pages/199.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 196724,
+      "sha256": "175eb94e571b2836282a87a55266c5a266e409ce18f36e9b2b808db903d9f902"
+    },
+    {
+      "pdfPage": 200,
+      "bookPage": 186,
+      "src": "assets/pages/200.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 165958,
+      "sha256": "7119637f890e1a34afca45fb502dae028169b322070e5ab9413f423b665d488e"
+    },
+    {
+      "pdfPage": 201,
+      "bookPage": 187,
+      "src": "assets/pages/201.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 168842,
+      "sha256": "960c4cdfdcd02a97947e3fae127e5dd977f7cb9ff2d74d8967116e5fcdca310c"
+    },
+    {
+      "pdfPage": 202,
+      "bookPage": 188,
+      "src": "assets/pages/202.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 179781,
+      "sha256": "33a743c9b4013eba3ef28689c53b987921ee5405d2f9efdac840fad22c111090"
+    },
+    {
+      "pdfPage": 203,
+      "bookPage": 189,
+      "src": "assets/pages/203.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 199011,
+      "sha256": "1e9c3c4dc75ada46fbc8a22a9fb8ee1148d6aed58a679c8a48bc2f7e0d8ff681"
+    },
+    {
+      "pdfPage": 204,
+      "bookPage": 190,
+      "src": "assets/pages/204.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 207680,
+      "sha256": "1053f61bb527f7f4775795169a57cd62d51c547550a151fa7b3b48679e22b74c"
+    },
+    {
+      "pdfPage": 205,
+      "bookPage": 191,
+      "src": "assets/pages/205.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 119866,
+      "sha256": "e0aad19a11db0678ba71ecbec1dd1732c4b199d982f43977e8b6c233febb05c3"
+    },
+    {
+      "pdfPage": 206,
+      "bookPage": 192,
+      "src": "assets/pages/206.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 185238,
+      "sha256": "50bf3692df5d83115307abeeba97c9b59ec494b949349203d5a6aa9b2165cae0"
+    },
+    {
+      "pdfPage": 207,
+      "bookPage": 193,
+      "src": "assets/pages/207.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 190633,
+      "sha256": "17a0c6a76e1dfad7bb68b0cec4fb38c29491246cdb5fc9aeef4c1f44f2883459"
+    },
+    {
+      "pdfPage": 208,
+      "bookPage": 194,
+      "src": "assets/pages/208.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 249387,
+      "sha256": "75a2f02cbe7801b0d20c01b3d03c2d714fd4cbe27ec909ec669bd5ad02aeb616"
+    },
+    {
+      "pdfPage": 209,
+      "bookPage": 195,
+      "src": "assets/pages/209.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 161919,
+      "sha256": "d1759c591b358a57619b7904b6927203dd91cad4a70fec26bd6d7bce7b2f1b2c"
+    },
+    {
+      "pdfPage": 210,
+      "bookPage": 196,
+      "src": "assets/pages/210.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 181463,
+      "sha256": "29fbddbc8552e532858020290e555060907ac5ffbb0cc94c9cb3dc7c002fdd67"
+    },
+    {
+      "pdfPage": 211,
+      "bookPage": 197,
+      "src": "assets/pages/211.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 204933,
+      "sha256": "ea29ec023ed96843b8865b5e3ebdc78a68d3bd891141859632962842992827cf"
+    },
+    {
+      "pdfPage": 212,
+      "bookPage": 198,
+      "src": "assets/pages/212.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 203944,
+      "sha256": "91a4657a95a0f072ebf5067b393ef7a9b4a70c1ba572108cb3185a655a0f40be"
+    },
+    {
+      "pdfPage": 213,
+      "bookPage": 199,
+      "src": "assets/pages/213.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 188593,
+      "sha256": "c3a16b09e0fa595e8b9281d1adb0b0e5586536b1ef636d52174ae68256fa6223"
+    },
+    {
+      "pdfPage": 214,
+      "bookPage": 200,
+      "src": "assets/pages/214.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 177208,
+      "sha256": "30e46a5ef2719043a884db154b7e78c3f7b85b956a6969a86968f8cce3822d0b"
+    },
+    {
+      "pdfPage": 215,
+      "bookPage": 201,
+      "src": "assets/pages/215.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 179445,
+      "sha256": "5b6f9d5fa19257311a5a5debb07dc96bc9b7e856da01fb9f8bccf009131df300"
+    },
+    {
+      "pdfPage": 216,
+      "bookPage": 202,
+      "src": "assets/pages/216.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 194264,
+      "sha256": "7588b5a70ade34286152e42255eafb7ccd20c946f49ef7d12acffe1528397c6c"
+    },
+    {
+      "pdfPage": 217,
+      "bookPage": 203,
+      "src": "assets/pages/217.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 152710,
+      "sha256": "262410fef0ec2bc5711d73a08a50a5b33ca6a835f1edd5296dae83454d17c329"
+    },
+    {
+      "pdfPage": 218,
+      "bookPage": 204,
+      "src": "assets/pages/218.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 176885,
+      "sha256": "514ba658d8c58ececec92411ce20269e3ef2d7a0225006348876bae21168a5d0"
+    },
+    {
+      "pdfPage": 219,
+      "bookPage": 205,
+      "src": "assets/pages/219.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 141934,
+      "sha256": "eca046592ad33b1d0b65339b796f349978d0907fae109c623c75b412dedb2926"
+    },
+    {
+      "pdfPage": 220,
+      "bookPage": 206,
+      "src": "assets/pages/220.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 178829,
+      "sha256": "3906feb9d8a2c8516ab4250795848e709da52afd3097ddd2c3521f6c9f5a8a09"
+    },
+    {
+      "pdfPage": 221,
+      "bookPage": 207,
+      "src": "assets/pages/221.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 139251,
+      "sha256": "90a6de6e182a7ab995e2c5abf3d45031d2ca206c729665537af2682a088db6b5"
+    },
+    {
+      "pdfPage": 222,
+      "bookPage": 208,
+      "src": "assets/pages/222.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 154433,
+      "sha256": "841d313c40ef5ba25527ecb36e01dd7f09e808927287608ff1a45c8366acf2d8"
+    },
+    {
+      "pdfPage": 223,
+      "bookPage": 209,
+      "src": "assets/pages/223.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 126818,
+      "sha256": "30d17ba32abd94bdc7d5bc3fe84c0489904a40e592dda5a39f9bead9ffc65a72"
+    },
+    {
+      "pdfPage": 224,
+      "bookPage": 210,
+      "src": "assets/pages/224.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 203631,
+      "sha256": "0798bcdf55b1a7b75667f671fd4773c3dc0fc93ad00fbb61b1c2d96198581442"
+    },
+    {
+      "pdfPage": 225,
+      "bookPage": 211,
+      "src": "assets/pages/225.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 131319,
+      "sha256": "8816947738c3cd3d92de763d36b8da0303f91966db16e62fab6503d66253ce99"
+    },
+    {
+      "pdfPage": 226,
+      "bookPage": 212,
+      "src": "assets/pages/226.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 148014,
+      "sha256": "49bd52629461113d72474eee6be23bce8399173aec3abb2ec8c27904801764cd"
+    },
+    {
+      "pdfPage": 227,
+      "bookPage": 213,
+      "src": "assets/pages/227.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 170877,
+      "sha256": "0ed944d3f66fce174aeb11a0a16e97601f5d223b8881ca7527fc50f61ec6a349"
+    },
+    {
+      "pdfPage": 228,
+      "bookPage": 214,
+      "src": "assets/pages/228.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 176444,
+      "sha256": "ef43a05107f9b8cf4d35afa4256038788215aabf7066f48940f2ae80c29eae27"
+    },
+    {
+      "pdfPage": 229,
+      "bookPage": 215,
+      "src": "assets/pages/229.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 179776,
+      "sha256": "cb3856aeddef0d2dd45128f26560a2dc09363cfa1f1fc856f69f8ac41ee8bd82"
+    },
+    {
+      "pdfPage": 230,
+      "bookPage": 216,
+      "src": "assets/pages/230.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 131609,
+      "sha256": "47f20666075be59d892aba4e310b614afdfa7ff712e6a0973c026f85bb9b7069"
+    },
+    {
+      "pdfPage": 231,
+      "bookPage": 217,
+      "src": "assets/pages/231.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 158811,
+      "sha256": "7f33571bf9fc0cbc756a65c6e7ac5829159130cc0eb470b4eafe6ed5a4cff311"
+    },
+    {
+      "pdfPage": 232,
+      "bookPage": 218,
+      "src": "assets/pages/232.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 142856,
+      "sha256": "09dcdc9062550e85397b1b28e324e8ddf4d370833d6408e89d4e3e04822ff947"
+    },
+    {
+      "pdfPage": 233,
+      "bookPage": 219,
+      "src": "assets/pages/233.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 148475,
+      "sha256": "bce3dec2f3738dae23fe0f9dfd8bdb0b318416e56c13f395ec80dc16ff87473d"
+    },
+    {
+      "pdfPage": 234,
+      "bookPage": 220,
+      "src": "assets/pages/234.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 110849,
+      "sha256": "d5f080a0c177467b674d5aa5050f7229c55f4a8948e7627bf3621a7be70cf468"
+    },
+    {
+      "pdfPage": 235,
+      "bookPage": 221,
+      "src": "assets/pages/235.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 148115,
+      "sha256": "b9ccd01e768f69cae0dbc67bd626f4a309dd3384e471dd96a72539be172c3d73"
+    },
+    {
+      "pdfPage": 236,
+      "bookPage": 222,
+      "src": "assets/pages/236.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 139040,
+      "sha256": "75feb79b9dd74653fba93a78c80ed0dd7c1fd92377255515e8f512af5311bdcb"
+    },
+    {
+      "pdfPage": 237,
+      "bookPage": 223,
+      "src": "assets/pages/237.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 163541,
+      "sha256": "fe72d2e1f892283f10cfdd0765092940ce89c7dee009b6760f75f5c199bad328"
+    },
+    {
+      "pdfPage": 238,
+      "bookPage": 224,
+      "src": "assets/pages/238.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 157281,
+      "sha256": "2a9bf2b2345555be6798f09c044a4707bb89ccab4d0dec5d4616f9919dbf2d2d"
+    },
+    {
+      "pdfPage": 239,
+      "bookPage": 225,
+      "src": "assets/pages/239.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 172488,
+      "sha256": "8568ddb7994e33fa3df7f2010b1ffc8e1660057266503ec8fdbf1c74ad2325ce"
+    },
+    {
+      "pdfPage": 240,
+      "bookPage": 226,
+      "src": "assets/pages/240.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 183019,
+      "sha256": "c19b00e2016ecda4e873e9e6819a949702ac255bd0c29e392396000ef5580269"
+    },
+    {
+      "pdfPage": 241,
+      "bookPage": 227,
+      "src": "assets/pages/241.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 135380,
+      "sha256": "f616d417ebd3f339d6d833991116cf4c5c1f65c27b04488109ef573bbb21b0a7"
+    },
+    {
+      "pdfPage": 242,
+      "bookPage": 228,
+      "src": "assets/pages/242.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 173048,
+      "sha256": "70a6c5981a809a8e8bdf593a8f9963daf940bb7e2e06e6dc4db175f5060ad218"
+    },
+    {
+      "pdfPage": 243,
+      "bookPage": 229,
+      "src": "assets/pages/243.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 163310,
+      "sha256": "4c47c26c567917a67bf659149fc6ccc0c010d371128b160eff04829d39d88432"
+    },
+    {
+      "pdfPage": 244,
+      "bookPage": 230,
+      "src": "assets/pages/244.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 209780,
+      "sha256": "c848705e6592707ae09ee4b47e2b9cfcb9e1f2ff06271a5b737fa341243860b7"
+    },
+    {
+      "pdfPage": 245,
+      "bookPage": 231,
+      "src": "assets/pages/245.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 174418,
+      "sha256": "5591491aa93be3834babf11070861c883544cd92fe6d5ed29d5ae812b1a707ff"
+    },
+    {
+      "pdfPage": 246,
+      "bookPage": 232,
+      "src": "assets/pages/246.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 182361,
+      "sha256": "0b9bbc4189a60d1a0e469ae75f000a97c4dc122ca890dcded0c0aeb70693cf1b"
+    },
+    {
+      "pdfPage": 247,
+      "bookPage": 233,
+      "src": "assets/pages/247.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 164788,
+      "sha256": "8fdb8393663af4285512d71384186bc32cc48fff1cd3cc83ea8f34e9368f91ac"
+    },
+    {
+      "pdfPage": 248,
+      "bookPage": 234,
+      "src": "assets/pages/248.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 168424,
+      "sha256": "887733bc372bc0fc65faf79ba4d179f245d8a5a22a080036d2f40d1fb2703c41"
+    },
+    {
+      "pdfPage": 249,
+      "bookPage": 235,
+      "src": "assets/pages/249.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 200116,
+      "sha256": "a04ec3aa9950e6523a5c45b43ffd0bacd6e9c6b6c83f976b917c66c5df9fac6a"
+    },
+    {
+      "pdfPage": 250,
+      "bookPage": 236,
+      "src": "assets/pages/250.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 89844,
+      "sha256": "92e4a8ca0bb6b7169f9070928ad400433e170d0027b7793286a4ca919d6f7a9b"
+    },
+    {
+      "pdfPage": 251,
+      "bookPage": 237,
+      "src": "assets/pages/251.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 116516,
+      "sha256": "30fc8ff56a1a156c5d52efbb9999cba7a5f0cefad86f0d4faa76a1ce9c364fda"
+    },
+    {
+      "pdfPage": 252,
+      "bookPage": 238,
+      "src": "assets/pages/252.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 227613,
+      "sha256": "6d1ab58b0401374280291442d925dc962953e0786df8ce3a88c7e4b101db68f8"
+    },
+    {
+      "pdfPage": 253,
+      "bookPage": 239,
+      "src": "assets/pages/253.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 184615,
+      "sha256": "67696dd3adbdcea5c8c486779191e154363d76e20bd1f4b9789cf97bff619a2f"
+    },
+    {
+      "pdfPage": 254,
+      "bookPage": 240,
+      "src": "assets/pages/254.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 147998,
+      "sha256": "31a86dda61937ffb4c09406f1281dd443864065a75cba6ccdc67a0df746f8115"
+    },
+    {
+      "pdfPage": 255,
+      "bookPage": 241,
+      "src": "assets/pages/255.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 147046,
+      "sha256": "762a91442645d3a9fc77df79df57b22d60eaf99b3515973e57fa9bfa83a255ca"
+    },
+    {
+      "pdfPage": 256,
+      "bookPage": 242,
+      "src": "assets/pages/256.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 153649,
+      "sha256": "b0c6a7bf7b036b0803b16629779ef265613a027e37f80c51befef8465cb53b38"
+    },
+    {
+      "pdfPage": 257,
+      "bookPage": 243,
+      "src": "assets/pages/257.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 176649,
+      "sha256": "91fc35b5642e32aeed5b8bb6f2fccb710854b61fec7559887c51510700df0ba1"
+    },
+    {
+      "pdfPage": 258,
+      "bookPage": 244,
+      "src": "assets/pages/258.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 190235,
+      "sha256": "c9f04c0fcde32f77756ed105aec82ada3914840ad69675e0c6291eb164148847"
+    },
+    {
+      "pdfPage": 259,
+      "bookPage": 245,
+      "src": "assets/pages/259.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 169932,
+      "sha256": "60a352e967d37e9aa512954ccd3e5917b895b86abc05df0e8817ffdcecdf8651"
+    },
+    {
+      "pdfPage": 260,
+      "bookPage": 246,
+      "src": "assets/pages/260.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 213519,
+      "sha256": "1dac4a1068375576c1a1f8837a4aa17aa440bbbb24e98ca79834e221b2932d3a"
+    },
+    {
+      "pdfPage": 261,
+      "bookPage": 247,
+      "src": "assets/pages/261.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 200074,
+      "sha256": "40f71e0c699099ff8235b17ebb8edcc88fc35586237787e66237e0272c61f4bb"
+    },
+    {
+      "pdfPage": 262,
+      "bookPage": 248,
+      "src": "assets/pages/262.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 199940,
+      "sha256": "c8927642e63ab89f433feab14ec5f75567e4e221b2c2af1fe8422107c931bb7c"
+    },
+    {
+      "pdfPage": 263,
+      "bookPage": 249,
+      "src": "assets/pages/263.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 179783,
+      "sha256": "16c3dd2cf58b565d1a356fa8a0b7b1cb356cfc1b6cdbf8c55b287b77b2e836d4"
+    },
+    {
+      "pdfPage": 264,
+      "bookPage": 250,
+      "src": "assets/pages/264.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 202877,
+      "sha256": "88c9afcf0428ffb8fab52ed9e649887360357f2f850e47cd32144ca12da4b060"
+    },
+    {
+      "pdfPage": 265,
+      "bookPage": 251,
+      "src": "assets/pages/265.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 195212,
+      "sha256": "78b339c4082ba63beeb22baf6f3424148def5142574fbfa7ac44d1a98f203bfd"
+    },
+    {
+      "pdfPage": 266,
+      "bookPage": 252,
+      "src": "assets/pages/266.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 150448,
+      "sha256": "3fdafb37526aaa29e7eb90c983e8403dfd68e9b7d9876e8ed36316b3550c9252"
+    },
+    {
+      "pdfPage": 267,
+      "bookPage": 253,
+      "src": "assets/pages/267.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 135806,
+      "sha256": "e472517f47d0779b6c20a7fd771d5709a194d6b8828ae812fa1f8b4800024bfa"
+    },
+    {
+      "pdfPage": 268,
+      "bookPage": 254,
+      "src": "assets/pages/268.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 187029,
+      "sha256": "16555d666c9a2d1b65f93838800d82b870fd402f2a8d7facc6b8459ec6aa1cfa"
+    },
+    {
+      "pdfPage": 269,
+      "bookPage": 255,
+      "src": "assets/pages/269.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 174058,
+      "sha256": "aa97b48e54afb4cb1b8d454d7f02295f1cd05caeb6341522ef3b1c4338e99056"
+    },
+    {
+      "pdfPage": 270,
+      "bookPage": 256,
+      "src": "assets/pages/270.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 225510,
+      "sha256": "16f1a388b7a38be0e40174be1b1f889d7bfdebb11a4339b470e0d77f4adebcb2"
+    },
+    {
+      "pdfPage": 271,
+      "bookPage": 257,
+      "src": "assets/pages/271.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 196138,
+      "sha256": "cf80d8a0b4fc1f52915de4459d7d27276b319baf6a0e0754227f69a4ab633bb6"
+    },
+    {
+      "pdfPage": 272,
+      "bookPage": 258,
+      "src": "assets/pages/272.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 189493,
+      "sha256": "e9efd4ce79c4cb34eaabd67c0e40417fe31e44abba467d54c557307e48c55f6c"
+    },
+    {
+      "pdfPage": 273,
+      "bookPage": 259,
+      "src": "assets/pages/273.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 237572,
+      "sha256": "65f0ef848cab3a7106319447d40b1cebf7375bbbbfba8293434abba7a7d0bcb5"
+    },
+    {
+      "pdfPage": 274,
+      "bookPage": 260,
+      "src": "assets/pages/274.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 220146,
+      "sha256": "a68429abde139f0d78f114f9ed0c603421c7a3ff87f4994205c9e5ec668ffe93"
+    },
+    {
+      "pdfPage": 275,
+      "bookPage": 261,
+      "src": "assets/pages/275.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 179533,
+      "sha256": "8568779b16e6b62a379a936f8c93449ec41ea7ad36dd24330a55107118100135"
+    },
+    {
+      "pdfPage": 276,
+      "bookPage": 262,
+      "src": "assets/pages/276.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 152012,
+      "sha256": "388d9570f9e50e9dd753b9f89ceca5a6ec710328818f3ca9c5516b4c750b4a53"
+    },
+    {
+      "pdfPage": 277,
+      "bookPage": 263,
+      "src": "assets/pages/277.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 125731,
+      "sha256": "5cbfdf5a3aed8ddb29c7d28bd2c4dd0f38eca49a850adec7b59561d7e6fdc2ed"
+    },
+    {
+      "pdfPage": 278,
+      "bookPage": 264,
+      "src": "assets/pages/278.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 186257,
+      "sha256": "aa8332720033a2598fcb04928d98b87eb7d00b4b98288c26da4e5169925abe92"
+    },
+    {
+      "pdfPage": 279,
+      "bookPage": 265,
+      "src": "assets/pages/279.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 175154,
+      "sha256": "d88ae5b2dfe6b5b36777e3ef71b14cc2828c4283bbecc9abbcaf45468b2c937c"
+    },
+    {
+      "pdfPage": 280,
+      "bookPage": 266,
+      "src": "assets/pages/280.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 178487,
+      "sha256": "8230e954b5a943c9db60b1bf38937478d2b998df342092280386966e7bdb77fc"
+    },
+    {
+      "pdfPage": 281,
+      "bookPage": 267,
+      "src": "assets/pages/281.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 165169,
+      "sha256": "3493eeb65cc70e1ace75ad898ecf876f5bfd14f6539334701e1efbdedece5205"
+    },
+    {
+      "pdfPage": 282,
+      "bookPage": 268,
+      "src": "assets/pages/282.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 158707,
+      "sha256": "b71628a23757e96893a1ca9dbddf351c7a0f2a6902aa2355ffa9a5ec21de5baf"
+    },
+    {
+      "pdfPage": 283,
+      "bookPage": 269,
+      "src": "assets/pages/283.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 208157,
+      "sha256": "8f5489a70ba8818ce885a5d5a09212fb3d9697c8ad38a03b589b43987ab8d5f6"
+    },
+    {
+      "pdfPage": 284,
+      "bookPage": 270,
+      "src": "assets/pages/284.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 153624,
+      "sha256": "89dc962737a09d1b74c8eba1bc77a0173d4d6f00ddeb4c8ba87735b727cf9d92"
+    },
+    {
+      "pdfPage": 285,
+      "bookPage": 271,
+      "src": "assets/pages/285.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 145019,
+      "sha256": "daa1c89a7343445e3aa07077a96811c4a2288bc10c807a2a561517979fd2f52d"
+    },
+    {
+      "pdfPage": 286,
+      "bookPage": 272,
+      "src": "assets/pages/286.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 194882,
+      "sha256": "5ffdc9b9a16865e6c05166773ff6e2cf434dd9d2d6a027376753373a856a345a"
+    },
+    {
+      "pdfPage": 287,
+      "bookPage": 273,
+      "src": "assets/pages/287.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 134085,
+      "sha256": "9faac1cb846aaee6f2ed7a86b6c88e0cb99c5fad98a702101a18a88835a77f1c"
+    },
+    {
+      "pdfPage": 288,
+      "bookPage": 274,
+      "src": "assets/pages/288.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 197770,
+      "sha256": "0bdc7a79fffe55ce06f32f9fdae26027bd59882e5c2f017311f50c75c36970b2"
+    },
+    {
+      "pdfPage": 289,
+      "bookPage": 275,
+      "src": "assets/pages/289.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 119309,
+      "sha256": "c7d879ca3d8553d466f51a48e21a59d14ef544d85dc89c9c940e474c34d74a79"
+    },
+    {
+      "pdfPage": 290,
+      "bookPage": 276,
+      "src": "assets/pages/290.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 166729,
+      "sha256": "9fa48e8b443d9ac81688c3028f6218ed170b8a04e2983598c554a97c073b640c"
+    },
+    {
+      "pdfPage": 291,
+      "bookPage": 277,
+      "src": "assets/pages/291.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 160294,
+      "sha256": "5bd1e52a4a112b2f0648e3696c8d376202bc57dec6595cc8c294258ee36f8f71"
+    },
+    {
+      "pdfPage": 292,
+      "bookPage": 278,
+      "src": "assets/pages/292.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 161543,
+      "sha256": "eb9397d9de4aa64de7ac4ca270e5f51d352ff28cbc4601131d50e99925c92664"
+    },
+    {
+      "pdfPage": 293,
+      "bookPage": 279,
+      "src": "assets/pages/293.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 152390,
+      "sha256": "09e2ee5a3838feb3173b57b3e7f7856ddb0c8088067fdcff6d1c4223e11f020f"
+    },
+    {
+      "pdfPage": 294,
+      "bookPage": 280,
+      "src": "assets/pages/294.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 165544,
+      "sha256": "901e03003c5d543f53ce3735b98e43f6a649ac2e80a12e1a5eaf78317d8a4117"
+    },
+    {
+      "pdfPage": 295,
+      "bookPage": 281,
+      "src": "assets/pages/295.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 165270,
+      "sha256": "06cb5038b47ac325f508b5ae5cd1d375c89da6059e881ee3a8fe277c7d713336"
+    },
+    {
+      "pdfPage": 296,
+      "bookPage": 282,
+      "src": "assets/pages/296.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 199510,
+      "sha256": "be15d6eac0a45fe2ff04df7458c63a0fe8d86578bd8fceef7a7972f1294f9a8e"
+    },
+    {
+      "pdfPage": 297,
+      "bookPage": 283,
+      "src": "assets/pages/297.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 152845,
+      "sha256": "7611613ed69ddf38e6a723175414de97f32db3c1f95cf398140899b29e538133"
+    },
+    {
+      "pdfPage": 298,
+      "bookPage": 284,
+      "src": "assets/pages/298.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 167367,
+      "sha256": "cc3f3e90c8cc21a62063a826fdeb86fd11fb66f530c080f825cf9f899aa042cf"
+    },
+    {
+      "pdfPage": 299,
+      "bookPage": 285,
+      "src": "assets/pages/299.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 162625,
+      "sha256": "bac1f66eed61fca3215dccbfb77c47d12dec9fa62b603fe6f7ec9a4f3619ee17"
+    },
+    {
+      "pdfPage": 300,
+      "bookPage": 286,
+      "src": "assets/pages/300.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 139814,
+      "sha256": "02b1288035d740d41199f22559bec0aa8bd0291ef42d532caeda67ab6a984d50"
+    },
+    {
+      "pdfPage": 301,
+      "bookPage": 287,
+      "src": "assets/pages/301.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 145641,
+      "sha256": "040a43007a89f4df115703c18cbf4080379e63836783399e193a5cdaa85476d8"
+    },
+    {
+      "pdfPage": 302,
+      "bookPage": 288,
+      "src": "assets/pages/302.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 206967,
+      "sha256": "377f3943171d193465a6e176a8dd24e0004b7c79d8e6bd3fa7b26817941c1222"
+    },
+    {
+      "pdfPage": 303,
+      "bookPage": 289,
+      "src": "assets/pages/303.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 148186,
+      "sha256": "17d786bdd270ffdc689c363f4d7ed5983badf3719fc8fb3740eab9c6b3fa89d6"
+    },
+    {
+      "pdfPage": 304,
+      "bookPage": 290,
+      "src": "assets/pages/304.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 140973,
+      "sha256": "2a9bef5ff90e1e8d9dbd547a993359e484e5278035109e0fc14689c46fdcc8a2"
+    },
+    {
+      "pdfPage": 305,
+      "bookPage": 291,
+      "src": "assets/pages/305.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 197558,
+      "sha256": "7e0ef9f31b776801b49da35bc859f0f2d64c058f3f6252756905e96b23201a91"
+    },
+    {
+      "pdfPage": 306,
+      "bookPage": 292,
+      "src": "assets/pages/306.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 124709,
+      "sha256": "5720046025d4e9fd63a0fd7e85d864d9ed87f720d9ad58fb83faf41a1bee20ae"
+    },
+    {
+      "pdfPage": 307,
+      "bookPage": 293,
+      "src": "assets/pages/307.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 179019,
+      "sha256": "13026c2a455319a093da6cf39f877616093cf55475c87a86abfb18632e76c190"
+    },
+    {
+      "pdfPage": 308,
+      "bookPage": 294,
+      "src": "assets/pages/308.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 123236,
+      "sha256": "2722f7465eefc50f1656f80cf2890946bde4332a260d1e21290c2fc91b872f9f"
+    },
+    {
+      "pdfPage": 309,
+      "bookPage": 295,
+      "src": "assets/pages/309.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 191222,
+      "sha256": "2c220c461b34864a966ed497476a80f29fb2dad71671bea0fb0f78b9c7eee187"
+    },
+    {
+      "pdfPage": 310,
+      "bookPage": 296,
+      "src": "assets/pages/310.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 92067,
+      "sha256": "c2dfb756d1ea537e39cb25b0d4c1ef09caad154e32a84b60859809a925e68f2d"
+    },
+    {
+      "pdfPage": 311,
+      "bookPage": 297,
+      "src": "assets/pages/311.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 180682,
+      "sha256": "0d55012d08a7696763daaad40ef0d767c895c77c55fcec92a8dd43fd8bc32138"
+    },
+    {
+      "pdfPage": 312,
+      "bookPage": 298,
+      "src": "assets/pages/312.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 175368,
+      "sha256": "813cd2bd5944be64aebe0c661f6c74598bae6e76e2a8180d97f7f899c9650b93"
+    },
+    {
+      "pdfPage": 313,
+      "bookPage": 299,
+      "src": "assets/pages/313.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 155152,
+      "sha256": "fcfb4eb23012b9bd7fbbcd57dbb9adfb3ea967df20446a20b7e1f12b6cef1bc6"
+    },
+    {
+      "pdfPage": 314,
+      "bookPage": 300,
+      "src": "assets/pages/314.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 160872,
+      "sha256": "c96107314f9a622eb522d01e5e566403348d03b284fff2999aebf749d9add59b"
+    },
+    {
+      "pdfPage": 315,
+      "bookPage": 301,
+      "src": "assets/pages/315.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 165778,
+      "sha256": "ce0eb1b7df4b02bfd4dbf2c4cb0624a287ce59b8ebe02205668c1d9a0a5ccbc9"
+    },
+    {
+      "pdfPage": 316,
+      "bookPage": 302,
+      "src": "assets/pages/316.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 150447,
+      "sha256": "bf25b94c9692683fa706354cceef8e962d0dd2e8b61c81ac1e8b667e3c1cc2c6"
+    },
+    {
+      "pdfPage": 317,
+      "bookPage": 303,
+      "src": "assets/pages/317.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 131853,
+      "sha256": "a9f1e29e6106b2ec394b3167c5e94f5bd18ad924f825b9321559156cb99e3b7f"
+    },
+    {
+      "pdfPage": 318,
+      "bookPage": 304,
+      "src": "assets/pages/318.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 192886,
+      "sha256": "41f1785f57db98d67740e179d7fda9cfc4f987125aaf0f610aa0a46b2e724978"
+    },
+    {
+      "pdfPage": 319,
+      "bookPage": 305,
+      "src": "assets/pages/319.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 185045,
+      "sha256": "da2dbcc8b08b6d11a3fae8d4d5d2213ae9d501076e8192886f4b9367c6c985df"
+    },
+    {
+      "pdfPage": 320,
+      "bookPage": 306,
+      "src": "assets/pages/320.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 139195,
+      "sha256": "e833eacd6e8c0430875228914a7ba135b0577cd5fac43ab04415b06fc6c7eab7"
+    },
+    {
+      "pdfPage": 321,
+      "bookPage": 307,
+      "src": "assets/pages/321.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 142132,
+      "sha256": "fb8e6d31b4110bd0d42691ab7d0c42b397abd88fe204f7d5b235d94bf3824eeb"
+    },
+    {
+      "pdfPage": 322,
+      "bookPage": 308,
+      "src": "assets/pages/322.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 114830,
+      "sha256": "46762e9bcc490f6408d35bbf42e7939eebab324cf78c6b39195c67b66f6fe15f"
+    },
+    {
+      "pdfPage": 323,
+      "bookPage": 309,
+      "src": "assets/pages/323.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 103924,
+      "sha256": "8e9c459e7c03f643bbed1e8a13bac7150ffe15387ac9f481e8b9ba9c6f0b0320"
+    },
+    {
+      "pdfPage": 324,
+      "bookPage": 310,
+      "src": "assets/pages/324.jpg",
+      "width": 1992,
+      "height": 2752,
+      "bytes": 120898,
+      "sha256": "69c38df23d2566c56dbf299f641aa1354f3a8fb178ac538c52d01677b4f22399"
+    },
+    {
+      "pdfPage": 325,
+      "bookPage": null,
+      "src": "assets/pages/325.jpg",
+      "width": 2128,
+      "height": 2784,
+      "bytes": 143435,
+      "sha256": "dc2367c1c8ee4dccb5d261aa91d870c12d20383ab7e2558a6bae418b12a7037e"
+    }
+  ],
+  "previousAssets": {
+    "checked": 325,
+    "missing": [],
+    "wrongOrder": [],
+    "reducedResolutionPages": 323,
+    "reencodedPages": 325,
+    "pages": [
+      {
+        "pdfPage": 1,
+        "dimensions": [
+          1190,
+          1557
+        ],
+        "nativeDimensions": [
+          2128,
+          2784
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.1388,
+        "closestSourcePage": 1
+      },
+      {
+        "pdfPage": 2,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.0728,
+        "closestSourcePage": 2
+      },
+      {
+        "pdfPage": 3,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.169,
+        "closestSourcePage": 3
+      },
+      {
+        "pdfPage": 4,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.0329,
+        "closestSourcePage": 4
+      },
+      {
+        "pdfPage": 5,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.1968,
+        "closestSourcePage": 5
+      },
+      {
+        "pdfPage": 6,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.0593,
+        "closestSourcePage": 6
+      },
+      {
+        "pdfPage": 7,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2546,
+        "closestSourcePage": 7
+      },
+      {
+        "pdfPage": 8,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2284,
+        "closestSourcePage": 8
+      },
+      {
+        "pdfPage": 9,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.1076,
+        "closestSourcePage": 9
+      },
+      {
+        "pdfPage": 10,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.1354,
+        "closestSourcePage": 10
+      },
+      {
+        "pdfPage": 11,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.206,
+        "closestSourcePage": 11
+      },
+      {
+        "pdfPage": 12,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2081,
+        "closestSourcePage": 12
+      },
+      {
+        "pdfPage": 13,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2052,
+        "closestSourcePage": 13
+      },
+      {
+        "pdfPage": 14,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.0448,
+        "closestSourcePage": 14
+      },
+      {
+        "pdfPage": 15,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.1828,
+        "closestSourcePage": 15
+      },
+      {
+        "pdfPage": 16,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.3057,
+        "closestSourcePage": 16
+      },
+      {
+        "pdfPage": 17,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.3082,
+        "closestSourcePage": 17
+      },
+      {
+        "pdfPage": 18,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2056,
+        "closestSourcePage": 18
+      },
+      {
+        "pdfPage": 19,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2556,
+        "closestSourcePage": 19
+      },
+      {
+        "pdfPage": 20,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2626,
+        "closestSourcePage": 20
+      },
+      {
+        "pdfPage": 21,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.1109,
+        "closestSourcePage": 21
+      },
+      {
+        "pdfPage": 22,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.1839,
+        "closestSourcePage": 22
+      },
+      {
+        "pdfPage": 23,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2311,
+        "closestSourcePage": 23
+      },
+      {
+        "pdfPage": 24,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2224,
+        "closestSourcePage": 24
+      },
+      {
+        "pdfPage": 25,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2135,
+        "closestSourcePage": 25
+      },
+      {
+        "pdfPage": 26,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2013,
+        "closestSourcePage": 26
+      },
+      {
+        "pdfPage": 27,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2129,
+        "closestSourcePage": 27
+      },
+      {
+        "pdfPage": 28,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2256,
+        "closestSourcePage": 28
+      },
+      {
+        "pdfPage": 29,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.1998,
+        "closestSourcePage": 29
+      },
+      {
+        "pdfPage": 30,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2715,
+        "closestSourcePage": 30
+      },
+      {
+        "pdfPage": 31,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.21,
+        "closestSourcePage": 31
+      },
+      {
+        "pdfPage": 32,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.1941,
+        "closestSourcePage": 32
+      },
+      {
+        "pdfPage": 33,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.246,
+        "closestSourcePage": 33
+      },
+      {
+        "pdfPage": 34,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2349,
+        "closestSourcePage": 34
+      },
+      {
+        "pdfPage": 35,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.1636,
+        "closestSourcePage": 35
+      },
+      {
+        "pdfPage": 36,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2674,
+        "closestSourcePage": 36
+      },
+      {
+        "pdfPage": 37,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2454,
+        "closestSourcePage": 37
+      },
+      {
+        "pdfPage": 38,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2135,
+        "closestSourcePage": 38
+      },
+      {
+        "pdfPage": 39,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2363,
+        "closestSourcePage": 39
+      },
+      {
+        "pdfPage": 40,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2437,
+        "closestSourcePage": 40
+      },
+      {
+        "pdfPage": 41,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2813,
+        "closestSourcePage": 41
+      },
+      {
+        "pdfPage": 42,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2418,
+        "closestSourcePage": 42
+      },
+      {
+        "pdfPage": 43,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2902,
+        "closestSourcePage": 43
+      },
+      {
+        "pdfPage": 44,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2967,
+        "closestSourcePage": 44
+      },
+      {
+        "pdfPage": 45,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2961,
+        "closestSourcePage": 45
+      },
+      {
+        "pdfPage": 46,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2694,
+        "closestSourcePage": 46
+      },
+      {
+        "pdfPage": 47,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2662,
+        "closestSourcePage": 47
+      },
+      {
+        "pdfPage": 48,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.3205,
+        "closestSourcePage": 48
+      },
+      {
+        "pdfPage": 49,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2847,
+        "closestSourcePage": 49
+      },
+      {
+        "pdfPage": 50,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2749,
+        "closestSourcePage": 50
+      },
+      {
+        "pdfPage": 51,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2877,
+        "closestSourcePage": 51
+      },
+      {
+        "pdfPage": 52,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.255,
+        "closestSourcePage": 52
+      },
+      {
+        "pdfPage": 53,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.3061,
+        "closestSourcePage": 53
+      },
+      {
+        "pdfPage": 54,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2517,
+        "closestSourcePage": 54
+      },
+      {
+        "pdfPage": 55,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2118,
+        "closestSourcePage": 55
+      },
+      {
+        "pdfPage": 56,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.204,
+        "closestSourcePage": 56
+      },
+      {
+        "pdfPage": 57,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2013,
+        "closestSourcePage": 57
+      },
+      {
+        "pdfPage": 58,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2954,
+        "closestSourcePage": 58
+      },
+      {
+        "pdfPage": 59,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.3114,
+        "closestSourcePage": 59
+      },
+      {
+        "pdfPage": 60,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.3105,
+        "closestSourcePage": 60
+      },
+      {
+        "pdfPage": 61,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2612,
+        "closestSourcePage": 61
+      },
+      {
+        "pdfPage": 62,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.3369,
+        "closestSourcePage": 62
+      },
+      {
+        "pdfPage": 63,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.3009,
+        "closestSourcePage": 63
+      },
+      {
+        "pdfPage": 64,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.3238,
+        "closestSourcePage": 64
+      },
+      {
+        "pdfPage": 65,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.0614,
+        "closestSourcePage": 65
+      },
+      {
+        "pdfPage": 66,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.1752,
+        "closestSourcePage": 66
+      },
+      {
+        "pdfPage": 67,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.346,
+        "closestSourcePage": 67
+      },
+      {
+        "pdfPage": 68,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2743,
+        "closestSourcePage": 68
+      },
+      {
+        "pdfPage": 69,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.1918,
+        "closestSourcePage": 69
+      },
+      {
+        "pdfPage": 70,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2436,
+        "closestSourcePage": 70
+      },
+      {
+        "pdfPage": 71,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2314,
+        "closestSourcePage": 71
+      },
+      {
+        "pdfPage": 72,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2547,
+        "closestSourcePage": 72
+      },
+      {
+        "pdfPage": 73,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.1867,
+        "closestSourcePage": 73
+      },
+      {
+        "pdfPage": 74,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.1473,
+        "closestSourcePage": 74
+      },
+      {
+        "pdfPage": 75,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2389,
+        "closestSourcePage": 75
+      },
+      {
+        "pdfPage": 76,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.3608,
+        "closestSourcePage": 76
+      },
+      {
+        "pdfPage": 77,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2698,
+        "closestSourcePage": 77
+      },
+      {
+        "pdfPage": 78,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2759,
+        "closestSourcePage": 78
+      },
+      {
+        "pdfPage": 79,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2084,
+        "closestSourcePage": 79
+      },
+      {
+        "pdfPage": 80,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.1436,
+        "closestSourcePage": 80
+      },
+      {
+        "pdfPage": 81,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.1493,
+        "closestSourcePage": 81
+      },
+      {
+        "pdfPage": 82,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.1629,
+        "closestSourcePage": 82
+      },
+      {
+        "pdfPage": 83,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2013,
+        "closestSourcePage": 83
+      },
+      {
+        "pdfPage": 84,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2485,
+        "closestSourcePage": 84
+      },
+      {
+        "pdfPage": 85,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.1877,
+        "closestSourcePage": 85
+      },
+      {
+        "pdfPage": 86,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2926,
+        "closestSourcePage": 86
+      },
+      {
+        "pdfPage": 87,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2507,
+        "closestSourcePage": 87
+      },
+      {
+        "pdfPage": 88,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2382,
+        "closestSourcePage": 88
+      },
+      {
+        "pdfPage": 89,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.3032,
+        "closestSourcePage": 89
+      },
+      {
+        "pdfPage": 90,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2117,
+        "closestSourcePage": 90
+      },
+      {
+        "pdfPage": 91,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.1483,
+        "closestSourcePage": 91
+      },
+      {
+        "pdfPage": 92,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.1755,
+        "closestSourcePage": 92
+      },
+      {
+        "pdfPage": 93,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.1997,
+        "closestSourcePage": 93
+      },
+      {
+        "pdfPage": 94,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.1524,
+        "closestSourcePage": 94
+      },
+      {
+        "pdfPage": 95,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.1656,
+        "closestSourcePage": 95
+      },
+      {
+        "pdfPage": 96,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.1696,
+        "closestSourcePage": 96
+      },
+      {
+        "pdfPage": 97,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.3793,
+        "closestSourcePage": 97
+      },
+      {
+        "pdfPage": 98,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2752,
+        "closestSourcePage": 98
+      },
+      {
+        "pdfPage": 99,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.3155,
+        "closestSourcePage": 99
+      },
+      {
+        "pdfPage": 100,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2579,
+        "closestSourcePage": 100
+      },
+      {
+        "pdfPage": 101,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2158,
+        "closestSourcePage": 101
+      },
+      {
+        "pdfPage": 102,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2358,
+        "closestSourcePage": 102
+      },
+      {
+        "pdfPage": 103,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.225,
+        "closestSourcePage": 103
+      },
+      {
+        "pdfPage": 104,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2623,
+        "closestSourcePage": 104
+      },
+      {
+        "pdfPage": 105,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2148,
+        "closestSourcePage": 105
+      },
+      {
+        "pdfPage": 106,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.1977,
+        "closestSourcePage": 106
+      },
+      {
+        "pdfPage": 107,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2098,
+        "closestSourcePage": 107
+      },
+      {
+        "pdfPage": 108,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2716,
+        "closestSourcePage": 108
+      },
+      {
+        "pdfPage": 109,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.1918,
+        "closestSourcePage": 109
+      },
+      {
+        "pdfPage": 110,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2667,
+        "closestSourcePage": 110
+      },
+      {
+        "pdfPage": 111,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2357,
+        "closestSourcePage": 111
+      },
+      {
+        "pdfPage": 112,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.1232,
+        "closestSourcePage": 112
+      },
+      {
+        "pdfPage": 113,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.1795,
+        "closestSourcePage": 113
+      },
+      {
+        "pdfPage": 114,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.1746,
+        "closestSourcePage": 114
+      },
+      {
+        "pdfPage": 115,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2877,
+        "closestSourcePage": 115
+      },
+      {
+        "pdfPage": 116,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2371,
+        "closestSourcePage": 116
+      },
+      {
+        "pdfPage": 117,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2539,
+        "closestSourcePage": 117
+      },
+      {
+        "pdfPage": 118,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2019,
+        "closestSourcePage": 118
+      },
+      {
+        "pdfPage": 119,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2697,
+        "closestSourcePage": 119
+      },
+      {
+        "pdfPage": 120,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2231,
+        "closestSourcePage": 120
+      },
+      {
+        "pdfPage": 121,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2325,
+        "closestSourcePage": 121
+      },
+      {
+        "pdfPage": 122,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2674,
+        "closestSourcePage": 122
+      },
+      {
+        "pdfPage": 123,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.3183,
+        "closestSourcePage": 123
+      },
+      {
+        "pdfPage": 124,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.176,
+        "closestSourcePage": 124
+      },
+      {
+        "pdfPage": 125,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2179,
+        "closestSourcePage": 125
+      },
+      {
+        "pdfPage": 126,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2576,
+        "closestSourcePage": 126
+      },
+      {
+        "pdfPage": 127,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.207,
+        "closestSourcePage": 127
+      },
+      {
+        "pdfPage": 128,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.3069,
+        "closestSourcePage": 128
+      },
+      {
+        "pdfPage": 129,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2631,
+        "closestSourcePage": 129
+      },
+      {
+        "pdfPage": 130,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2318,
+        "closestSourcePage": 130
+      },
+      {
+        "pdfPage": 131,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2791,
+        "closestSourcePage": 131
+      },
+      {
+        "pdfPage": 132,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2511,
+        "closestSourcePage": 132
+      },
+      {
+        "pdfPage": 133,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2778,
+        "closestSourcePage": 133
+      },
+      {
+        "pdfPage": 134,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2213,
+        "closestSourcePage": 134
+      },
+      {
+        "pdfPage": 135,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2555,
+        "closestSourcePage": 135
+      },
+      {
+        "pdfPage": 136,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2438,
+        "closestSourcePage": 136
+      },
+      {
+        "pdfPage": 137,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.209,
+        "closestSourcePage": 137
+      },
+      {
+        "pdfPage": 138,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.3277,
+        "closestSourcePage": 138
+      },
+      {
+        "pdfPage": 139,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.264,
+        "closestSourcePage": 139
+      },
+      {
+        "pdfPage": 140,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2501,
+        "closestSourcePage": 140
+      },
+      {
+        "pdfPage": 141,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2709,
+        "closestSourcePage": 141
+      },
+      {
+        "pdfPage": 142,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.3347,
+        "closestSourcePage": 142
+      },
+      {
+        "pdfPage": 143,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2957,
+        "closestSourcePage": 143
+      },
+      {
+        "pdfPage": 144,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2178,
+        "closestSourcePage": 144
+      },
+      {
+        "pdfPage": 145,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.3011,
+        "closestSourcePage": 145
+      },
+      {
+        "pdfPage": 146,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2371,
+        "closestSourcePage": 146
+      },
+      {
+        "pdfPage": 147,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2877,
+        "closestSourcePage": 147
+      },
+      {
+        "pdfPage": 148,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.297,
+        "closestSourcePage": 148
+      },
+      {
+        "pdfPage": 149,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2736,
+        "closestSourcePage": 149
+      },
+      {
+        "pdfPage": 150,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.3433,
+        "closestSourcePage": 150
+      },
+      {
+        "pdfPage": 151,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2603,
+        "closestSourcePage": 151
+      },
+      {
+        "pdfPage": 152,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.1942,
+        "closestSourcePage": 152
+      },
+      {
+        "pdfPage": 153,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2644,
+        "closestSourcePage": 153
+      },
+      {
+        "pdfPage": 154,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.3659,
+        "closestSourcePage": 154
+      },
+      {
+        "pdfPage": 155,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.295,
+        "closestSourcePage": 155
+      },
+      {
+        "pdfPage": 156,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2281,
+        "closestSourcePage": 156
+      },
+      {
+        "pdfPage": 157,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2078,
+        "closestSourcePage": 157
+      },
+      {
+        "pdfPage": 158,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.266,
+        "closestSourcePage": 158
+      },
+      {
+        "pdfPage": 159,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2919,
+        "closestSourcePage": 159
+      },
+      {
+        "pdfPage": 160,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2982,
+        "closestSourcePage": 160
+      },
+      {
+        "pdfPage": 161,
+        "dimensions": [
+          2380,
+          3289
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.0755,
+        "closestSourcePage": 161
+      },
+      {
+        "pdfPage": 162,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2734,
+        "closestSourcePage": 162
+      },
+      {
+        "pdfPage": 163,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2904,
+        "closestSourcePage": 163
+      },
+      {
+        "pdfPage": 164,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2611,
+        "closestSourcePage": 164
+      },
+      {
+        "pdfPage": 165,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.3035,
+        "closestSourcePage": 165
+      },
+      {
+        "pdfPage": 166,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.277,
+        "closestSourcePage": 166
+      },
+      {
+        "pdfPage": 167,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2209,
+        "closestSourcePage": 167
+      },
+      {
+        "pdfPage": 168,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2747,
+        "closestSourcePage": 168
+      },
+      {
+        "pdfPage": 169,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.1799,
+        "closestSourcePage": 169
+      },
+      {
+        "pdfPage": 170,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2367,
+        "closestSourcePage": 170
+      },
+      {
+        "pdfPage": 171,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2646,
+        "closestSourcePage": 171
+      },
+      {
+        "pdfPage": 172,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.1629,
+        "closestSourcePage": 172
+      },
+      {
+        "pdfPage": 173,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.1695,
+        "closestSourcePage": 173
+      },
+      {
+        "pdfPage": 174,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2205,
+        "closestSourcePage": 174
+      },
+      {
+        "pdfPage": 175,
+        "dimensions": [
+          2380,
+          3289
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.1544,
+        "closestSourcePage": 175
+      },
+      {
+        "pdfPage": 176,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2664,
+        "closestSourcePage": 176
+      },
+      {
+        "pdfPage": 177,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2499,
+        "closestSourcePage": 177
+      },
+      {
+        "pdfPage": 178,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2673,
+        "closestSourcePage": 178
+      },
+      {
+        "pdfPage": 179,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.3066,
+        "closestSourcePage": 179
+      },
+      {
+        "pdfPage": 180,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2453,
+        "closestSourcePage": 180
+      },
+      {
+        "pdfPage": 181,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.1951,
+        "closestSourcePage": 181
+      },
+      {
+        "pdfPage": 182,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.1856,
+        "closestSourcePage": 182
+      },
+      {
+        "pdfPage": 183,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.3211,
+        "closestSourcePage": 183
+      },
+      {
+        "pdfPage": 184,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2406,
+        "closestSourcePage": 184
+      },
+      {
+        "pdfPage": 185,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.3277,
+        "closestSourcePage": 185
+      },
+      {
+        "pdfPage": 186,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.3236,
+        "closestSourcePage": 186
+      },
+      {
+        "pdfPage": 187,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.3136,
+        "closestSourcePage": 187
+      },
+      {
+        "pdfPage": 188,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2711,
+        "closestSourcePage": 188
+      },
+      {
+        "pdfPage": 189,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2579,
+        "closestSourcePage": 189
+      },
+      {
+        "pdfPage": 190,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2692,
+        "closestSourcePage": 190
+      },
+      {
+        "pdfPage": 191,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2819,
+        "closestSourcePage": 191
+      },
+      {
+        "pdfPage": 192,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.3408,
+        "closestSourcePage": 192
+      },
+      {
+        "pdfPage": 193,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.3269,
+        "closestSourcePage": 193
+      },
+      {
+        "pdfPage": 194,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.1937,
+        "closestSourcePage": 194
+      },
+      {
+        "pdfPage": 195,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2087,
+        "closestSourcePage": 195
+      },
+      {
+        "pdfPage": 196,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2523,
+        "closestSourcePage": 196
+      },
+      {
+        "pdfPage": 197,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.3162,
+        "closestSourcePage": 197
+      },
+      {
+        "pdfPage": 198,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2349,
+        "closestSourcePage": 198
+      },
+      {
+        "pdfPage": 199,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.3035,
+        "closestSourcePage": 199
+      },
+      {
+        "pdfPage": 200,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2533,
+        "closestSourcePage": 200
+      },
+      {
+        "pdfPage": 201,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2442,
+        "closestSourcePage": 201
+      },
+      {
+        "pdfPage": 202,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2747,
+        "closestSourcePage": 202
+      },
+      {
+        "pdfPage": 203,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.3054,
+        "closestSourcePage": 203
+      },
+      {
+        "pdfPage": 204,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2909,
+        "closestSourcePage": 204
+      },
+      {
+        "pdfPage": 205,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.1597,
+        "closestSourcePage": 205
+      },
+      {
+        "pdfPage": 206,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2569,
+        "closestSourcePage": 206
+      },
+      {
+        "pdfPage": 207,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2933,
+        "closestSourcePage": 207
+      },
+      {
+        "pdfPage": 208,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.3497,
+        "closestSourcePage": 208
+      },
+      {
+        "pdfPage": 209,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.223,
+        "closestSourcePage": 209
+      },
+      {
+        "pdfPage": 210,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2469,
+        "closestSourcePage": 210
+      },
+      {
+        "pdfPage": 211,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.3339,
+        "closestSourcePage": 211
+      },
+      {
+        "pdfPage": 212,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.3085,
+        "closestSourcePage": 212
+      },
+      {
+        "pdfPage": 213,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2944,
+        "closestSourcePage": 213
+      },
+      {
+        "pdfPage": 214,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2744,
+        "closestSourcePage": 214
+      },
+      {
+        "pdfPage": 215,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2926,
+        "closestSourcePage": 215
+      },
+      {
+        "pdfPage": 216,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2877,
+        "closestSourcePage": 216
+      },
+      {
+        "pdfPage": 217,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.212,
+        "closestSourcePage": 217
+      },
+      {
+        "pdfPage": 218,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2705,
+        "closestSourcePage": 218
+      },
+      {
+        "pdfPage": 219,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.1942,
+        "closestSourcePage": 219
+      },
+      {
+        "pdfPage": 220,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2677,
+        "closestSourcePage": 220
+      },
+      {
+        "pdfPage": 221,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.182,
+        "closestSourcePage": 221
+      },
+      {
+        "pdfPage": 222,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2043,
+        "closestSourcePage": 222
+      },
+      {
+        "pdfPage": 223,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.1672,
+        "closestSourcePage": 223
+      },
+      {
+        "pdfPage": 224,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2639,
+        "closestSourcePage": 224
+      },
+      {
+        "pdfPage": 225,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.1847,
+        "closestSourcePage": 225
+      },
+      {
+        "pdfPage": 226,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2259,
+        "closestSourcePage": 226
+      },
+      {
+        "pdfPage": 227,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2472,
+        "closestSourcePage": 227
+      },
+      {
+        "pdfPage": 228,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2681,
+        "closestSourcePage": 228
+      },
+      {
+        "pdfPage": 229,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2873,
+        "closestSourcePage": 229
+      },
+      {
+        "pdfPage": 230,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.1739,
+        "closestSourcePage": 230
+      },
+      {
+        "pdfPage": 231,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2211,
+        "closestSourcePage": 231
+      },
+      {
+        "pdfPage": 232,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2074,
+        "closestSourcePage": 232
+      },
+      {
+        "pdfPage": 233,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2148,
+        "closestSourcePage": 233
+      },
+      {
+        "pdfPage": 234,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.1396,
+        "closestSourcePage": 234
+      },
+      {
+        "pdfPage": 235,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.226,
+        "closestSourcePage": 235
+      },
+      {
+        "pdfPage": 236,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.1742,
+        "closestSourcePage": 236
+      },
+      {
+        "pdfPage": 237,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.245,
+        "closestSourcePage": 237
+      },
+      {
+        "pdfPage": 238,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2229,
+        "closestSourcePage": 238
+      },
+      {
+        "pdfPage": 239,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2703,
+        "closestSourcePage": 239
+      },
+      {
+        "pdfPage": 240,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2546,
+        "closestSourcePage": 240
+      },
+      {
+        "pdfPage": 241,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.1986,
+        "closestSourcePage": 241
+      },
+      {
+        "pdfPage": 242,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2315,
+        "closestSourcePage": 242
+      },
+      {
+        "pdfPage": 243,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2418,
+        "closestSourcePage": 243
+      },
+      {
+        "pdfPage": 244,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.3048,
+        "closestSourcePage": 244
+      },
+      {
+        "pdfPage": 245,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2708,
+        "closestSourcePage": 245
+      },
+      {
+        "pdfPage": 246,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.3008,
+        "closestSourcePage": 246
+      },
+      {
+        "pdfPage": 247,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2529,
+        "closestSourcePage": 247
+      },
+      {
+        "pdfPage": 248,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2429,
+        "closestSourcePage": 248
+      },
+      {
+        "pdfPage": 249,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2965,
+        "closestSourcePage": 249
+      },
+      {
+        "pdfPage": 250,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.1177,
+        "closestSourcePage": 250
+      },
+      {
+        "pdfPage": 251,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.1596,
+        "closestSourcePage": 251
+      },
+      {
+        "pdfPage": 252,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.3231,
+        "closestSourcePage": 252
+      },
+      {
+        "pdfPage": 253,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2767,
+        "closestSourcePage": 253
+      },
+      {
+        "pdfPage": 254,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2068,
+        "closestSourcePage": 254
+      },
+      {
+        "pdfPage": 255,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2077,
+        "closestSourcePage": 255
+      },
+      {
+        "pdfPage": 256,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2171,
+        "closestSourcePage": 256
+      },
+      {
+        "pdfPage": 257,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2417,
+        "closestSourcePage": 257
+      },
+      {
+        "pdfPage": 258,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2656,
+        "closestSourcePage": 258
+      },
+      {
+        "pdfPage": 259,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2653,
+        "closestSourcePage": 259
+      },
+      {
+        "pdfPage": 260,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.3108,
+        "closestSourcePage": 260
+      },
+      {
+        "pdfPage": 261,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.3232,
+        "closestSourcePage": 261
+      },
+      {
+        "pdfPage": 262,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.3095,
+        "closestSourcePage": 262
+      },
+      {
+        "pdfPage": 263,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2657,
+        "closestSourcePage": 263
+      },
+      {
+        "pdfPage": 264,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2896,
+        "closestSourcePage": 264
+      },
+      {
+        "pdfPage": 265,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2944,
+        "closestSourcePage": 265
+      },
+      {
+        "pdfPage": 266,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2099,
+        "closestSourcePage": 266
+      },
+      {
+        "pdfPage": 267,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2054,
+        "closestSourcePage": 267
+      },
+      {
+        "pdfPage": 268,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2756,
+        "closestSourcePage": 268
+      },
+      {
+        "pdfPage": 269,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.252,
+        "closestSourcePage": 269
+      },
+      {
+        "pdfPage": 270,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.327,
+        "closestSourcePage": 270
+      },
+      {
+        "pdfPage": 271,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.312,
+        "closestSourcePage": 271
+      },
+      {
+        "pdfPage": 272,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2948,
+        "closestSourcePage": 272
+      },
+      {
+        "pdfPage": 273,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.3201,
+        "closestSourcePage": 273
+      },
+      {
+        "pdfPage": 274,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.3024,
+        "closestSourcePage": 274
+      },
+      {
+        "pdfPage": 275,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2715,
+        "closestSourcePage": 275
+      },
+      {
+        "pdfPage": 276,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2111,
+        "closestSourcePage": 276
+      },
+      {
+        "pdfPage": 277,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.21,
+        "closestSourcePage": 277
+      },
+      {
+        "pdfPage": 278,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.3261,
+        "closestSourcePage": 278
+      },
+      {
+        "pdfPage": 279,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2852,
+        "closestSourcePage": 279
+      },
+      {
+        "pdfPage": 280,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.241,
+        "closestSourcePage": 280
+      },
+      {
+        "pdfPage": 281,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.263,
+        "closestSourcePage": 281
+      },
+      {
+        "pdfPage": 282,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2754,
+        "closestSourcePage": 282
+      },
+      {
+        "pdfPage": 283,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.3434,
+        "closestSourcePage": 283
+      },
+      {
+        "pdfPage": 284,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2647,
+        "closestSourcePage": 284
+      },
+      {
+        "pdfPage": 285,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2462,
+        "closestSourcePage": 285
+      },
+      {
+        "pdfPage": 286,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2805,
+        "closestSourcePage": 286
+      },
+      {
+        "pdfPage": 287,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.193,
+        "closestSourcePage": 287
+      },
+      {
+        "pdfPage": 288,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2927,
+        "closestSourcePage": 288
+      },
+      {
+        "pdfPage": 289,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.167,
+        "closestSourcePage": 289
+      },
+      {
+        "pdfPage": 290,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2385,
+        "closestSourcePage": 290
+      },
+      {
+        "pdfPage": 291,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2256,
+        "closestSourcePage": 291
+      },
+      {
+        "pdfPage": 292,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2597,
+        "closestSourcePage": 292
+      },
+      {
+        "pdfPage": 293,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2397,
+        "closestSourcePage": 293
+      },
+      {
+        "pdfPage": 294,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2018,
+        "closestSourcePage": 294
+      },
+      {
+        "pdfPage": 295,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2449,
+        "closestSourcePage": 295
+      },
+      {
+        "pdfPage": 296,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2694,
+        "closestSourcePage": 296
+      },
+      {
+        "pdfPage": 297,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2317,
+        "closestSourcePage": 297
+      },
+      {
+        "pdfPage": 298,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2325,
+        "closestSourcePage": 298
+      },
+      {
+        "pdfPage": 299,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2587,
+        "closestSourcePage": 299
+      },
+      {
+        "pdfPage": 300,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.1932,
+        "closestSourcePage": 300
+      },
+      {
+        "pdfPage": 301,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2486,
+        "closestSourcePage": 301
+      },
+      {
+        "pdfPage": 302,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2859,
+        "closestSourcePage": 302
+      },
+      {
+        "pdfPage": 303,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2676,
+        "closestSourcePage": 303
+      },
+      {
+        "pdfPage": 304,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2304,
+        "closestSourcePage": 304
+      },
+      {
+        "pdfPage": 305,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.3205,
+        "closestSourcePage": 305
+      },
+      {
+        "pdfPage": 306,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2397,
+        "closestSourcePage": 306
+      },
+      {
+        "pdfPage": 307,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2778,
+        "closestSourcePage": 307
+      },
+      {
+        "pdfPage": 308,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2286,
+        "closestSourcePage": 308
+      },
+      {
+        "pdfPage": 309,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2789,
+        "closestSourcePage": 309
+      },
+      {
+        "pdfPage": 310,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.1185,
+        "closestSourcePage": 310
+      },
+      {
+        "pdfPage": 311,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2548,
+        "closestSourcePage": 311
+      },
+      {
+        "pdfPage": 312,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2776,
+        "closestSourcePage": 312
+      },
+      {
+        "pdfPage": 313,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2277,
+        "closestSourcePage": 313
+      },
+      {
+        "pdfPage": 314,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2251,
+        "closestSourcePage": 314
+      },
+      {
+        "pdfPage": 315,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2568,
+        "closestSourcePage": 315
+      },
+      {
+        "pdfPage": 316,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2135,
+        "closestSourcePage": 316
+      },
+      {
+        "pdfPage": 317,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.1817,
+        "closestSourcePage": 317
+      },
+      {
+        "pdfPage": 318,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2998,
+        "closestSourcePage": 318
+      },
+      {
+        "pdfPage": 319,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.3171,
+        "closestSourcePage": 319
+      },
+      {
+        "pdfPage": 320,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.3003,
+        "closestSourcePage": 320
+      },
+      {
+        "pdfPage": 321,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.2201,
+        "closestSourcePage": 321
+      },
+      {
+        "pdfPage": 322,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.152,
+        "closestSourcePage": 322
+      },
+      {
+        "pdfPage": 323,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.127,
+        "closestSourcePage": 323
+      },
+      {
+        "pdfPage": 324,
+        "dimensions": [
+          1190,
+          1645
+        ],
+        "nativeDimensions": [
+          1992,
+          2752
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.1313,
+        "closestSourcePage": 324
+      },
+      {
+        "pdfPage": 325,
+        "dimensions": [
+          1190,
+          1557
+        ],
+        "nativeDimensions": [
+          2128,
+          2784
+        ],
+        "thumbnailMeanAbsoluteDifference": 0.1304,
+        "closestSourcePage": 325
+      }
+    ]
+  }
+}

@@ -1,0 +1,106 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 875" role="img" aria-labelledby="title desc">
+<title id="title">七种网络拓扑：观察节点与连接关系</title><desc id="desc">根据原书图7-1重绘。环、部分网状、树、星、全连通、线和总线。重绘说明连接结构，不表示协议、容量或切换保障。</desc>
+<rect width="1080" height="875" fill="#f7f6f0"/>
+<style>text{font-family:Arial,"Microsoft YaHei",sans-serif;fill:#243c32}.title{font-size:21px;font-weight:700}.name{font-size:19px;font-weight:700}.note{font-size:15px;fill:#52645b}.edge{stroke:#647f70;stroke-width:3;fill:none}.node{fill:#243f32;stroke:#f7f6f0;stroke-width:2}</style>
+<text x="30" y="38" class="title">先读连接，再判断故障影响</text><text x="30" y="66" class="note">原书图 7-1 的结构重绘 · 线表示连接，不自动证明切换成功或带宽足够</text>
+<g transform="translate(25 95)"><rect width="330" height="245" rx="12" fill="#fff" stroke="#d3dcd2"/><text x="20" y="30" class="name">环形</text><g transform="translate(30 40)">
+<line class="edge" x1="194.00" y1="88.00" x2="162.00" y2="143.43"/>
+<line class="edge" x1="162.00" y1="143.43" x2="98.00" y2="143.43"/>
+<line class="edge" x1="98.00" y1="143.43" x2="66.00" y2="88.00"/>
+<line class="edge" x1="66.00" y1="88.00" x2="98.00" y2="32.57"/>
+<line class="edge" x1="98.00" y1="32.57" x2="162.00" y2="32.57"/>
+<line class="edge" x1="162.00" y1="32.57" x2="194.00" y2="88.00"/>
+<circle class="node" cx="194.00" cy="88.00" r="10"/>
+<circle class="node" cx="162.00" cy="143.43" r="10"/>
+<circle class="node" cx="98.00" cy="143.43" r="10"/>
+<circle class="node" cx="66.00" cy="88.00" r="10"/>
+<circle class="node" cx="98.00" cy="32.57" r="10"/>
+<circle class="node" cx="162.00" cy="32.57" r="10"/>
+</g><text x="18" y="225" class="note">任一连接断开后，环成为一条链。</text></g>
+<g transform="translate(375 95)"><rect width="330" height="245" rx="12" fill="#fff" stroke="#d3dcd2"/><text x="20" y="30" class="name">部分网状</text><g transform="translate(30 40)">
+<line class="edge" x1="50.00" y1="30.00" x2="115.00" y2="30.00"/>
+<line class="edge" x1="50.00" y1="30.00" x2="50.00" y2="95.00"/>
+<line class="edge" x1="50.00" y1="30.00" x2="170.00" y2="145.00"/>
+<line class="edge" x1="115.00" y1="30.00" x2="170.00" y2="95.00"/>
+<line class="edge" x1="50.00" y1="95.00" x2="170.00" y2="145.00"/>
+<line class="edge" x1="170.00" y1="95.00" x2="170.00" y2="145.00"/>
+<line class="edge" x1="170.00" y1="145.00" x2="235.00" y2="145.00"/>
+<circle class="node" cx="50.00" cy="30.00" r="10"/>
+<circle class="node" cx="115.00" cy="30.00" r="10"/>
+<circle class="node" cx="50.00" cy="95.00" r="10"/>
+<circle class="node" cx="170.00" cy="95.00" r="10"/>
+<circle class="node" cx="170.00" cy="145.00" r="10"/>
+<circle class="node" cx="235.00" cy="145.00" r="10"/>
+</g><text x="18" y="225" class="note">有多条连接，不保证每个节点都冗余。</text></g>
+<g transform="translate(725 95)"><rect width="330" height="245" rx="12" fill="#fff" stroke="#d3dcd2"/><text x="20" y="30" class="name">树形</text><g transform="translate(30 40)">
+<line class="edge" x1="135.00" y1="145.00" x2="75.00" y2="95.00"/>
+<line class="edge" x1="135.00" y1="145.00" x2="190.00" y2="95.00"/>
+<line class="edge" x1="75.00" y1="95.00" x2="30.00" y2="38.00"/>
+<line class="edge" x1="75.00" y1="95.00" x2="110.00" y2="38.00"/>
+<line class="edge" x1="190.00" y1="95.00" x2="235.00" y2="38.00"/>
+<circle class="node" cx="135.00" cy="145.00" r="10"/>
+<circle class="node" cx="75.00" cy="95.00" r="10"/>
+<circle class="node" cx="190.00" cy="95.00" r="10"/>
+<circle class="node" cx="30.00" cy="38.00" r="10"/>
+<circle class="node" cx="110.00" cy="38.00" r="10"/>
+<circle class="node" cx="235.00" cy="38.00" r="10"/>
+</g><text x="18" y="225" class="note">分支节点退出，会切断它连接的支路。</text></g>
+<g transform="translate(25 355)"><rect width="330" height="245" rx="12" fill="#fff" stroke="#d3dcd2"/><text x="20" y="30" class="name">星形</text><g transform="translate(30 40)">
+<line class="edge" x1="135.00" y1="90.00" x2="205.00" y2="90.00"/>
+<line class="edge" x1="135.00" y1="90.00" x2="170.00" y2="150.62"/>
+<line class="edge" x1="135.00" y1="90.00" x2="100.00" y2="150.62"/>
+<line class="edge" x1="135.00" y1="90.00" x2="65.00" y2="90.00"/>
+<line class="edge" x1="135.00" y1="90.00" x2="100.00" y2="29.38"/>
+<line class="edge" x1="135.00" y1="90.00" x2="170.00" y2="29.38"/>
+<circle class="node" cx="135.00" cy="90.00" r="10"/>
+<circle class="node" cx="205.00" cy="90.00" r="10"/>
+<circle class="node" cx="170.00" cy="150.62" r="10"/>
+<circle class="node" cx="100.00" cy="150.62" r="10"/>
+<circle class="node" cx="65.00" cy="90.00" r="10"/>
+<circle class="node" cx="100.00" cy="29.38" r="10"/>
+<circle class="node" cx="170.00" cy="29.38" r="10"/>
+</g><text x="18" y="225" class="note">外部连接分开，中心仍是共同节点。</text></g>
+<g transform="translate(375 355)"><rect width="330" height="245" rx="12" fill="#fff" stroke="#d3dcd2"/><text x="20" y="30" class="name">全连通网状</text><g transform="translate(30 40)">
+<line class="edge" x1="194.00" y1="88.00" x2="162.00" y2="143.43"/>
+<line class="edge" x1="194.00" y1="88.00" x2="98.00" y2="143.43"/>
+<line class="edge" x1="194.00" y1="88.00" x2="66.00" y2="88.00"/>
+<line class="edge" x1="194.00" y1="88.00" x2="98.00" y2="32.57"/>
+<line class="edge" x1="194.00" y1="88.00" x2="162.00" y2="32.57"/>
+<line class="edge" x1="162.00" y1="143.43" x2="98.00" y2="143.43"/>
+<line class="edge" x1="162.00" y1="143.43" x2="66.00" y2="88.00"/>
+<line class="edge" x1="162.00" y1="143.43" x2="98.00" y2="32.57"/>
+<line class="edge" x1="162.00" y1="143.43" x2="162.00" y2="32.57"/>
+<line class="edge" x1="98.00" y1="143.43" x2="66.00" y2="88.00"/>
+<line class="edge" x1="98.00" y1="143.43" x2="98.00" y2="32.57"/>
+<line class="edge" x1="98.00" y1="143.43" x2="162.00" y2="32.57"/>
+<line class="edge" x1="66.00" y1="88.00" x2="98.00" y2="32.57"/>
+<line class="edge" x1="66.00" y1="88.00" x2="162.00" y2="32.57"/>
+<line class="edge" x1="98.00" y1="32.57" x2="162.00" y2="32.57"/>
+<circle class="node" cx="194.00" cy="88.00" r="10"/>
+<circle class="node" cx="162.00" cy="143.43" r="10"/>
+<circle class="node" cx="98.00" cy="143.43" r="10"/>
+<circle class="node" cx="66.00" cy="88.00" r="10"/>
+<circle class="node" cx="98.00" cy="32.57" r="10"/>
+<circle class="node" cx="162.00" cy="32.57" r="10"/>
+</g><text x="18" y="225" class="note">任意两个节点之间都有直接连接。</text></g>
+<g transform="translate(725 355)"><rect width="330" height="245" rx="12" fill="#fff" stroke="#d3dcd2"/><text x="20" y="30" class="name">线形</text><g transform="translate(30 40)">
+<line class="edge" x1="22.00" y1="90.00" x2="66.00" y2="90.00"/>
+<line class="edge" x1="66.00" y1="90.00" x2="110.00" y2="90.00"/>
+<line class="edge" x1="110.00" y1="90.00" x2="154.00" y2="90.00"/>
+<line class="edge" x1="154.00" y1="90.00" x2="198.00" y2="90.00"/>
+<line class="edge" x1="198.00" y1="90.00" x2="242.00" y2="90.00"/>
+<circle class="node" cx="22.00" cy="90.00" r="10"/>
+<circle class="node" cx="66.00" cy="90.00" r="10"/>
+<circle class="node" cx="110.00" cy="90.00" r="10"/>
+<circle class="node" cx="154.00" cy="90.00" r="10"/>
+<circle class="node" cx="198.00" cy="90.00" r="10"/>
+<circle class="node" cx="242.00" cy="90.00" r="10"/>
+</g><text x="18" y="225" class="note">中间连接断开，会把链分成两部分。</text></g>
+<g transform="translate(25 615)"><rect width="680" height="230" rx="12" fill="#fff" stroke="#d3dcd2"/><text x="20" y="32" class="name">总线形</text><path class="edge" d="M50 116H630"/>
+<path class="edge" d="M90 116V73"/><circle class="node" cx="90" cy="73" r="10"/>
+<path class="edge" d="M185 116V163"/><circle class="node" cx="185" cy="163" r="10"/>
+<path class="edge" d="M280 116V73"/><circle class="node" cx="280" cy="73" r="10"/>
+<path class="edge" d="M375 116V163"/><circle class="node" cx="375" cy="163" r="10"/>
+<path class="edge" d="M470 116V73"/><circle class="node" cx="470" cy="73" r="10"/>
+<path class="edge" d="M565 116V163"/><circle class="node" cx="565" cy="163" r="10"/>
+<text x="20" y="210" class="note">各节点共享同一主干；分支独立并不消除主干故障。</text></g><g transform="translate(725 615)"><rect width="330" height="230" rx="12" fill="#e8ede3"/><text x="20" y="34" class="name">读图时问三个问题</text><text x="20" y="78" class="note">1. 端点和互连设备分别在哪里？</text><text x="20" y="118" class="note">2. 删除哪条边会使路径断开？</text><text x="20" y="158" class="note">3. 图没有给出哪些运行条件？</text><text x="20" y="203" class="note">连通性 ≠ 容量、协议或自动接替</text></g></svg>
